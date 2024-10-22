@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_No Roles, yet.Add new Role by clicking _75a552</name>
+   <tag></tag>
+   <elementGuidId>737a855b-8db3-4e49-867c-aff4ebf16699</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='k-tabstrip-tabpanel-0']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.role-content.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b1f04e7-4bda-42be-8a51-cd381ee04b34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>role-content ng-star-inserted</value>
+      <webElementGuid>53344c6a-6d49-457b-bb1b-faba4a162d35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Roles, yet.Add new Role by clicking Add new role button Add new role </value>
+      <webElementGuid>2156a996-b97e-4749-b84f-4ee30748ea59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-tabstrip-tabpanel-0&quot;)/div[@class=&quot;role-content ng-star-inserted&quot;]</value>
+      <webElementGuid>13a98e33-af92-46e2-a11a-d46ab146a6ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='k-tabstrip-tabpanel-0']/div[2]</value>
+      <webElementGuid>ce6569ac-eff8-4be2-9603-dc0e65dd114a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Milestone Module'])[1]/following::div[4]</value>
+      <webElementGuid>873d3397-ec03-4db9-a454-35c425251211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Execution Module'])[1]/following::div[4]</value>
+      <webElementGuid>12d43509-3427-4c8c-842f-df154f017a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-tabstrip/div[2]/div[2]</value>
+      <webElementGuid>5da39cd4-7877-4caa-8bf7-e4be91cc0b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'No Roles, yet.Add new Role by clicking Add new role button Add new role ' or . = 'No Roles, yet.Add new Role by clicking Add new role button Add new role ')]</value>
+      <webElementGuid>dad8f399-1cb0-47d8-9094-68caa6a81cd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

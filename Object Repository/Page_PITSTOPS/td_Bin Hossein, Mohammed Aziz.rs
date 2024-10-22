@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Bin Hossein, Mohammed Aziz</name>
+   <tag></tag>
+   <elementGuidId>d9746faa-e344-4c5b-8ce2-c3e310175961</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user-listing']/div/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f223adb2-5346-4d75-b38d-b93ed29a53c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>5199b6df-1d9a-4e81-ba0b-eef828aa2af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-touch-action-auto ng-star-inserted</value>
+      <webElementGuid>e92fc02d-5a6b-425f-8e19-1d4d4e5bc0bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kendo-grid-column-index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>18537a90-80a3-40c5-ab91-6f955364239a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d7534bdf-36c8-4e96-969b-25173ff1e1b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-colindex</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>a731fecc-e86b-42b9-8d74-c48b3b39c859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bin Hossein, Mohammed Aziz</value>
+      <webElementGuid>ef2ccc0d-82a6-49bf-919d-3b4c6f6783c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user-listing&quot;)/div[1]/div[@class=&quot;container-body ng-star-inserted&quot;]/kendo-grid[@class=&quot;custom-grid k-widget k-grid&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;k-touch-action-auto ng-star-inserted&quot;]</value>
+      <webElementGuid>05b8bad4-712e-47ef-bab7-6bcb3b4a80ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user-listing']/div/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>b87b1412-1fca-47b5-a46e-e863ef04a3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MILESTONE MODULE'])[1]/following::td[2]</value>
+      <webElementGuid>c09c39f0-58d5-4ae2-b5a2-a56a3c54e931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PLANNING MODULE'])[1]/following::td[2]</value>
+      <webElementGuid>01f3c964-121d-425b-b68a-d4170caf749a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='updater3@pethlab.com'])[1]/preceding::td[1]</value>
+      <webElementGuid>6e37b74e-dbaa-4af1-8bc4-f69f67339125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtask Updater'])[1]/preceding::td[2]</value>
+      <webElementGuid>7132360b-4899-47af-8bd5-511f93ca0770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bin Hossein, Mohammed Aziz']/parent::*</value>
+      <webElementGuid>de021847-2860-457d-aac7-64980ede7494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>07cdf61a-49cd-4830-baed-2e35f4820467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Bin Hossein, Mohammed Aziz' or . = 'Bin Hossein, Mohammed Aziz')]</value>
+      <webElementGuid>c1513d2c-fcd3-4d2f-a8bb-48fb33c2aba1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

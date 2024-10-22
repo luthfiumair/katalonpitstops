@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Add new Role by clicking Add new role button</name>
+   <tag></tag>
+   <elementGuidId>f6b344aa-1536-4aa1-b861-4018f94aa74e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='k-tabstrip-tabpanel-0']/div[2]/label[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.role-detail-subtitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>837498e1-8475-45ce-a6cc-daf522d9fd30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>role-detail-subtitle</value>
+      <webElementGuid>4b35d328-9e23-4f71-bf88-0723b030e783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add new Role by clicking Add new role button</value>
+      <webElementGuid>726e0a46-8c80-4047-a4fb-e8aa24308557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-tabstrip-tabpanel-0&quot;)/div[@class=&quot;role-content ng-star-inserted&quot;]/label[@class=&quot;role-detail-subtitle&quot;]</value>
+      <webElementGuid>f7dbc2e7-16b9-4410-bbdb-f8628b53ffb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='k-tabstrip-tabpanel-0']/div[2]/label[2]</value>
+      <webElementGuid>c760df08-da77-42ad-94dd-bbf6a734b0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Roles, yet.'])[1]/following::label[1]</value>
+      <webElementGuid>03294afb-4a1c-4c85-b073-37685e9b53b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Milestone Module'])[1]/following::label[2]</value>
+      <webElementGuid>dee11b08-6b3b-44eb-a5d3-f6bb686c29cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add new role'])[1]/preceding::label[1]</value>
+      <webElementGuid>49c1d48e-1ace-46fe-8e99-2980217c8766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::label[1]</value>
+      <webElementGuid>52785041-7e3f-4814-af1a-e1ba2371eeda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add new Role by clicking Add new role button']/parent::*</value>
+      <webElementGuid>a5a9814d-f5cd-43c6-8a23-ce4c277fe2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]</value>
+      <webElementGuid>d39cde8d-0797-428f-829a-5066103afe72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Add new Role by clicking Add new role button' or . = 'Add new Role by clicking Add new role button')]</value>
+      <webElementGuid>5df3b340-3667-4703-ad15-c9ddca8adcdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
