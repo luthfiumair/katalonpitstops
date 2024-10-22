@@ -17,3 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Add location'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/input_CDU_k-checkbox'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/input_CDU_k-checkbox'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/input_CDU_k-checkbox'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/div_Expand all  CDU  CDU  AREA 2  C-101 AND_069354'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/input_CDU_k-checkbox'))
+

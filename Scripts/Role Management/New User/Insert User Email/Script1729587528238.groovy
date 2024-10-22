@@ -17,3 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Add New User'))
+
+WebUI.setText(findTestObject('Object Repository/Page_PITSTOPS/input__k-6d9b98b7-f719-427e-baf3-4987d24d7543'), 'tupdater1@pethlab.com')
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/form_ProfileUpload ImageEmail Failed The em_839d8b'))
+

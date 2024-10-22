@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='cc4b2ff9-23c0-4b47-a164-f2cfbdbb93a4']</value>
+         <value>//span[@id='c94329d4-0af8-4394-854f-c5ad8cbe0a6e']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#cc4b2ff9-23c0-4b47-a164-f2cfbdbb93a4</value>
+         <value>#c94329d4-0af8-4394-854f-c5ad8cbe0a6e</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>bf829b7d-7512-495d-8188-c2fcc537f16a</webElementGuid>
+      <webElementGuid>377e7c61-88b4-401b-9212-c25cef6a17f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>a939c120-5913-4f8d-b5c3-87609f438100</webElementGuid>
+      <webElementGuid>94284ef5-c835-4a43-a8b0-faa086663195</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>k-input</value>
-      <webElementGuid>f315ca1e-7705-4ae8-b4ce-452170c34507</webElementGuid>
+      <webElementGuid>68533193-7815-4ed4-b482-e42a4e2148d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>cc4b2ff9-23c0-4b47-a164-f2cfbdbb93a4</value>
-      <webElementGuid>cc69d473-ae3e-4d54-83fb-9408c879919f</webElementGuid>
+      <value>c94329d4-0af8-4394-854f-c5ad8cbe0a6e</value>
+      <webElementGuid>ce559833-8f6b-4b97-bc14-38c3f01c72d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,18 +54,90 @@
       <name>text</name>
       <type>Main</type>
       <value>Demo</value>
-      <webElementGuid>58af0e9c-7e96-41aa-8390-73765d664c3a</webElementGuid>
+      <webElementGuid>761ca33d-c2a3-46a1-84b1-1bd170543060</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cc4b2ff9-23c0-4b47-a164-f2cfbdbb93a4&quot;)</value>
-      <webElementGuid>09c316a9-23fa-478a-a205-bb5809c7529a</webElementGuid>
+      <value>id(&quot;c94329d4-0af8-4394-854f-c5ad8cbe0a6e&quot;)</value>
+      <webElementGuid>e1f48225-7daa-4089-936d-5fea0278cf85</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='c94329d4-0af8-4394-854f-c5ad8cbe0a6e']</value>
+      <webElementGuid>c1397f7b-1af2-48d9-a7f2-6aee8b9df31f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='k-d04dc866-c6da-4071-b53d-639fc3d1777d']/span</value>
+      <webElementGuid>0beffe67-426d-413e-97f5-d3d8d6c3cc96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[2]</value>
+      <webElementGuid>46974d14-0efe-4c4a-b1c2-f0b9658e4b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::span[3]</value>
+      <webElementGuid>f816ff1b-6ba8-467e-bbbe-b94239885ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/preceding::span[3]</value>
+      <webElementGuid>59375cb6-6047-4608-8e89-4f9fddd8c3c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::span[3]</value>
+      <webElementGuid>b1082340-ccff-4136-93d9-06eb11ded0ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Demo']/parent::*</value>
+      <webElementGuid>3122d9b8-0b54-495f-886f-cebe3861d37c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/kendo-dropdownlist/span/span</value>
+      <webElementGuid>e3fa3f3c-027d-4db5-b845-edebd783043a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'c94329d4-0af8-4394-854f-c5ad8cbe0a6e' and (text() = 'Demo' or . = 'Demo')]</value>
+      <webElementGuid>f8a7ecc4-98e3-47f5-989a-658682e270e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -101,32 +173,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/preceding::span[3]</value>
-      <webElementGuid>29e1879e-e19d-45c9-8ed5-9f1dcab23620</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Testing'])[1]/preceding::span[3]</value>
       <webElementGuid>10d0a9bf-50f4-4f55-b9c7-67fdfdebbb1f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Demo']/parent::*</value>
-      <webElementGuid>d2169d31-df47-4cf5-9cfb-fbae0e48355e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div/div/div/div/kendo-dropdownlist/span/span</value>
-      <webElementGuid>85788ef7-23c9-41c1-9489-e5bd594f1f29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

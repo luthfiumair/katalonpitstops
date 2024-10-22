@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='3484ac41-cafc-4b91-aa4a-0489c3ee586f-6064bbae-5160-479d-6f0b-08dbd5239f26']</value>
+         <value>//li[@id='28decd51-7865-4ff0-9e20-51ba43f8aa13-6064bbae-5160-479d-6f0b-08dbd5239f26']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#3484ac41-cafc-4b91-aa4a-0489c3ee586f-6064bbae-5160-479d-6f0b-08dbd5239f26</value>
+         <value>#28decd51-7865-4ff0-9e20-51ba43f8aa13-6064bbae-5160-479d-6f0b-08dbd5239f26</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>93a8b3f7-845a-4257-b80f-22c4c149e11f</webElementGuid>
+      <webElementGuid>ac599833-12e3-48df-9a0e-456aa451b565</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>fb2960c5-b86e-47b9-bedf-50b10b735a8a</webElementGuid>
+      <webElementGuid>4f21a487-d012-40a2-9aea-e0caa16a1a44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>k-item ng-star-inserted</value>
-      <webElementGuid>113f7d2f-c62d-498d-b1df-80297bc521e1</webElementGuid>
+      <webElementGuid>f0bcdbde-06b2-4e24-b61f-0d3d1443ace7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>3484ac41-cafc-4b91-aa4a-0489c3ee586f-6064bbae-5160-479d-6f0b-08dbd5239f26</value>
-      <webElementGuid>519b6db6-9cb5-42e3-8188-2b3be3d09383</webElementGuid>
+      <value>28decd51-7865-4ff0-9e20-51ba43f8aa13-6064bbae-5160-479d-6f0b-08dbd5239f26</value>
+      <webElementGuid>4fb17082-53a2-426c-ac62-4ea535e7b4ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>1592b78d-7525-4e85-a637-32c0832c94c8</webElementGuid>
+      <webElementGuid>6659c75d-55ef-433e-a8fa-d230b7acd9a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>index</name>
       <type>Main</type>
       <value>11</value>
-      <webElementGuid>13967185-80aa-4ca7-8eef-d6f0bcafb1d8</webElementGuid>
+      <webElementGuid>aa6b9d60-71cf-469f-8946-6a90cc96b778</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,18 +70,90 @@
       <name>text</name>
       <type>Main</type>
       <value>Jump Event</value>
-      <webElementGuid>5ea7e1c0-badc-459a-961b-1f2e0ffd31c1</webElementGuid>
+      <webElementGuid>b33c29bd-77f2-4b94-9856-64da2d9b4b46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;3484ac41-cafc-4b91-aa4a-0489c3ee586f-6064bbae-5160-479d-6f0b-08dbd5239f26&quot;)</value>
-      <webElementGuid>4db82ff5-3b22-4d41-96ef-8ed36a19b364</webElementGuid>
+      <value>id(&quot;28decd51-7865-4ff0-9e20-51ba43f8aa13-6064bbae-5160-479d-6f0b-08dbd5239f26&quot;)</value>
+      <webElementGuid>236c5879-6988-4ebb-87b3-f27cd1760285</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='28decd51-7865-4ff0-9e20-51ba43f8aa13-6064bbae-5160-479d-6f0b-08dbd5239f26']</value>
+      <webElementGuid>fa2cb51c-7a19-4cbb-a78f-86f5ddac9ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='2b6de679-f631-46f2-8349-3e4415c9b02f']/li[12]</value>
+      <webElementGuid>d5336bbf-f3be-45aa-b312-4009ebb8d49a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exec Event01'])[1]/following::li[1]</value>
+      <webElementGuid>14bf3ae3-dcc6-465e-976a-3684a394f590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exec Event'])[1]/following::li[2]</value>
+      <webElementGuid>68f9f490-c41b-4771-9abb-f2a37d99e802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mech Event'])[1]/preceding::li[1]</value>
+      <webElementGuid>644d2e0b-5f72-45e6-a0fa-643c593efd37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Event 2023'])[1]/preceding::li[2]</value>
+      <webElementGuid>e3575698-4dfb-477d-b41d-47fbdcbc801a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jump Event']/parent::*</value>
+      <webElementGuid>1b797665-5d88-4b6e-8e6c-ebc9f1ed7652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[12]</value>
+      <webElementGuid>0445009d-c30e-4155-ae2f-ca829bf9a034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = '28decd51-7865-4ff0-9e20-51ba43f8aa13-6064bbae-5160-479d-6f0b-08dbd5239f26' and (text() = 'Jump Event' or . = 'Jump Event')]</value>
+      <webElementGuid>82c07b56-7b2e-434c-8318-a4da22eb5a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -95,54 +167,6 @@
       <type>Main</type>
       <value>//ul[@id='bd16dd77-9894-4e95-95ad-181dd5f5c135']/li[12]</value>
       <webElementGuid>e3230f92-8f46-4e7e-9ec1-0cc5a325aa5f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exec Event01'])[1]/following::li[1]</value>
-      <webElementGuid>a4b5b59a-ef12-462b-9091-0fcb7a79e916</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exec Event'])[1]/following::li[2]</value>
-      <webElementGuid>af64f7d0-6aa7-4a2f-a675-81722a8d07e1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mech Event'])[1]/preceding::li[1]</value>
-      <webElementGuid>b11a9585-5e19-4e45-b6f7-0e59d5234716</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Event 2023'])[1]/preceding::li[2]</value>
-      <webElementGuid>25f17223-0d38-435c-adb2-5814b86b4c08</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Jump Event']/parent::*</value>
-      <webElementGuid>2e69efbd-407e-4626-baaa-99113e665f3c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[12]</value>
-      <webElementGuid>95cb9756-ffa0-4a54-8a49-f9d10e115ad1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -17,3 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Add new role'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span_Select role'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_All Planning access'))
+

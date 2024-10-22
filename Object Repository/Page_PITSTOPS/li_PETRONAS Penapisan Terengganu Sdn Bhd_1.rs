@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='52c75116-a75f-48e9-8b31-f0806f270eff-bd0b194c-847f-4921-8e7c-85019c908f44']</value>
+         <value>//li[@id='db300636-c8b6-41a6-b415-4c8269b054de-bd0b194c-847f-4921-8e7c-85019c908f44']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#52c75116-a75f-48e9-8b31-f0806f270eff-bd0b194c-847f-4921-8e7c-85019c908f44</value>
+         <value>#db300636-c8b6-41a6-b415-4c8269b054de-bd0b194c-847f-4921-8e7c-85019c908f44</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>00098f30-80f5-4c7d-95f3-718717020fea</webElementGuid>
+      <webElementGuid>5cf985ce-85d1-4a6d-8d82-da57de403736</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>18be1385-5d97-4256-8e9e-e1f8da1102f9</webElementGuid>
+      <webElementGuid>6e5973ae-8b08-49fc-9f70-0044201fcc9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>k-item ng-star-inserted</value>
-      <webElementGuid>1d08f208-2c3c-437b-b6f4-d5d32498253c</webElementGuid>
+      <webElementGuid>8601254a-14b0-4907-b08d-208223afb349</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>52c75116-a75f-48e9-8b31-f0806f270eff-bd0b194c-847f-4921-8e7c-85019c908f44</value>
-      <webElementGuid>54dd46e7-e20b-4ef2-a0d2-2a6b761f7484</webElementGuid>
+      <value>db300636-c8b6-41a6-b415-4c8269b054de-bd0b194c-847f-4921-8e7c-85019c908f44</value>
+      <webElementGuid>c56024a3-0cf6-4986-8a9a-6032d893d8a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>ca79c9f1-334c-4a56-bf7f-75b15dbaf80d</webElementGuid>
+      <webElementGuid>cc4330d6-48b8-4051-b73a-d239df54f1d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>index</name>
       <type>Main</type>
       <value>9</value>
-      <webElementGuid>d4467d6b-aa5d-42a5-b28b-4fc64ebdddfd</webElementGuid>
+      <webElementGuid>a69e87bd-d5ba-4300-8a52-78b0c9893d15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,18 +70,82 @@
       <name>text</name>
       <type>Main</type>
       <value>PETRONAS Penapisan Terengganu Sdn Bhd</value>
-      <webElementGuid>e411cbc5-89c2-4a64-88df-0530f85299ad</webElementGuid>
+      <webElementGuid>9eb69110-83c9-4e07-ab94-7ad0c7f3a106</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;52c75116-a75f-48e9-8b31-f0806f270eff-bd0b194c-847f-4921-8e7c-85019c908f44&quot;)</value>
-      <webElementGuid>06781c37-0fa4-49e0-aa2b-b06b943eb9f8</webElementGuid>
+      <value>id(&quot;db300636-c8b6-41a6-b415-4c8269b054de-bd0b194c-847f-4921-8e7c-85019c908f44&quot;)</value>
+      <webElementGuid>f4348e79-4850-4b59-a72a-2f64b6e710d9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='db300636-c8b6-41a6-b415-4c8269b054de-bd0b194c-847f-4921-8e7c-85019c908f44']</value>
+      <webElementGuid>0319c0fb-cc21-4327-91f9-e8bd5badefb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='8fa6d22d-8892-4915-846b-d4712f326d36']/li[10]</value>
+      <webElementGuid>a07e43ba-06f6-47c4-9c4e-c2f49b728586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PETRONAS Gas Berhad'])[1]/following::li[1]</value>
+      <webElementGuid>821111d5-2726-4767-bab6-4f5e0bfa5b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PETRONAS Carigali Sarawak Asset'])[1]/following::li[2]</value>
+      <webElementGuid>b3e65cbb-fa66-4f86-8f41-6e12d8c50efe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Okay'])[1]/preceding::li[1]</value>
+      <webElementGuid>95d9612f-459f-471d-93e5-5faeb293939e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PETRONAS Penapisan Terengganu Sdn Bhd']/parent::*</value>
+      <webElementGuid>f0598503-6f67-46af-a1e4-db03e29d2123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]</value>
+      <webElementGuid>5f974948-06d4-46bf-bcf1-fd6b9f94f3ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'db300636-c8b6-41a6-b415-4c8269b054de-bd0b194c-847f-4921-8e7c-85019c908f44' and (text() = 'PETRONAS Penapisan Terengganu Sdn Bhd' or . = 'PETRONAS Penapisan Terengganu Sdn Bhd')]</value>
+      <webElementGuid>0b314ede-000b-4753-90d8-34d5522f89fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -95,46 +159,6 @@
       <type>Main</type>
       <value>//ul[@id='4d20e3e8-e6a6-4b8d-ae58-4cd274d7c340']/li[10]</value>
       <webElementGuid>d31397fc-5352-4792-9894-f25bc719e16b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='PETRONAS Gas Berhad'])[1]/following::li[1]</value>
-      <webElementGuid>0682ef75-9d76-497f-b2e9-aaae89388152</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='PETRONAS Carigali Sarawak Asset'])[1]/following::li[2]</value>
-      <webElementGuid>bcab6d48-9f90-44db-ad3c-bc141c6d829d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Okay'])[1]/preceding::li[1]</value>
-      <webElementGuid>92b93171-b0d0-4474-a246-0f946552ba07</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='PETRONAS Penapisan Terengganu Sdn Bhd']/parent::*</value>
-      <webElementGuid>aa28b497-3e19-4a77-9d6b-1e339907e5a6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[10]</value>
-      <webElementGuid>ffbd8284-4d2c-4e31-a4fb-6219ed82d504</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

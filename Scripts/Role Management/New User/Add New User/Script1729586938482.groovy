@@ -17,3 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Save'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Save_1'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Submit'))
+
