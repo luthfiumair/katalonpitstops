@@ -17,8 +17,20 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Add New User'))
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/input_emailentry'))
 
-WebUI.setText(findTestObject('Object Repository/Page_PITSTOPS/input_emailentry'), 'tupdater1@pethlab.com')
+TestObject myObject = findTestObject('Object Repository/Page_PITSTOPS/div_Failed The email address has already re_8eb43f')
+WebUI.doubleClick(findTestObject('Object Repository/Page_PITSTOPS/div_Failed The email address has already re_8eb43f'))
+
+boolean isPresent = WebUI.waitForElementPresent(myObject, 20)
+
+if (isPresent) {
+	// Object is found, success action
+	println("Object found within timeout. Success!")
+	// Perform your success logic here
+} else {
+	// Object not found within the timeout
+	println("Object not found within timeout. Failure!")
+}
+

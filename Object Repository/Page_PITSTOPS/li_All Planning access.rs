@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='b4d0bdf6-aeee-4414-bdef-4afcb5849544-0484e7dc-8f72-4bb0-51d6-08dbd52494d5']</value>
+         <value>//li[text()='All Planning access']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>f2d27f88-8700-41c9-ac4e-f8a61d371bc9</webElementGuid>
+      <webElementGuid>05843356-41e9-4bfa-ab0b-4187f4de8951</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>d0f7dc90-5779-4252-ae67-2a9b53a78d3c</webElementGuid>
+      <webElementGuid>ba505680-93b4-4e7f-8f24-cd80dc95a049</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-item ng-star-inserted</value>
-      <webElementGuid>7b83b267-ccd1-4682-a766-5d11dff9bfee</webElementGuid>
+      <webElementGuid>e4fb399d-91d5-4e5c-8558-718932395d13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b4d0bdf6-aeee-4414-bdef-4afcb5849544-0484e7dc-8f72-4bb0-51d6-08dbd52494d5</value>
-      <webElementGuid>254c701f-8c30-4030-aaa4-8a51ee7f59f5</webElementGuid>
+      <webElementGuid>b6ab36fb-6200-4b34-bab0-405c44c254ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>4990c195-f9e4-489b-8d2d-e79cf60c6ab7</webElementGuid>
+      <webElementGuid>fb129e09-8cc1-478a-bfbf-5e89a96ea345</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>f60aca3a-b2a8-495c-80a0-c1cf58cf53ea</webElementGuid>
+      <webElementGuid>0e973be6-a3f7-46a6-80e0-79dbe4bb7b6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>All Planning access</value>
-      <webElementGuid>e2979748-6188-4ec9-9d2e-600d9e005ad7</webElementGuid>
+      <webElementGuid>f64cad54-de59-4b2b-ad29-817b436a4b88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b4d0bdf6-aeee-4414-bdef-4afcb5849544-0484e7dc-8f72-4bb0-51d6-08dbd52494d5&quot;)</value>
-      <webElementGuid>d0deee57-4063-45a8-b4fa-fdad7305d87c</webElementGuid>
+      <webElementGuid>d59d77a0-7ae1-4d0f-b70e-a9e711cf12f6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='b4d0bdf6-aeee-4414-bdef-4afcb5849544-0484e7dc-8f72-4bb0-51d6-08dbd52494d5']</value>
-      <webElementGuid>a42f2855-400e-4377-9308-7636295a8cae</webElementGuid>
+      <webElementGuid>863bb424-e50f-43d9-8358-7de730fe223c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='55690db9-ac4d-48bd-87ac-5e68acdc9061']/li</value>
-      <webElementGuid>f0ad88f4-06d7-4827-91f3-e2277c820113</webElementGuid>
+      <webElementGuid>692522de-db4c-4201-a0b0-de295d64aa06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select role'])[2]/following::li[1]</value>
-      <webElementGuid>9add3058-8311-423c-b063-3deecafb6f31</webElementGuid>
+      <webElementGuid>9e327706-24b9-4a68-a978-0a476db56d0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::li[1]</value>
-      <webElementGuid>dea253ac-7891-45e8-9f2a-241859f94f98</webElementGuid>
+      <webElementGuid>8d7be152-9f17-4d95-91fd-64a4197fedb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Okay'])[1]/preceding::li[1]</value>
-      <webElementGuid>9a3dbff5-943f-405b-8211-7ad4e8270c8f</webElementGuid>
+      <webElementGuid>531dfcdb-f240-4294-b926-2c700aacd77d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='All Planning access']/parent::*</value>
-      <webElementGuid>aa2e8e3a-696b-4a43-aae4-ec1f4d948274</webElementGuid>
+      <webElementGuid>c839900b-b387-4cf6-a38c-dc12cd80a20c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//kendo-list/div/ul/li</value>
-      <webElementGuid>48f2ac86-6181-47a2-ad90-2349908a778d</webElementGuid>
+      <webElementGuid>9c4c7090-6b97-4d01-8c1b-e468b182bd87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'b4d0bdf6-aeee-4414-bdef-4afcb5849544-0484e7dc-8f72-4bb0-51d6-08dbd52494d5' and (text() = 'All Planning access' or . = 'All Planning access')]</value>
-      <webElementGuid>4d8cd181-05c0-49f2-b826-ed7dc9a88ede</webElementGuid>
+      <webElementGuid>cfa03183-245d-41b6-aa12-3d0698544dbb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

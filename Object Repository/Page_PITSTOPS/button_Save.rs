@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
+         <value>/html/body/dialog-holder/dialog-wrapper/div/app-location-edit-model/div/div/div[3]/button[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8545a13a-e05e-4854-a657-fb5e757a40f1</webElementGuid>
+      <webElementGuid>34917a94-8532-444f-a724-a3a336cbaae7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3e3e8d00-732b-4b11-b8fc-6a9fc672ebe7</webElementGuid>
+      <webElementGuid>82d69644-a74f-4071-a377-bf22f2f78931</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary __edit</value>
-      <webElementGuid>540d2ca7-6c6c-41b9-8cd4-69b02ed7bbc0</webElementGuid>
+      <webElementGuid>56dc2655-c9f0-4c21-9b29-8c07f126abe6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Save </value>
-      <webElementGuid>ace1b767-1e5d-4b9d-bdf1-822d91ec57cb</webElementGuid>
+      <webElementGuid>548c393a-f997-4cbb-8126-8093ef02fe42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-tns-0-1&quot;]/dialog-holder[1]/dialog-wrapper[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal fade show in&quot;]/app-location-edit-model[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-dialog ng-star-inserted&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-primary __edit&quot;]</value>
-      <webElementGuid>09cfb507-0be1-4e3a-8198-bbccd47381af</webElementGuid>
+      <webElementGuid>b1ceef1f-29cd-4987-a1c5-9bda31c87be9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>94e73a63-261a-4988-9463-dea37135bbe1</webElementGuid>
+      <webElementGuid>0afdb323-a5c5-49df-b8cd-06a8309edf36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/following::button[1]</value>
-      <webElementGuid>4a934313-2e3a-42d2-9118-644cf75f8daf</webElementGuid>
+      <webElementGuid>403dc662-36bd-43df-a0a0-3f0bff32bf9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='UTY INSTRUMENT AIR SYSTEM'])[1]/following::button[2]</value>
-      <webElementGuid>a76d11da-bcc5-45de-81f9-42cc444a4aa0</webElementGuid>
+      <webElementGuid>7ef625f9-40ce-4385-8ea4-da169eaffdb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-location-edit-model/div/div/div[3]/button[2]</value>
-      <webElementGuid>f7c50907-4e5a-4aae-a37c-eb39155e002a</webElementGuid>
+      <webElementGuid>38949405-2d8f-47b2-931a-228f36f81aca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Save ' or . = ' Save ')]</value>
-      <webElementGuid>b8a3befb-02d7-4362-9d9e-9cea88b60253</webElementGuid>
+      <webElementGuid>e02949ea-50e2-4e6f-8e6a-b2c4e2d36f0f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='acfe6375-7545-4aab-b729-dea1835e9b80']</value>
+         <value>//*[@id=&quot;project-detail&quot;]/div[2]/app-role-loc-modal/div/div/div/div[2]/div/div[1]/div[4]/kendo-dropdownlist</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f97293e5-13fa-419c-8d2f-ae06bf0ba847</webElementGuid>
+      <webElementGuid>137c0f21-d60b-4bb8-87d5-4317b1a8dcab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>d7d68969-dabb-4a4b-84d6-3ae863b88cee</webElementGuid>
+      <webElementGuid>f88dd6dd-dd48-41d6-9846-bf91a0a3dc0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-input</value>
-      <webElementGuid>19ca681e-4d12-46fb-b997-74fde17c3b09</webElementGuid>
+      <webElementGuid>33964282-cc59-4cc8-b229-e1aa1b1e2e3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>acfe6375-7545-4aab-b729-dea1835e9b80</value>
-      <webElementGuid>56b75d5b-dfc8-4c7e-91ca-2e655a193cac</webElementGuid>
+      <webElementGuid>dd4fccdd-aa5b-4a91-a2ff-53aa8a79691b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select role</value>
-      <webElementGuid>f9678dda-944a-476e-986b-17b011ce6eca</webElementGuid>
+      <webElementGuid>5dc7d739-69d2-42fc-b5ea-97f4e73aa265</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;acfe6375-7545-4aab-b729-dea1835e9b80&quot;)</value>
-      <webElementGuid>c33d67fc-d247-43ba-8fc9-1729d8023dfe</webElementGuid>
+      <webElementGuid>a20499ed-b11e-4fca-b8cd-7ef08670135d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='acfe6375-7545-4aab-b729-dea1835e9b80']</value>
-      <webElementGuid>c6f6e5b0-63fb-4739-af72-701b145b8134</webElementGuid>
+      <webElementGuid>e73561e0-7695-4a9f-bdfe-4ff41c73df2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='k-9ded028a-4c47-447f-abc5-59eeae05a520']/span</value>
-      <webElementGuid>4b8a7a16-28e2-48f4-8cb8-e2e357c10e4f</webElementGuid>
+      <webElementGuid>3010f5f5-4639-40c0-bc8b-9d3ad5874ba3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::span[2]</value>
-      <webElementGuid>e5dcbf63-5819-4a02-a780-3245b21b98a3</webElementGuid>
+      <webElementGuid>ace2ee1a-404a-4ae6-a1b2-67504c48fff4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Location Details'])[1]/preceding::span[3]</value>
-      <webElementGuid>34cc94af-e5e6-448b-87ed-0907c748d2a7</webElementGuid>
+      <webElementGuid>f282deb4-ff18-4c32-9b69-69e0af21b618</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Location, yet.'])[1]/preceding::span[3]</value>
-      <webElementGuid>29384b21-17df-4fea-bc38-6389b40ef703</webElementGuid>
+      <webElementGuid>3092a446-b816-4162-98f1-9e2458efa05c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Select role']/parent::*</value>
-      <webElementGuid>12501378-bef3-4d3b-a7e5-60f89f70779e</webElementGuid>
+      <webElementGuid>c94ca7aa-e78b-43ed-a2a4-c184c8cef8c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/kendo-dropdownlist/span/span</value>
-      <webElementGuid>dd62a446-56ab-4183-8226-2e4557620f74</webElementGuid>
+      <webElementGuid>43eea67f-1d66-4418-b529-e4fd63029066</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'acfe6375-7545-4aab-b729-dea1835e9b80' and (text() = 'Select role' or . = 'Select role')]</value>
-      <webElementGuid>0d3aab82-5352-4b0f-b45f-1018f329288e</webElementGuid>
+      <webElementGuid>e40aaaca-949f-41c6-a88f-936b14315578</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+         <value>/html/body/app-root/app-admin-layout/div[2]/div[2]/div/div/div/app-create-user/div/div/app-self-registration/div/div/div/div/form/div[3]/button[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f837a4c2-c0f3-4c69-950c-da07d5ddfcb0</webElementGuid>
+      <webElementGuid>f1c28703-a9db-4847-a247-552fb59db6aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-button k-primary btn-submit</value>
-      <webElementGuid>2a1cd652-6d2e-48a3-aa3d-fefb35fe438c</webElementGuid>
+      <webElementGuid>8dc570fc-5742-4401-b53d-74274a3fbc87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Submit </value>
-      <webElementGuid>132aeab6-8a6d-437b-b623-b0075b49eff3</webElementGuid>
+      <webElementGuid>310567c6-43a3-4c60-931e-bd61852c1567</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-tns-0-1&quot;]/app-root[1]/app-admin-layout[1]/div[@class=&quot;bootstrap-wrapper cus-fixed&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-create-user[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;bootstrap-wrapper&quot;]/div[@class=&quot;create-user-body&quot;]/app-self-registration[1]/div[@class=&quot;bootstrap-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-lg-12 right-content&quot;]/form[@class=&quot;ng-dirty ng-touched ng-submitted ng-valid&quot;]/div[@class=&quot;actions ng-star-inserted&quot;]/button[@class=&quot;k-button k-primary btn-submit&quot;]</value>
-      <webElementGuid>97a25519-1eda-4fc2-aac2-13d90fc0141b</webElementGuid>
+      <webElementGuid>8ebbf27b-1f14-46cc-ada5-f82e37a928bd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>ec9a7ae9-e0a0-4873-9b35-70b4c5d29e80</webElementGuid>
+      <webElementGuid>77f737a2-52ac-4af4-969f-dce8df1a724a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Okay'])[1]/preceding::button[1]</value>
-      <webElementGuid>189a6c50-67ae-47de-a520-b4d186242bf1</webElementGuid>
+      <webElementGuid>d4b2fbff-2572-4ef2-b4bf-695c6597c3a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
-      <webElementGuid>5e13dc0a-7b6e-4d46-a27e-88d402ef379e</webElementGuid>
+      <webElementGuid>e9504072-7212-4d92-bae5-327708afd4ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button[2]</value>
-      <webElementGuid>9e22eee9-8432-47f4-b47d-fb9cb928cf41</webElementGuid>
+      <webElementGuid>40562a17-5711-438d-bf87-a13a40d3ee63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Submit ' or . = ' Submit ')]</value>
-      <webElementGuid>40d76572-bf72-4a36-be10-664de7e84db3</webElementGuid>
+      <webElementGuid>b90eab3d-3c09-4ef8-9748-1cbf13080323</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

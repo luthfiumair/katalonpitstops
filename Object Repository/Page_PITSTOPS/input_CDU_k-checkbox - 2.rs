@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_CDU_k-checkbox</name>
+   <name>input_CDU_k-checkbox - 2</name>
    <tag></tag>
-   <elementGuidId>409f82d0-0796-46c8-a9e7-a1c611350b40</elementGuidId>
+   <elementGuidId>721c33ff-b1ce-47f8-8fd0-90bb20d59480</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/dialog-holder/dialog-wrapper/div/app-location-edit-model/div/div/div[2]/div/div[2]/kendo-expansionpanel/div[1]/div/input</value>
+         <value>/html/body/dialog-holder/dialog-wrapper/div/app-location-edit-model/div/div/div[2]/div/div[4]/kendo-expansionpanel/div[1]/div/input</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7b2c2916-8fc0-465c-87aa-efd9abe7a570</webElementGuid>
+      <webElementGuid>341d79ad-e46b-4c26-84db-60b0edf39fff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>b0130dff-2f07-4f68-b40d-f55cced5e575</webElementGuid>
+      <webElementGuid>229acc2b-b22d-4dd5-a1a6-65488865be6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-checkbox</value>
-      <webElementGuid>de47c305-1d6c-483a-8cd5-cf4cf64376d6</webElementGuid>
+      <webElementGuid>80d1842a-5472-4485-a21e-8618822e8ba2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-tns-0-1&quot;]/dialog-holder[1]/dialog-wrapper[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal fade show in&quot;]/app-location-edit-model[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-dialog ng-star-inserted&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;location-container&quot;]/div[@class=&quot;location-item ng-star-inserted&quot;]/kendo-expansionpanel[@class=&quot;main-container k-expander ng-star-inserted&quot;]/div[@class=&quot;k-expander-header&quot;]/div[@class=&quot;ng-star-inserted&quot;]/input[@class=&quot;k-checkbox&quot;]</value>
-      <webElementGuid>f2e3e61f-69db-4b0a-82dd-55f352996af2</webElementGuid>
+      <webElementGuid>4497ef9d-b7cd-4220-a2ec-996cb2c66667</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='checkbox']</value>
-      <webElementGuid>a7054f4a-656c-47ae-8fb6-090cd87b49b9</webElementGuid>
+      <webElementGuid>7d6e58d5-c419-496f-b033-94cfc9cd84ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//kendo-expansionpanel/div/div/input</value>
-      <webElementGuid>2d5248cc-3918-42c8-add4-8ce6ab8bd5ef</webElementGuid>
+      <webElementGuid>241804a9-0387-46ae-8af2-5e988638f533</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox']</value>
-      <webElementGuid>1829809d-8005-478a-bb5f-8d17112dc4af</webElementGuid>
+      <webElementGuid>6accc0b1-e828-46c0-82f0-97702c5b4f11</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='project-detail']/div[2]/app-role-loc-modal/div/div/div/div[3]/button[2]</value>
+         <value>//*[@id=&quot;project-detail&quot;]/div[2]/app-role-loc-modal/div/div/div/div[3]/button[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c3bd249a-81df-452a-8372-29df115c46ca</webElementGuid>
+      <webElementGuid>74b5daad-48f9-42cf-b476-fd6ab1559d80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-button k-primary btn-save ng-star-inserted</value>
-      <webElementGuid>37a8fa5e-7868-4102-b6af-e2b90ca54646</webElementGuid>
+      <webElementGuid>a0824a4c-12a5-4561-9fdc-9f0c70041fb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Save </value>
-      <webElementGuid>896cb5cf-06cd-4f6a-acdf-a4f9378e4520</webElementGuid>
+      <webElementGuid>9fe2263c-8a1a-4897-b2c6-6b9d78fc094a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;project-detail&quot;)/div[@class=&quot;kd-custom absolute title-container&quot;]/app-role-loc-modal[1]/div[@class=&quot;bootstrap-wrapper&quot;]/div[@class=&quot;overlay-modal ng-star-inserted&quot;]/div[@class=&quot;modal-popup&quot;]/div[@class=&quot;actions&quot;]/button[@class=&quot;k-button k-primary btn-save ng-star-inserted&quot;]</value>
-      <webElementGuid>f43c4c34-aeaf-467c-8ec6-32980a358c14</webElementGuid>
+      <webElementGuid>164c6aab-328a-4dc9-af82-0002ade06c49</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='project-detail']/div[2]/app-role-loc-modal/div/div/div/div[3]/button[2]</value>
-      <webElementGuid>c187be34-714d-4217-b9d0-16fe827d82f0</webElementGuid>
+      <webElementGuid>5ea72af2-f146-4b59-8471-acfe1a588f72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>c618c332-8873-4dd2-80fc-303932460db2</webElementGuid>
+      <webElementGuid>fc1f33bd-0ed6-4287-bac1-7977226b6af5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='UTY INSTRUMENT AIR SYSTEM'])[1]/following::button[2]</value>
-      <webElementGuid>a5a9799e-77fe-4391-b77c-bd3e795be26e</webElementGuid>
+      <webElementGuid>6144ee1b-2417-4880-b4d5-e1b16c67daa4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Planning Module'])[2]/preceding::button[1]</value>
-      <webElementGuid>82bb298a-f7fa-4fbe-9900-b996dadd76c3</webElementGuid>
+      <webElementGuid>efba1ff2-6abe-4442-88d9-b2bbb721508d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Execution Module'])[1]/preceding::button[1]</value>
-      <webElementGuid>53f0efa9-36fd-4696-b1a7-105915400f38</webElementGuid>
+      <webElementGuid>a6655b4d-475c-44e5-9431-5f31b22dd78d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
-      <webElementGuid>c35168ef-ff86-405c-a824-a584ee30a221</webElementGuid>
+      <webElementGuid>f21d651f-c56d-4709-a343-f9bb8fa604d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>21d8997e-6650-4cdd-943b-9c74ff958b9a</webElementGuid>
+      <webElementGuid>54e313cd-0708-4b6f-b328-441e263294e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Save ' or . = ' Save ')]</value>
-      <webElementGuid>55810d83-dc59-40d4-b3d5-ca6ac39643ca</webElementGuid>
+      <webElementGuid>774ee4a7-3b6f-422c-ace5-957bd3f4aa9c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
