@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#b8cd8ce7-ba2f-4def-abf1-fd64abc11614-6064bbae-5160-479d-6f0b-08dbd5239f26</value>
+         <value>#93cd3427-05b5-4860-9db7-b922bdbfc745-6064bbae-5160-479d-6f0b-08dbd5239f26</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>25e20bfe-79ec-4c95-bc47-fd5f865087e2</webElementGuid>
+      <webElementGuid>a84bfc2a-f6a6-4726-8617-572b4a371989</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>a32fa189-6fa9-4bbf-b575-ad7c7bc2a922</webElementGuid>
+      <webElementGuid>1c17263d-de99-4505-a4e9-df476ee2e0a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>k-item ng-star-inserted</value>
-      <webElementGuid>ae0a7940-61db-41c1-9f14-b32422ee21ea</webElementGuid>
+      <webElementGuid>a81415b7-3102-46c9-b1d3-fb3370bb71ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>b8cd8ce7-ba2f-4def-abf1-fd64abc11614-6064bbae-5160-479d-6f0b-08dbd5239f26</value>
-      <webElementGuid>d238c43b-5cac-4d1d-9549-c02b3f79abf0</webElementGuid>
+      <value>93cd3427-05b5-4860-9db7-b922bdbfc745-6064bbae-5160-479d-6f0b-08dbd5239f26</value>
+      <webElementGuid>b30af98f-230d-4afc-92cf-0714dadb633a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>abd3c1df-4ac7-4d39-9c68-750b841bdbde</webElementGuid>
+      <webElementGuid>ea3ecc27-4a5b-4d29-84cd-3604e5b15e10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>index</name>
       <type>Main</type>
       <value>11</value>
-      <webElementGuid>067f2f9c-26f4-42a7-b2d8-dc44609faf54</webElementGuid>
+      <webElementGuid>ac448b07-57cf-452e-b6c9-19c8d9fe267e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,31 +70,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Jump Event</value>
-      <webElementGuid>851791da-9254-4a68-a0fb-9d110759e66e</webElementGuid>
+      <webElementGuid>cc297420-bb2b-42d5-a6a5-61d6e75b6923</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;b8cd8ce7-ba2f-4def-abf1-fd64abc11614-6064bbae-5160-479d-6f0b-08dbd5239f26&quot;)</value>
-      <webElementGuid>eade8892-b05a-48d1-b95f-9180b91f247d</webElementGuid>
+      <value>id(&quot;93cd3427-05b5-4860-9db7-b922bdbfc745-6064bbae-5160-479d-6f0b-08dbd5239f26&quot;)</value>
+      <webElementGuid>352ce8bb-a018-4284-9e19-a17f2e86e4cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//li[@id='b8cd8ce7-ba2f-4def-abf1-fd64abc11614-6064bbae-5160-479d-6f0b-08dbd5239f26']</value>
-      <webElementGuid>0f1d6fae-c792-4122-b51f-a882e7b2b294</webElementGuid>
+      <value>//li[@id='93cd3427-05b5-4860-9db7-b922bdbfc745-6064bbae-5160-479d-6f0b-08dbd5239f26']</value>
+      <webElementGuid>b3fac5cf-88e9-4afe-a99b-94e48327dcc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='e5b550a3-3528-461a-afd2-803090113e8d']/li[12]</value>
-      <webElementGuid>cd7d69f3-e254-42d5-90de-3f54235fb0f7</webElementGuid>
+      <value>//ul[@id='9229413b-dd64-481e-b640-6f6fdf8911f8']/li[12]</value>
+      <webElementGuid>0d8299a3-af79-4535-836f-e4c610bd5242</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Exec Event01'])[1]/following::li[1]</value>
-      <webElementGuid>634c3ddb-4e4f-4bed-9f54-5a74343281d4</webElementGuid>
+      <webElementGuid>2372790c-0286-4514-a802-756b5cfad1de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Exec Event'])[1]/following::li[2]</value>
-      <webElementGuid>e3a3f3f7-0899-4a3a-8e46-efeac773466b</webElementGuid>
+      <webElementGuid>b7f955bc-b65c-4260-bc79-49466e6987c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mech Event'])[1]/preceding::li[1]</value>
-      <webElementGuid>bda26f16-951b-4adb-a18a-4e7ea5b97633</webElementGuid>
+      <webElementGuid>11be00a9-2723-4502-900c-76d8335f8890</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New Event 2023'])[1]/preceding::li[2]</value>
-      <webElementGuid>10ba8784-ef98-42d5-8e79-9611d195c658</webElementGuid>
+      <webElementGuid>306b146d-6714-4fc1-b158-d6267829f54d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Jump Event']/parent::*</value>
-      <webElementGuid>116d9fdc-7356-4897-af50-5e652f291fc6</webElementGuid>
+      <webElementGuid>72e0b6fb-fe3f-471a-ac55-81b205121c85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,31 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[12]</value>
-      <webElementGuid>95644d33-de5d-472b-8768-c65a7fd70c51</webElementGuid>
+      <webElementGuid>ab618010-2995-44a5-8549-1b31a5dae863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = '93cd3427-05b5-4860-9db7-b922bdbfc745-6064bbae-5160-479d-6f0b-08dbd5239f26' and (text() = 'Jump Event' or . = 'Jump Event')]</value>
+      <webElementGuid>99d3bdd7-61b4-4d7d-bd61-88f5b9bd84d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='b8cd8ce7-ba2f-4def-abf1-fd64abc11614-6064bbae-5160-479d-6f0b-08dbd5239f26']</value>
+      <webElementGuid>4d59d0f9-4272-4000-a468-81ccb8fe7149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='e5b550a3-3528-461a-afd2-803090113e8d']/li[12]</value>
+      <webElementGuid>fb2a3b82-a272-4e8b-8395-e779d8967c06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +174,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'b8cd8ce7-ba2f-4def-abf1-fd64abc11614-6064bbae-5160-479d-6f0b-08dbd5239f26' and (text() = 'Jump Event' or . = 'Jump Event')]</value>
-      <webElementGuid>591a15b5-4019-4c70-b445-73fe02678166</webElementGuid>
+      <webElementGuid>5b95c59e-2569-450e-81d5-50bc05fbc226</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

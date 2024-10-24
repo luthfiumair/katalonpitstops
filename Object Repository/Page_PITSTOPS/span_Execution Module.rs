@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Delete_1</name>
+   <name>span_Execution Module</name>
    <tag></tag>
-   <elementGuidId>4a890903-9f6f-4cbc-9b21-3ae50ad41613</elementGuidId>
+   <elementGuidId>ffc55e4d-b998-47a5-bec6-752c31f3a6c5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;delete&quot;]/div[3]/button[2]</value>
+         <value>//li[@id='k-tabstrip-tab-1']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.delete-confirm</value>
+         <value>#k-tabstrip-tab-1 > span.k-link.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>85e5471e-bcf4-49b5-be9f-90412178ebae</webElementGuid>
+      <value>span</value>
+      <webElementGuid>2e151f0d-62eb-4726-8c02-442d3d36baad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>delete-confirm</value>
-      <webElementGuid>5b2f45cc-d5b1-4caf-8530-49db338c43f6</webElementGuid>
+      <value>k-link ng-star-inserted</value>
+      <webElementGuid>7a612f27-b8b5-435d-a5c7-09c9356a1e15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Delete </value>
-      <webElementGuid>57c83036-350b-421f-af1b-376cef1b83fe</webElementGuid>
+      <value>Execution Module</value>
+      <webElementGuid>e39428a5-e713-42c6-a36b-c0b386c59651</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;delete&quot;)/div[@class=&quot;jw-modal-footer&quot;]/button[@class=&quot;delete-confirm&quot;]</value>
-      <webElementGuid>62753dee-5d01-4001-8c51-b39c847db128</webElementGuid>
+      <value>id(&quot;k-tabstrip-tab-1&quot;)/span[@class=&quot;k-link ng-star-inserted&quot;]</value>
+      <webElementGuid>c557632c-0177-486e-aa47-a06de14e452b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='delete']/div[3]/button[2]</value>
-      <webElementGuid>fefaf0cc-7782-4352-a8ca-8f68dc229cba</webElementGuid>
+      <value>//li[@id='k-tabstrip-tab-1']/span</value>
+      <webElementGuid>dce4d105-f7c5-4083-a213-d97148b6edec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>838ea8de-5455-4310-9633-c1c2d02dbb1e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Planning Module'])[1]/following::span[1]</value>
+      <webElementGuid>b674d153-d302-45b6-858a-9b36e6570083</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete this role?'])[1]/following::button[2]</value>
-      <webElementGuid>dddf99cf-019b-4165-ace5-c9114a7b5943</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jump Event'])[1]/following::span[2]</value>
+      <webElementGuid>fc967d62-4f5f-4048-8ca1-926f99660410</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtask Updater RFI'])[3]/preceding::button[1]</value>
-      <webElementGuid>3d660186-f2d7-4d9d-a9ae-e8e09349160d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Milestone Module'])[1]/preceding::span[1]</value>
+      <webElementGuid>89c80962-ff5e-45c5-a111-0c14073b055d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::button[1]</value>
-      <webElementGuid>5573be3b-3a2c-40f6-af05-263970a0d51e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Roles, yet.'])[1]/preceding::span[2]</value>
+      <webElementGuid>28904b02-5cd7-4fbc-bdea-11ee7fa38454</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
-      <webElementGuid>d348ef14-d7a6-49c4-ac98-e393dd5a07d6</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Execution Module']/parent::*</value>
+      <webElementGuid>0428a391-0003-40c6-9c98-c489e5704593</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[2]</value>
-      <webElementGuid>48ea9abb-6816-4b94-8388-f9e73b62ea69</webElementGuid>
+      <value>//ul/li[2]/span</value>
+      <webElementGuid>b1bcff81-5cdc-4ed3-b8e6-f34b23a38af2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = ' Delete ' or . = ' Delete ')]</value>
-      <webElementGuid>d68bb5ca-b24b-4466-ac9d-48e1d11fefac</webElementGuid>
+      <value>//span[(text() = 'Execution Module' or . = 'Execution Module')]</value>
+      <webElementGuid>e9d7a2ea-47a7-4616-b558-452ac9418e1d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

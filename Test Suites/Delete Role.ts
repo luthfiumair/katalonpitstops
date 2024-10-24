@@ -12,7 +12,7 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>acd46795-f4e1-49d1-aca1-f1829c4ec1de</testSuiteGuid>
    <testCaseLink>
-      <guid>428889ce-ec20-4ef9-b790-c92785d85e84</guid>
+      <guid>53a5370c-3960-460c-9f99-0d8dcb90ff20</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Login Enterprise/Enterprise Admin Login</testCaseId>

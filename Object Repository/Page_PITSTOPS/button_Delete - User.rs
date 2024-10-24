@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Delete_1</name>
+   <name>button_Delete - User</name>
    <tag></tag>
-   <elementGuidId>4a890903-9f6f-4cbc-9b21-3ae50ad41613</elementGuidId>
+   <elementGuidId>d27c699c-5951-432a-914d-54033488f64c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;delete&quot;]/div[3]/button[2]</value>
+         <value>/html/body/app-root/app-admin-layout/div[2]/div[2]/div/div/div/app-create-user/div/div/app-self-registration/div/div/div/div/form/div[3]/div/button[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.delete-confirm</value>
+         <value>button.btn.btn-outline-danger.__delete</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>85e5471e-bcf4-49b5-be9f-90412178ebae</webElementGuid>
+      <webElementGuid>aa1b30cb-ec9f-4af1-9ebc-2e44f0e56551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7e36e9d5-4689-4e7c-911d-18b83bf042a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>delete-confirm</value>
-      <webElementGuid>5b2f45cc-d5b1-4caf-8530-49db338c43f6</webElementGuid>
+      <value>btn btn-outline-danger __delete</value>
+      <webElementGuid>25e09000-4ac2-4525-a2eb-4759bd125dd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,55 +46,47 @@
       <name>text</name>
       <type>Main</type>
       <value> Delete </value>
-      <webElementGuid>57c83036-350b-421f-af1b-376cef1b83fe</webElementGuid>
+      <webElementGuid>a738d556-44c0-4aec-ada9-3ac42da34b4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;delete&quot;)/div[@class=&quot;jw-modal-footer&quot;]/button[@class=&quot;delete-confirm&quot;]</value>
-      <webElementGuid>62753dee-5d01-4001-8c51-b39c847db128</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-1&quot;]/dialog-holder[1]/dialog-wrapper[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal fade show in&quot;]/app-detail-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer ng-star-inserted&quot;]/button[@class=&quot;btn btn-outline-danger __delete&quot;]</value>
+      <webElementGuid>ec44fc9d-fa11-4d93-b954-ccdecd02a432</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='delete']/div[3]/button[2]</value>
-      <webElementGuid>fefaf0cc-7782-4352-a8ca-8f68dc229cba</webElementGuid>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>35415cb0-47ed-48fe-aa78-a863e4591c4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>838ea8de-5455-4310-9633-c1c2d02dbb1e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifier'])[1]/following::button[1]</value>
+      <webElementGuid>c2efc597-0eed-4a38-bd08-f1dbaed945dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete this role?'])[1]/following::button[2]</value>
-      <webElementGuid>dddf99cf-019b-4165-ace5-c9114a7b5943</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WCS Completion : Acceptance1'])[1]/following::button[1]</value>
+      <webElementGuid>7942e327-11d6-462f-a526-23d5dce679a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtask Updater RFI'])[3]/preceding::button[1]</value>
-      <webElementGuid>3d660186-f2d7-4d9d-a9ae-e8e09349160d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::button[1]</value>
-      <webElementGuid>5573be3b-3a2c-40f6-af05-263970a0d51e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::button[1]</value>
+      <webElementGuid>d2b7b7ed-4cc2-47e3-88ed-08e16d5b58bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,22 +94,22 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
-      <webElementGuid>d348ef14-d7a6-49c4-ac98-e393dd5a07d6</webElementGuid>
+      <webElementGuid>3c0c96d5-8850-4777-b9ea-da65e28b68ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[2]</value>
-      <webElementGuid>48ea9abb-6816-4b94-8388-f9e73b62ea69</webElementGuid>
+      <value>//div/div/div[3]/button</value>
+      <webElementGuid>7b7a8342-84b4-4024-bd5d-57648a16e2d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = ' Delete ' or . = ' Delete ')]</value>
-      <webElementGuid>d68bb5ca-b24b-4466-ac9d-48e1d11fefac</webElementGuid>
+      <value>//button[@type = 'button' and (text() = ' Delete ' or . = ' Delete ')]</value>
+      <webElementGuid>0b37b2d5-d13c-47e2-8edd-acc11a0566af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

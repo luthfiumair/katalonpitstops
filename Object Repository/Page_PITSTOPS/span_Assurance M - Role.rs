@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Assurance M_1</name>
+   <name>span_Assurance M - Role</name>
    <tag></tag>
-   <elementGuidId>390d66e1-b206-41c2-a5e4-8e90b07740ab</elementGuidId>
+   <elementGuidId>c7233d75-1883-4c1a-8fa7-02aa3ba6348b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='c27b152d-67cc-42c3-b56a-4494e572cd71']</value>
+         <value>/html/body/app-root/app-admin-layout/div[2]/div[2]/div/div/div/app-list-role/div/div/div/div/div[1]/div[2]/kendo-dropdownlist</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#c27b152d-67cc-42c3-b56a-4494e572cd71</value>
+         <value>#b6d3166a-10a3-4253-8ddc-b1cbac315bb8</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>04965f45-2e0c-4c83-ba1e-0c547b45b656</webElementGuid>
+      <webElementGuid>52502813-8793-412e-b865-56c9f5ec596f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>a08ef026-699d-4474-add8-6ed93855cb41</webElementGuid>
+      <webElementGuid>e5c52365-f3da-47b9-87ba-e11657bad86e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>k-input</value>
-      <webElementGuid>e992ef54-fbbe-4156-b7c8-32d3a2cd008f</webElementGuid>
+      <webElementGuid>22c9ad15-9079-4674-897d-91650b2f8e1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>c27b152d-67cc-42c3-b56a-4494e572cd71</value>
-      <webElementGuid>f9d46b38-4319-403b-a5a7-6f6e9469ad94</webElementGuid>
+      <value>b6d3166a-10a3-4253-8ddc-b1cbac315bb8</value>
+      <webElementGuid>b1a170be-0038-4962-8bed-5ec3e93d8bbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,63 +54,63 @@
       <name>text</name>
       <type>Main</type>
       <value>Assurance M</value>
-      <webElementGuid>1937bf20-b0e3-44b3-84c7-3247f6c886bd</webElementGuid>
+      <webElementGuid>7daeb4bf-50d3-4ef1-9c85-0c5127ef91b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;c27b152d-67cc-42c3-b56a-4494e572cd71&quot;)</value>
-      <webElementGuid>6ac035a8-daf2-4790-aac0-ed5cb80b8991</webElementGuid>
+      <value>id(&quot;b6d3166a-10a3-4253-8ddc-b1cbac315bb8&quot;)</value>
+      <webElementGuid>406242d8-3913-4db9-855d-29dc6f0987fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//span[@id='c27b152d-67cc-42c3-b56a-4494e572cd71']</value>
-      <webElementGuid>237ec153-55b0-4503-ada7-4701bf73793c</webElementGuid>
+      <value>//span[@id='b6d3166a-10a3-4253-8ddc-b1cbac315bb8']</value>
+      <webElementGuid>39c15c5d-cbef-4a85-b386-2bd0d1c0713d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='k-3827f7a9-49e8-4f33-834d-682189aecb97']/span</value>
-      <webElementGuid>8f85d771-ba4c-4642-b02d-ce37fdb8c9eb</webElementGuid>
+      <value>//span[@id='k-113fbc90-40f0-4e3d-8048-150d90094e1a']/span</value>
+      <webElementGuid>adf52610-c040-4c47-a2b6-fc4ce8d8b6e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[2]</value>
-      <webElementGuid>21963045-9d0b-4fdb-9c04-eb6306c4ceff</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::span[2]</value>
+      <webElementGuid>12e841ae-6bdd-48b8-a648-765e117b43ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::span[3]</value>
-      <webElementGuid>6fc3b0b1-3c5b-4ee1-a676-a1f9d0f4a30e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PETRONAS Penapisan Terengganu Sdn Bhd'])[1]/following::span[4]</value>
+      <webElementGuid>72de677a-fc48-4633-9a8f-22fefca10e5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register Multiple User'])[1]/preceding::span[3]</value>
-      <webElementGuid>83bfef8c-996d-47d8-809e-a823e45ae57d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/preceding::span[3]</value>
+      <webElementGuid>bcd3faac-9d98-4391-80db-dc5d8d3e1aa3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New User'])[1]/preceding::span[4]</value>
-      <webElementGuid>ca60cd86-3c95-4715-ad61-e7ce8afddef4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Template'])[1]/preceding::span[4]</value>
+      <webElementGuid>19116330-b9dd-43e8-a26b-d5a18426f6bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Assurance M']/parent::*</value>
-      <webElementGuid>08964ae7-59ba-471b-8671-9f7d6743f7d3</webElementGuid>
+      <webElementGuid>07e53b37-9a4f-40a6-a7a3-add9c2e23e28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,38 +126,38 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/kendo-dropdownlist/span/span</value>
-      <webElementGuid>f82ac779-3270-4767-a958-6bfb1d01705e</webElementGuid>
+      <webElementGuid>ff0547e1-e01a-46a3-ace7-361ef705a8be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id = 'c27b152d-67cc-42c3-b56a-4494e572cd71' and (text() = 'Assurance M' or . = 'Assurance M')]</value>
-      <webElementGuid>0daa0b20-3686-4d2b-b08c-b317856607aa</webElementGuid>
+      <value>//span[@id = 'b6d3166a-10a3-4253-8ddc-b1cbac315bb8' and (text() = 'Assurance M' or . = 'Assurance M')]</value>
+      <webElementGuid>4be84ec6-1aa4-47cd-af44-0cfdf0b62863</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//span[@id='8346d46b-040a-4ba4-8e3c-173c6852ce00']</value>
-      <webElementGuid>0bb24427-8e1b-435a-9f64-ff0cf71dc90b</webElementGuid>
+      <value>//span[@id='8e4c13d5-23ba-4e95-9ef5-0adeda5dbb9e']</value>
+      <webElementGuid>e82a881d-cae6-4162-a3eb-efe9d18baede</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='k-1dde2e65-f0e3-464d-9333-fbf9cbcbf819']/span</value>
-      <webElementGuid>c04967d9-572d-4cb5-8919-866d142ff3d8</webElementGuid>
+      <value>//span[@id='k-db4d932f-c964-499f-8d67-58e6d5cc42f6']/span</value>
+      <webElementGuid>b00e1ab8-1f17-467d-9a13-4e9546339cc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id = '8346d46b-040a-4ba4-8e3c-173c6852ce00' and (text() = 'Assurance M' or . = 'Assurance M')]</value>
-      <webElementGuid>5363e345-8377-4634-9316-bc299a579f66</webElementGuid>
+      <value>//span[@id = '8e4c13d5-23ba-4e95-9ef5-0adeda5dbb9e' and (text() = 'Assurance M' or . = 'Assurance M')]</value>
+      <webElementGuid>483f5849-c4cf-4c01-85e5-6c2c6fcc077a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

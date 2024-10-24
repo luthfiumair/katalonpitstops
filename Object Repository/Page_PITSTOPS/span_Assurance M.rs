@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#8e4c13d5-23ba-4e95-9ef5-0adeda5dbb9e</value>
+         <value>#b6d3166a-10a3-4253-8ddc-b1cbac315bb8</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b8273ef9-20ad-405d-aeea-0205aadb8f31</webElementGuid>
+      <webElementGuid>4ebe243d-6613-430f-a222-c9b4dd1336d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>70001baf-8a63-4f2f-9b3b-b25f5db29a94</webElementGuid>
+      <webElementGuid>0e3e117d-8389-45bb-89ae-4cc17e56c97a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>k-input</value>
-      <webElementGuid>b1a38949-c101-497b-aabc-21d91044ec49</webElementGuid>
+      <webElementGuid>be112060-d385-4f66-9eae-1dc658fc2bc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>8e4c13d5-23ba-4e95-9ef5-0adeda5dbb9e</value>
-      <webElementGuid>a650d85e-f01a-4da7-8cb9-462f67864e2a</webElementGuid>
+      <value>b6d3166a-10a3-4253-8ddc-b1cbac315bb8</value>
+      <webElementGuid>11e4a763-177a-4dda-91ce-4aa7ea9a5807</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,31 +54,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Assurance M</value>
-      <webElementGuid>615f3ceb-e431-4281-9ab6-f45ac3780c0a</webElementGuid>
+      <webElementGuid>7850ca6b-de08-41c5-9a03-4f485478e211</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;8e4c13d5-23ba-4e95-9ef5-0adeda5dbb9e&quot;)</value>
-      <webElementGuid>26e7775c-75a9-4198-8460-24ed55e7aea9</webElementGuid>
+      <value>id(&quot;b6d3166a-10a3-4253-8ddc-b1cbac315bb8&quot;)</value>
+      <webElementGuid>475411c2-ae54-4cff-9f59-076130debe68</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//span[@id='8e4c13d5-23ba-4e95-9ef5-0adeda5dbb9e']</value>
-      <webElementGuid>73067428-8876-47f5-ad45-1a5afe581886</webElementGuid>
+      <value>//span[@id='b6d3166a-10a3-4253-8ddc-b1cbac315bb8']</value>
+      <webElementGuid>c456870c-7bca-415b-a63e-41a8dc9f07ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='k-db4d932f-c964-499f-8d67-58e6d5cc42f6']/span</value>
-      <webElementGuid>8fe4d3ae-fc50-4e61-8283-a86b0ffe7c45</webElementGuid>
+      <value>//span[@id='k-113fbc90-40f0-4e3d-8048-150d90094e1a']/span</value>
+      <webElementGuid>561b1ecd-2981-42cb-8051-469d9045fa21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::span[2]</value>
-      <webElementGuid>339599d2-6778-490f-b5f8-fff5bc72e294</webElementGuid>
+      <webElementGuid>3f3e3717-0cab-4495-8d30-70c89b3b2de0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PETRONAS Penapisan Terengganu Sdn Bhd'])[1]/following::span[4]</value>
-      <webElementGuid>18264de5-b34e-4f6a-8ece-9e3281b269e8</webElementGuid>
+      <webElementGuid>2fe425d9-4e73-4102-8372-db86d8f37395</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/preceding::span[3]</value>
-      <webElementGuid>9e73dfb8-56ee-4f8e-a34c-02858a70ce07</webElementGuid>
+      <webElementGuid>2672bbec-edeb-48ef-a5ff-396618fb6315</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Template'])[1]/preceding::span[4]</value>
-      <webElementGuid>c1a80821-1034-434e-91de-465a5ccf4986</webElementGuid>
+      <webElementGuid>74f3df34-b43a-44f4-9e6c-89b34ec7b57a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Assurance M']/parent::*</value>
-      <webElementGuid>49250ffd-6df1-4c6f-baa7-b20dfb99a8c1</webElementGuid>
+      <webElementGuid>2c1c2d97-3584-412a-a9ac-33d6977fbed6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,31 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/kendo-dropdownlist/span/span</value>
-      <webElementGuid>c7852281-2952-4f44-b089-6de5800800ae</webElementGuid>
+      <webElementGuid>01b08581-017b-45df-9e91-5c4b2af4cc3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'b6d3166a-10a3-4253-8ddc-b1cbac315bb8' and (text() = 'Assurance M' or . = 'Assurance M')]</value>
+      <webElementGuid>05b6df29-7b8c-4157-9842-7abfed0c2f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='8e4c13d5-23ba-4e95-9ef5-0adeda5dbb9e']</value>
+      <webElementGuid>ca807bac-ca16-466c-82ec-6db06a0f0b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='k-db4d932f-c964-499f-8d67-58e6d5cc42f6']/span</value>
+      <webElementGuid>4c540be4-709c-4208-a3a3-cf18995393a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = '8e4c13d5-23ba-4e95-9ef5-0adeda5dbb9e' and (text() = 'Assurance M' or . = 'Assurance M')]</value>
-      <webElementGuid>685323ab-1c22-49ad-88b3-730cfb6d4021</webElementGuid>
+      <webElementGuid>14f745ca-fd6a-4638-820c-e928535b85a1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

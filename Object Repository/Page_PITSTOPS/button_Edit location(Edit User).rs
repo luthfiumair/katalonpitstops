@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_Rohan, Ahmad</name>
+   <name>button_Edit location(Edit User)</name>
    <tag></tag>
-   <elementGuidId>d0d35e19-e8ae-4a43-b0ff-6edfa1c5567c</elementGuidId>
+   <elementGuidId>001b8f72-e2ec-45c1-bf58-faeed3b70f47</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='user-listing']/div/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr/td[2]</value>
+         <value>//*[@id=&quot;project-detail&quot;]/div[2]/app-role-loc-modal/div/div/div/div[3]/button[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>button.btn-add.k-button.k-button-icontext.ng-star-inserted.k-state-focused</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,127 +21,127 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>16e1f822-9c0c-45dd-8286-fcf9d43b167a</webElementGuid>
+      <value>button</value>
+      <webElementGuid>a70be2f6-519d-47db-8582-9203ec5b48ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>icon</name>
       <type>Main</type>
-      <value>gridcell</value>
-      <webElementGuid>36f00f4f-1ef0-49cc-b995-8e40b40ca62a</webElementGuid>
+      <value>pencil</value>
+      <webElementGuid>d7222fc0-2546-41e9-9d43-15bf4ac2c1e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-touch-action-auto ng-star-inserted</value>
-      <webElementGuid>fe37bec9-91a2-4288-b9d5-6bcc68a74ede</webElementGuid>
+      <value>btn-add k-button k-button-icontext ng-star-inserted k-state-focused</value>
+      <webElementGuid>2de44e90-2990-4556-bbe1-8c1ba43135e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-kendo-grid-column-index</name>
+      <name>role</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>30bf8a48-f992-4e4e-ba23-47de458d1cff</webElementGuid>
+      <value>button</value>
+      <webElementGuid>f168d8ba-01f6-410f-b054-fbe07e1bbaa6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>colspan</name>
+      <name>aria-disabled</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>e8f1ea9a-73ac-4292-95e8-aa6b06e99495</webElementGuid>
+      <value>false</value>
+      <webElementGuid>2a8d4888-0984-4285-b7e5-24d64be85296</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-colindex</name>
+      <name>dir</name>
       <type>Main</type>
-      <value>2</value>
-      <webElementGuid>204862c1-0c17-4f72-a64e-8752e5ee1c76</webElementGuid>
+      <value>ltr</value>
+      <webElementGuid>bf5e4fe5-74b9-4774-9066-ca4336f3843a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Rohan, Ahmad</value>
-      <webElementGuid>3e63997b-9887-4ffd-a9dd-e3c01e462ca3</webElementGuid>
+      <value> Edit location </value>
+      <webElementGuid>aaf196fd-4e8f-4d56-8dca-97a6200489ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;user-listing&quot;)/div[1]/div[@class=&quot;container-body ng-star-inserted&quot;]/kendo-grid[@class=&quot;custom-grid k-widget k-grid&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;k-touch-action-auto ng-star-inserted&quot;]</value>
-      <webElementGuid>304726d6-8525-45e7-88ad-cb2f0628d1f6</webElementGuid>
+      <value>id(&quot;project-detail&quot;)/div[@class=&quot;kd-custom absolute title-container&quot;]/app-role-loc-modal[1]/div[@class=&quot;bootstrap-wrapper&quot;]/div[@class=&quot;overlay-modal ng-star-inserted&quot;]/div[@class=&quot;modal-popup&quot;]/div[@class=&quot;content customContent&quot;]/div[@class=&quot;col-md-12 custom-magrin-bottom&quot;]/div[@class=&quot;col-md-12 loc-header&quot;]/button[@class=&quot;btn-add k-button k-button-icontext ng-star-inserted k-state-focused&quot;]</value>
+      <webElementGuid>1b66a035-ccdb-42e8-9380-7e57b992e014</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='user-listing']/div/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr/td[2]</value>
-      <webElementGuid>8e4c5308-d690-420b-bcbb-5485dcad6526</webElementGuid>
+      <value>//div[@id='project-detail']/div[2]/app-role-loc-modal/div/div/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>2c69514c-9889-4acf-9367-2659de78d344</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='MILESTONE MODULE'])[1]/following::td[2]</value>
-      <webElementGuid>7bc3a599-a4ce-4c77-a76c-b446ba3edb31</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location Details'])[1]/following::button[1]</value>
+      <webElementGuid>cdb90971-98b3-447c-99a4-05361e39c636</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='PLANNING MODULE'])[1]/following::td[2]</value>
-      <webElementGuid>18fbdbfc-e601-4b28-83bd-d3c11b54c87e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtask Verifier 3'])[1]/following::button[1]</value>
+      <webElementGuid>42d2b7f3-d289-48f5-a741-3e79560e567c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='updater10@pethlab.com'])[1]/preceding::td[1]</value>
-      <webElementGuid>6f3099ed-d4db-435c-9546-3337393c96f3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/preceding::button[1]</value>
+      <webElementGuid>95deb4b9-58cd-4da5-8ccb-62a0aff3bba3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='MCS'])[1]/preceding::td[2]</value>
-      <webElementGuid>39ab46a6-ebcd-454d-aebc-0dc10813de2f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOCATION'])[1]/preceding::button[1]</value>
+      <webElementGuid>650d7117-9b8c-4dc5-887e-08f38b04b828</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Rohan, Ahmad']/parent::*</value>
-      <webElementGuid>30a76e15-4957-4932-a52f-0095c77b4950</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Edit location']/parent::*</value>
+      <webElementGuid>10b9ebf2-8e3d-4b90-b785-f5e9f7ac282c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[2]</value>
-      <webElementGuid>b7e19cc2-2c6e-4862-ae73-34f75c35b6ad</webElementGuid>
+      <value>//div[2]/button</value>
+      <webElementGuid>27053555-07af-450f-9e2e-7c048aced297</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = 'Rohan, Ahmad' or . = 'Rohan, Ahmad')]</value>
-      <webElementGuid>e0895543-e0eb-4325-ad73-eedbd0129fae</webElementGuid>
+      <value>//button[(text() = ' Edit location ' or . = ' Edit location ')]</value>
+      <webElementGuid>5cf2b3bc-9823-4c98-9a77-822f88cf4ea1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

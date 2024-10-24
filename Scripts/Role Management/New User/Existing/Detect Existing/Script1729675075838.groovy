@@ -20,8 +20,8 @@ import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 
-TestObject myObject = findTestObject('Object Repository/Page_PITSTOPS/div_Failed The email address has already re_8eb43f')
-WebUI.doubleClick(findTestObject('Object Repository/Page_PITSTOPS/div_Failed The email address has already re_8eb43f'))
+TestObject myObject = findTestObject('Object Repository/Page_PITSTOPS/div_Failed Message')
+WebUI.doubleClick(findTestObject('Object Repository/Page_PITSTOPS/div_Failed Message'))
 
 boolean isPresent = WebUI.waitForElementPresent(myObject, 20)
 

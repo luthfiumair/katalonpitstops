@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_Demo - Copy</name>
+   <name>li_Demo - Role</name>
    <tag></tag>
    <elementGuidId>46ba7036-2235-47cf-9d18-34f3e160e242</elementGuidId>
    <selectorCollection>

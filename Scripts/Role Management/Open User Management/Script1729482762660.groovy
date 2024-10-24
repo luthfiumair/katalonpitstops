@@ -18,6 +18,5 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.switchToWindowTitle('PITSTOPS')
-WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/div_User Management'))
 

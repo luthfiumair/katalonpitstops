@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#a0954a00-6a56-4aa5-9409-ecfce9da6b42-bd0b194c-847f-4921-8e7c-85019c908f44</value>
+         <value>#5eeb64a9-c2f0-4f3a-be49-9451255c8799-bd0b194c-847f-4921-8e7c-85019c908f44</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>aa1461f2-6961-42a0-a2ef-b00a02a37119</webElementGuid>
+      <webElementGuid>b894234c-3c81-49cc-8e8b-aedaee98b850</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>437ab683-c78c-47fe-a0c4-cab67855ac9b</webElementGuid>
+      <webElementGuid>ea733a14-f377-4644-b5ad-9a682d10da0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>k-item ng-star-inserted</value>
-      <webElementGuid>f08ecfc8-c3b2-462a-a283-e0c5f103a4d0</webElementGuid>
+      <webElementGuid>5042a840-b6cb-4ae7-bdeb-9182d9721fb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>a0954a00-6a56-4aa5-9409-ecfce9da6b42-bd0b194c-847f-4921-8e7c-85019c908f44</value>
-      <webElementGuid>2f171ffb-a1cb-488e-ad5d-2523f8cf383b</webElementGuid>
+      <value>5eeb64a9-c2f0-4f3a-be49-9451255c8799-bd0b194c-847f-4921-8e7c-85019c908f44</value>
+      <webElementGuid>2744eef5-a77e-401c-9e06-17ade341e390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>909b1c8d-56a0-421f-8862-8f18c517e376</webElementGuid>
+      <webElementGuid>e8c9b0cf-6086-4b00-9c26-f90d78f390cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>index</name>
       <type>Main</type>
       <value>9</value>
-      <webElementGuid>9c626065-d97f-4f58-8e20-e5c8ba081ec9</webElementGuid>
+      <webElementGuid>5eac0431-c9f8-46f2-8f9e-a6fb942280e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,31 +70,31 @@
       <name>text</name>
       <type>Main</type>
       <value>PETRONAS Penapisan Terengganu Sdn Bhd</value>
-      <webElementGuid>a4d4741d-a7bd-4598-900d-d51da6bfc20b</webElementGuid>
+      <webElementGuid>f59d7ef9-7d47-4053-b02a-825e402b5bea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;a0954a00-6a56-4aa5-9409-ecfce9da6b42-bd0b194c-847f-4921-8e7c-85019c908f44&quot;)</value>
-      <webElementGuid>2c28586d-d621-4f49-a62a-cffa90c19254</webElementGuid>
+      <value>id(&quot;5eeb64a9-c2f0-4f3a-be49-9451255c8799-bd0b194c-847f-4921-8e7c-85019c908f44&quot;)</value>
+      <webElementGuid>8d5a3f0a-27e8-4d06-96ec-f51c98f20901</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//li[@id='a0954a00-6a56-4aa5-9409-ecfce9da6b42-bd0b194c-847f-4921-8e7c-85019c908f44']</value>
-      <webElementGuid>3cb9bc22-f28b-462e-ab30-5b14d643780d</webElementGuid>
+      <value>//li[@id='5eeb64a9-c2f0-4f3a-be49-9451255c8799-bd0b194c-847f-4921-8e7c-85019c908f44']</value>
+      <webElementGuid>b36ca0d2-ea41-40bd-ad3d-1ffede8f15a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='7ed94459-c521-4620-b990-909f1260571d']/li[10]</value>
-      <webElementGuid>925a9def-4aaf-486f-9ffc-d29d9853b73d</webElementGuid>
+      <value>//ul[@id='794bb439-2c39-4a11-bece-f67644726c60']/li[10]</value>
+      <webElementGuid>e2261cfc-45ee-4ead-876f-48efffa2d3ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PETRONAS Gas Berhad'])[1]/following::li[1]</value>
-      <webElementGuid>7f75c600-0dd1-4443-9bb1-5029c019ade8</webElementGuid>
+      <webElementGuid>0d2a6f90-2b94-41bf-9f25-cc2520fb263a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PETRONAS Carigali Sarawak Asset'])[1]/following::li[2]</value>
-      <webElementGuid>e9910721-b2f5-41e3-9b14-3990e731c467</webElementGuid>
+      <webElementGuid>22ad8b27-0b38-4a6f-83c5-6efb01c36655</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Okay'])[1]/preceding::li[1]</value>
-      <webElementGuid>dbaff6d6-46f2-457f-952d-bb3856a46d5d</webElementGuid>
+      <webElementGuid>a788cfb5-f18a-4a4d-b4e6-15c864fb941f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='PETRONAS Penapisan Terengganu Sdn Bhd']/parent::*</value>
-      <webElementGuid>7a829f44-c21f-47fa-9b29-d344e9585bf2</webElementGuid>
+      <webElementGuid>8f5cdf36-2279-4c85-a592-c1a92f58269a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,31 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[10]</value>
-      <webElementGuid>28833815-6cef-4b95-baee-096c71a93001</webElementGuid>
+      <webElementGuid>33b49c23-6454-4c4b-b5f5-eb894ab6316f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = '5eeb64a9-c2f0-4f3a-be49-9451255c8799-bd0b194c-847f-4921-8e7c-85019c908f44' and (text() = 'PETRONAS Penapisan Terengganu Sdn Bhd' or . = 'PETRONAS Penapisan Terengganu Sdn Bhd')]</value>
+      <webElementGuid>6cccd023-a940-4c11-8bef-a1ad6a204f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='a0954a00-6a56-4aa5-9409-ecfce9da6b42-bd0b194c-847f-4921-8e7c-85019c908f44']</value>
+      <webElementGuid>93a69b8b-5fb4-4875-9e80-3710b788271a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='7ed94459-c521-4620-b990-909f1260571d']/li[10]</value>
+      <webElementGuid>8949ca00-cf04-4220-87eb-7ece02db1c18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'a0954a00-6a56-4aa5-9409-ecfce9da6b42-bd0b194c-847f-4921-8e7c-85019c908f44' and (text() = 'PETRONAS Penapisan Terengganu Sdn Bhd' or . = 'PETRONAS Penapisan Terengganu Sdn Bhd')]</value>
-      <webElementGuid>af94f7af-394f-4ec3-827a-ddb71fc3decf</webElementGuid>
+      <webElementGuid>a4b81571-b98e-4fec-972f-d8a285f502b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

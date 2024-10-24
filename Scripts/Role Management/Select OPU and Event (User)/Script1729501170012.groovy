@@ -21,9 +21,6 @@ import org.openqa.selenium.Keys as Keys
 // Click on the dropdown to open it
 WebUI.click(findTestObject('Page_PITSTOPS/span_Demo'))
 
-// You may replace this with a waitForElementVisible
-WebUI.delay(2) 
-
 // Wait for the dropdown options to be visible
 WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PITSTOPS/li_PETRONAS Penapisan Terengganu Sdn Bhd'), 10)
 
@@ -41,7 +38,6 @@ WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_PETRONAS Penapisa
 // Click on the dropdown to open it
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span_Assurance M'))
 
-WebUI.delay(2)
 
 // WfindTestObject('Object Repository/Page_PITSTOPS/span_Assurance M')ait for the dropdown options to become visible
 WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PITSTOPS/li_Jump Event'), 10)

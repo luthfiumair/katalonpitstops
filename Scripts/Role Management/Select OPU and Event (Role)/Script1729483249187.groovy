@@ -17,6 +17,37 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_DEMO_SN'))
-WebUI.delay(2)
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Demo - Training'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span_Demo_Role'))
+
+// Wait for the dropdown options to be visible
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PITSTOPS/li_PETRONAS Penapisan Terengganu Sdn Bhd'), 10)
+
+// Optionally, mouse over the desired item (if necessary)
+WebUI.mouseOver(findTestObject('Object Repository/Page_PITSTOPS/li_PETRONAS Penapisan Terengganu Sdn Bhd'))
+
+// Click on the desired item
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_PETRONAS Penapisan Terengganu Sdn Bhd'))
+
+
+// EVENT SELECTION BELOW
+
+// Click on the dropdown to open it
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span_Assurance M - Role'))
+
+
+// WfindTestObject('Object Repository/Page_PITSTOPS/span_Assurance M')ait for the dropdown options to become visible
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PITSTOPS/li_Jump Event'), 10)
+
+// Ensure the item is clickable before trying to mouse over and click
+WebUI.mouseOver(findTestObject('Object Repository/Page_PITSTOPS/li_Jump Event'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Jump Event'))
+
+
+
+
+
+
+
+

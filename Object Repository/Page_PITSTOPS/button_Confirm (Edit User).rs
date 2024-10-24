@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Confirm</name>
+   <name>button_Confirm (Edit User)</name>
    <tag></tag>
    <elementGuidId>58db9071-bdf5-415a-ba01-ebfe9a10f55b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='delete']/div[3]/button[2]</value>
+         <value>//*[@id=&quot;inform-modal&quot;]/div[3]/button[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>868dbb49-90c9-4081-87ca-3ea421d5b9fb</webElementGuid>
+      <webElementGuid>b93cd315-a0a2-4b7a-8862-156336823231</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>delete-confirm</value>
-      <webElementGuid>714d5a24-09eb-44bf-9527-dbba3622ce54</webElementGuid>
+      <webElementGuid>ebbac8a8-aa30-4635-9020-7dc23a39f45c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Confirm </value>
-      <webElementGuid>a885a5f0-5b9c-4d81-8e51-da5b6a7f7b0c</webElementGuid>
+      <webElementGuid>69e8c937-71f4-4417-812f-df51587202f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;delete&quot;)/div[@class=&quot;jw-modal-footer&quot;]/button[@class=&quot;delete-confirm&quot;]</value>
-      <webElementGuid>c7031ab6-5d2b-4e4f-abde-b4ff5333b553</webElementGuid>
+      <webElementGuid>d9e6138f-e09c-459e-8e1c-027ec6bcf465</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='delete']/div[3]/button[2]</value>
-      <webElementGuid>57c8f28e-e38a-4653-a77b-91a264d8c7ba</webElementGuid>
+      <webElementGuid>52e1d0e1-792c-48d4-a5f0-d4b87560b255</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>c0311fd3-e967-4f95-98f4-c61c152285fa</webElementGuid>
+      <webElementGuid>af70e195-fb53-4f5a-b851-e67afc7e9232</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete this user?'])[1]/following::button[2]</value>
-      <webElementGuid>98a18aad-ee29-4fc8-ad36-be96654ed220</webElementGuid>
+      <webElementGuid>81d91af0-7ac9-4108-88b6-f86e3d2f3275</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
-      <webElementGuid>18531bfd-4f48-403f-9626-0b6e107936e2</webElementGuid>
+      <webElementGuid>0bd3fbc3-a8b0-470b-868e-3edd7027a2e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button[2]</value>
-      <webElementGuid>57e40b76-3dd6-4517-8799-51a4f17be125</webElementGuid>
+      <webElementGuid>266d4c21-87cf-4a70-8ced-e73e540acde0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Confirm ' or . = ' Confirm ')]</value>
-      <webElementGuid>bede8bfc-350d-4aae-9836-32f7a96d1482</webElementGuid>
+      <webElementGuid>2f48dca7-d12d-411b-a8fe-df659c75f3b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

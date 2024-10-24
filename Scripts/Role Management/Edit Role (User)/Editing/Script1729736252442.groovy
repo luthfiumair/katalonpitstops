@@ -17,12 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/td_Click User (Delete)'))
-WebUI.scrollToPosition(0, 1000)
-WebUI.delay(1)
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Delete - User'))
-WebUI.delay(1)
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Confirm - User'))
-WebUI.delay(1)
-WebUI.click(findTestObject('Page_PITSTOPS/button_Okay'))
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Edit_On_User'))
 
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span_Click role on User'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Edit location(Edit User)'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Edit Location(Edit User) - 2'))

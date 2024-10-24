@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Failed The email address has already re_8eb43f</name>
+   <name>div_Failed Message</name>
    <tag></tag>
    <elementGuidId>fcfdeb7e-0319-4ed3-a1b7-5a4612d7b25d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='basic-info']/app-basic-info/div/form/div/div/div[2]/div/div/div/div/div</value>
+         <value>//*[@id=&quot;basic-info&quot;]/app-basic-info/div/form/div/div/div[2]/div/div/div/div[1]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>220cebc8-ade5-413e-b8be-18f8da2a8df4</webElementGuid>
+      <webElementGuid>d3ec4f4b-3232-4691-8fac-abe217115e9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>email-error ng-star-inserted</value>
-      <webElementGuid>fc6d0c35-4b8c-401f-8fb3-352ea72acfdc</webElementGuid>
+      <webElementGuid>11acf6ca-7b55-4bd1-b0ca-87244f90c83c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Failed! The email address has already registered for this event. </value>
-      <webElementGuid>d91503b7-c432-45e7-bc1a-979c7e3bcbf2</webElementGuid>
+      <webElementGuid>fddf8032-2c5b-4271-a0bb-0270c0eb0dba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;basic-info&quot;)/app-basic-info[1]/div[@class=&quot;bootstrap-wrapper&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row kd-custom&quot;]/div[@class=&quot;col-md-12 basic-info&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 email&quot;]/div[@class=&quot;email-error ng-star-inserted&quot;]</value>
-      <webElementGuid>13862cb0-ae58-4151-b174-a190968a0429</webElementGuid>
+      <webElementGuid>88fd0a72-dd53-42f1-8fc8-509333ffb818</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='basic-info']/app-basic-info/div/form/div/div/div[2]/div/div/div/div/div</value>
-      <webElementGuid>31f36c1c-7c73-4294-b50a-9bb210f6512e</webElementGuid>
+      <webElementGuid>2620c98d-1f2d-4436-9adb-ccb28cdeef5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[1]</value>
-      <webElementGuid>f1dad6db-6f41-482c-9aa9-b2ce78faadb2</webElementGuid>
+      <webElementGuid>046c0a91-8f91-445e-86bd-9597718b4fbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::div[1]</value>
-      <webElementGuid>79a74723-f9d5-4798-9b2c-0dbe80c654b5</webElementGuid>
+      <webElementGuid>d82c66be-c7e4-4a56-9785-db8ec59d2efc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Failed! The email address has already registered for this event.']/parent::*</value>
-      <webElementGuid>5e98eefd-20ad-4a2a-be18-1d79dec98bad</webElementGuid>
+      <webElementGuid>48cd7d8a-d108-4b1a-b11d-c1f39e30b53c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/div[2]/div/div/div/div/div</value>
-      <webElementGuid>3a876474-d054-40da-916e-690cc57a1dff</webElementGuid>
+      <webElementGuid>9591c506-af01-440f-98a5-b49375a48d89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Failed! The email address has already registered for this event. ' or . = ' Failed! The email address has already registered for this event. ')]</value>
-      <webElementGuid>615b202e-e967-4e76-922c-a98ac21066f4</webElementGuid>
+      <webElementGuid>c70cd9d8-31e6-426e-83ff-b57c6ee77bbd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

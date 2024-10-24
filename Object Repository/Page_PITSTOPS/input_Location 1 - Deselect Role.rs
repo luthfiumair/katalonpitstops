@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Location 1 - Deselect Role</name>
+   <tag></tag>
+   <elementGuidId>906b17de-6ec0-44ba-9669-45929af3c6ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/dialog-holder/dialog-wrapper/div/app-location-edit-model/div/div/div[2]/div/div[5]/kendo-expansionpanel/div[1]/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.k-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d6e68472-e022-4006-9767-e229c57bbabe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>4327786c-5604-4add-af5b-e8262dbcb308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-checkbox</value>
+      <webElementGuid>3c26b629-52c3-49d4-af4c-67d287a1ca8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-1&quot;]/dialog-holder[1]/dialog-wrapper[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal fade show in&quot;]/app-location-edit-model[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-dialog ng-star-inserted&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;location-container&quot;]/div[@class=&quot;location-item ng-star-inserted&quot;]/kendo-expansionpanel[@class=&quot;main-container k-expander ng-star-inserted&quot;]/div[@class=&quot;k-expander-header&quot;]/div[@class=&quot;ng-star-inserted&quot;]/input[@class=&quot;k-checkbox&quot;]</value>
+      <webElementGuid>430363c9-dbb4-4823-855b-b3493af9cd08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='checkbox']</value>
+      <webElementGuid>72b822c5-af0d-4611-9d6a-db6f5c97e568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kendo-expansionpanel/div/div/input</value>
+      <webElementGuid>9accabda-d965-4413-94e5-164c0365c0ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>a2fa8abb-b96d-46c0-91a7-b5d2346b503d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

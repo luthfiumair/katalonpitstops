@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//kendo-dropdownlist[@textfield='opuName']</value>
+         <value>//*[@id=&quot;user-listing&quot;]/div/div[1]/div[1]/kendo-dropdownlist</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#125e4732-80b0-42d0-a4ab-b8f700675026</value>
+         <value>#8c5de3b4-876b-40eb-8b11-370912d33b39</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4b64f813-bea8-4535-922b-70fc00ef4be7</webElementGuid>
+      <webElementGuid>dc1d2bab-8ce1-45e4-a91c-337aba299e3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>b91d976c-8712-4d21-942c-5f11a12628d7</webElementGuid>
+      <webElementGuid>30a0ec07-c62b-4531-9447-8e29317c64a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>k-input</value>
-      <webElementGuid>e5ed9cf4-d40f-4380-9b01-1865b29064f4</webElementGuid>
+      <webElementGuid>05f4b067-ae58-4fb6-86bf-3f231d294965</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>125e4732-80b0-42d0-a4ab-b8f700675026</value>
-      <webElementGuid>e3f8b427-aeb9-42ed-85f2-3e871fcbe8fc</webElementGuid>
+      <value>8c5de3b4-876b-40eb-8b11-370912d33b39</value>
+      <webElementGuid>3ec09cec-253c-4109-a3ff-cdd1369626b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,31 +54,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Demo</value>
-      <webElementGuid>72959208-4d39-4622-8b57-3f7e86f6395d</webElementGuid>
+      <webElementGuid>185b0f3f-1f62-47c3-887c-64ba58074c67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;125e4732-80b0-42d0-a4ab-b8f700675026&quot;)</value>
-      <webElementGuid>0f22c95b-cf80-436f-b970-e81fe8a5df11</webElementGuid>
+      <value>id(&quot;8c5de3b4-876b-40eb-8b11-370912d33b39&quot;)</value>
+      <webElementGuid>7c785e49-4478-409c-a44f-97291aa355c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//span[@id='125e4732-80b0-42d0-a4ab-b8f700675026']</value>
-      <webElementGuid>8f131774-6838-4ba7-8ec6-890d62bdb9b9</webElementGuid>
+      <value>//span[@id='8c5de3b4-876b-40eb-8b11-370912d33b39']</value>
+      <webElementGuid>e97ee938-ff85-48b0-9ebb-71c155feb618</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='k-0e0a5a4f-2d01-4092-b369-0abd06f84019']/span</value>
-      <webElementGuid>fa3ab0a5-91b3-48d8-8798-cf5899e30677</webElementGuid>
+      <value>//span[@id='k-4d076aa9-52c3-4fb6-907a-0badfff9a06d']/span</value>
+      <webElementGuid>bb031e1f-81c7-4b4a-9382-279db323a478</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::span[2]</value>
-      <webElementGuid>e2f1098f-446f-410e-b785-bee71a16f1ca</webElementGuid>
+      <webElementGuid>aaa9985e-72a5-47f2-a90b-c228bf271282</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Management'])[3]/following::span[2]</value>
-      <webElementGuid>f9a01259-2c1a-461d-93ed-20c52a0fb5c6</webElementGuid>
+      <webElementGuid>4c8d6585-e2c9-458b-9d66-c349981c369a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/preceding::span[3]</value>
-      <webElementGuid>3a48a0c3-b502-4707-8bfe-4218fc08d453</webElementGuid>
+      <webElementGuid>ff99518a-03fa-423e-ba79-c2e4fefcbb64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Testing'])[1]/preceding::span[3]</value>
-      <webElementGuid>104e2cd6-5e59-4d73-8592-872a96a0dc34</webElementGuid>
+      <webElementGuid>f002aa22-59eb-4a32-bae7-682685c16f38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Demo']/parent::*</value>
-      <webElementGuid>e6fe09b6-5449-4cad-999f-395728d4ac58</webElementGuid>
+      <webElementGuid>e88e72e0-1586-4822-8e68-54d1dab2f39b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,31 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/kendo-dropdownlist/span/span</value>
-      <webElementGuid>07554596-a61d-4b8f-af11-fcc777bf2c34</webElementGuid>
+      <webElementGuid>f9c6fbcb-e965-486b-b31b-cc2d020f4b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '8c5de3b4-876b-40eb-8b11-370912d33b39' and (text() = 'Demo' or . = 'Demo')]</value>
+      <webElementGuid>17cc742d-5cb8-46cd-aa77-55342cfdfb96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='125e4732-80b0-42d0-a4ab-b8f700675026']</value>
+      <webElementGuid>50676f2b-ec3f-4fc3-a282-54b70cbea884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='k-0e0a5a4f-2d01-4092-b369-0abd06f84019']/span</value>
+      <webElementGuid>e859d3e7-f748-4050-ab7a-0c76002bb518</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +158,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = '125e4732-80b0-42d0-a4ab-b8f700675026' and (text() = 'Demo' or . = 'Demo')]</value>
-      <webElementGuid>456dfa91-88d9-47f2-8a62-6d35f63153ca</webElementGuid>
+      <webElementGuid>d61a7117-da12-4b33-ba6e-db75b4485728</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +166,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='451506ce-91a1-43f7-8ebb-eaec876ce038']</value>
-      <webElementGuid>bc21ad21-bf99-4d42-bcf7-03fa3985f50a</webElementGuid>
+      <webElementGuid>92d68471-efa6-4db3-a85b-83fa79bb889e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +174,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='k-896e4ffe-aee8-4a60-8800-d61d48c0ae3b']/span</value>
-      <webElementGuid>4f7ae39c-ad8d-4019-a27d-038fd96e75b0</webElementGuid>
+      <webElementGuid>dac6e3b1-50a1-4e73-8486-4cd76149fee5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[2]</value>
-      <webElementGuid>627ec616-56e7-4d4a-b71c-f97800721cef</webElementGuid>
+      <webElementGuid>7af31e34-6486-4d4b-9967-04cbfdb22181</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +190,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::span[3]</value>
-      <webElementGuid>62c798e4-8ba7-499f-8c4b-feb9b2ff0038</webElementGuid>
+      <webElementGuid>5dc20d31-ea48-41dd-a562-31387120843f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +198,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::span[3]</value>
-      <webElementGuid>e2716af8-24d9-45af-98ba-e5eaa9e399ee</webElementGuid>
+      <webElementGuid>9f8110fe-f0e6-44f9-8c93-e795866f4e03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,6 +206,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = '451506ce-91a1-43f7-8ebb-eaec876ce038' and (text() = 'Demo' or . = 'Demo')]</value>
-      <webElementGuid>9a2ca764-90e8-444b-9e4d-7b7a0c88d68f</webElementGuid>
+      <webElementGuid>409628b7-f850-4ea8-8dc3-191855baaf57</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

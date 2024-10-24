@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Demo_1</name>
+   <name>span_Demo_Role</name>
    <tag></tag>
    <elementGuidId>88aa2566-3f15-47a9-9e27-4069f9f806e6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='c94329d4-0af8-4394-854f-c5ad8cbe0a6e']</value>
+         <value>/html/body/app-root/app-admin-layout/div[2]/div[2]/div/div/div/app-list-role/div/div/div/div/div[1]/div[1]/kendo-dropdownlist</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>377e7c61-88b4-401b-9212-c25cef6a17f9</webElementGuid>
+      <webElementGuid>b6f32cfd-4f6d-4a14-8d4b-2c98671a0647</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>94284ef5-c835-4a43-a8b0-faa086663195</webElementGuid>
+      <webElementGuid>96b2140e-2ef7-4d3f-b89a-2a3accdd490c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-input</value>
-      <webElementGuid>68533193-7815-4ed4-b482-e42a4e2148d9</webElementGuid>
+      <webElementGuid>f9426d67-b0d3-4666-98a4-6148c2ec33ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>c94329d4-0af8-4394-854f-c5ad8cbe0a6e</value>
-      <webElementGuid>ce559833-8f6b-4b97-bc14-38c3f01c72d3</webElementGuid>
+      <webElementGuid>c84a6384-78e1-4540-a9a6-fa20c83f1a9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Demo</value>
-      <webElementGuid>761ca33d-c2a3-46a1-84b1-1bd170543060</webElementGuid>
+      <webElementGuid>65c99a82-7152-4500-81c4-6cf920719e47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;c94329d4-0af8-4394-854f-c5ad8cbe0a6e&quot;)</value>
-      <webElementGuid>e1f48225-7daa-4089-936d-5fea0278cf85</webElementGuid>
+      <webElementGuid>a330e8b7-9984-4e45-b276-bcf39a83f974</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='c94329d4-0af8-4394-854f-c5ad8cbe0a6e']</value>
-      <webElementGuid>c1397f7b-1af2-48d9-a7f2-6aee8b9df31f</webElementGuid>
+      <webElementGuid>ddca65b1-0593-49f7-accb-dfc49a89da86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='k-d04dc866-c6da-4071-b53d-639fc3d1777d']/span</value>
-      <webElementGuid>0beffe67-426d-413e-97f5-d3d8d6c3cc96</webElementGuid>
+      <webElementGuid>0d6f2239-18d2-4061-bc98-58c6a9640c47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[2]</value>
-      <webElementGuid>46974d14-0efe-4c4a-b1c2-f0b9658e4b56</webElementGuid>
+      <webElementGuid>a2ab36f5-b991-45c3-a475-fe50e60aaeaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::span[3]</value>
-      <webElementGuid>f816ff1b-6ba8-467e-bbbe-b94239885ba0</webElementGuid>
+      <webElementGuid>f66d7385-6d2a-445b-b24c-7cb0f912cfc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/preceding::span[3]</value>
-      <webElementGuid>59375cb6-6047-4608-8e89-4f9fddd8c3c4</webElementGuid>
+      <webElementGuid>143fbf92-8e8a-4c0f-8556-dfb3fb98697f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::span[3]</value>
-      <webElementGuid>b1082340-ccff-4136-93d9-06eb11ded0ac</webElementGuid>
+      <webElementGuid>6c1fc06c-b680-4534-bbd9-b7b35de9bc74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Demo']/parent::*</value>
-      <webElementGuid>3122d9b8-0b54-495f-886f-cebe3861d37c</webElementGuid>
+      <webElementGuid>b4da53de-c7f9-40a1-bea8-acffa7701172</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/kendo-dropdownlist/span/span</value>
-      <webElementGuid>e3fa3f3c-027d-4db5-b845-edebd783043a</webElementGuid>
+      <webElementGuid>f802e317-dfa5-4bc8-8347-901ae9947d9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'c94329d4-0af8-4394-854f-c5ad8cbe0a6e' and (text() = 'Demo' or . = 'Demo')]</value>
-      <webElementGuid>f8a7ecc4-98e3-47f5-989a-658682e270e1</webElementGuid>
+      <webElementGuid>861bf296-1847-43e6-8e13-2e28a1dc5ef9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='cc4b2ff9-23c0-4b47-a164-f2cfbdbb93a4']</value>
-      <webElementGuid>ccb73c36-e6b8-462d-ba8a-69ae9ee1cfba</webElementGuid>
+      <webElementGuid>c001bd45-bdcb-4a70-9de7-8f8f1351d195</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='k-9d9d84f7-90d3-4c6f-8c83-3083dc27ca86']/span</value>
-      <webElementGuid>84f26f9c-46c9-4341-8e49-2e20c5058ed8</webElementGuid>
+      <webElementGuid>a5557cb5-7cd3-48e6-b9a7-12e4e1323080</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::span[2]</value>
-      <webElementGuid>023b6f40-becd-4492-8bce-1c2493fce748</webElementGuid>
+      <webElementGuid>d74deab8-4001-4a16-bfaa-80cbbe613768</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Management'])[3]/following::span[2]</value>
-      <webElementGuid>d59c5b66-b082-48ba-a9a8-6cdf696337b0</webElementGuid>
+      <webElementGuid>c52c4ae1-5ec8-4e04-8366-55c422593bd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Testing'])[1]/preceding::span[3]</value>
-      <webElementGuid>10d0a9bf-50f4-4f55-b9c7-67fdfdebbb1f</webElementGuid>
+      <webElementGuid>82a3cd35-fc9e-4f4f-8fdb-5b432dc10cf4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,6 +182,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'cc4b2ff9-23c0-4b47-a164-f2cfbdbb93a4' and (text() = 'Demo' or . = 'Demo')]</value>
-      <webElementGuid>eb9c41dc-93fc-4651-95d8-6801f2ff0f87</webElementGuid>
+      <webElementGuid>1ee27d68-004e-4ce7-be95-02972213c102</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

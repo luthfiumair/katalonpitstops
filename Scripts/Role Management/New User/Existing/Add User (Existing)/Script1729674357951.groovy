@@ -25,7 +25,7 @@ TestObject inputField = findTestObject('Object Repository/Page_PITSTOPS/input_em
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/input_emailentry'))
 
-WebUI.setText(findTestObject('Object Repository/Page_PITSTOPS/input_emailentry'), 'subverify4@pethlab.com')
+WebUI.setText(findTestObject('Object Repository/Page_PITSTOPS/input_emailentry'), 'subverify5@pethlab.com')
 
 WebUI.sendKeys(inputField, Keys.chord(Keys.ENTER))
 WebUI.delay(10)
