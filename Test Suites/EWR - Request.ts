@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Delete Role</name>
+   <name>EWR - Request</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,33 +10,26 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>acd46795-f4e1-49d1-aca1-f1829c4ec1de</testSuiteGuid>
+   <testSuiteGuid>213853e2-aaf8-49dc-a24c-dbaae26c4a8c</testSuiteGuid>
    <testCaseLink>
-      <guid>53a5370c-3960-460c-9f99-0d8dcb90ff20</guid>
+      <guid>bd769830-5c03-4f60-907e-66372a802073</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Enterprise Admin Login</testCaseId>
+      <testCaseId>Test Cases/Login/Execution Module Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b491d857-53f0-48f8-9d12-61c8fca43630</guid>
+      <guid>05fa6b4c-9a6a-4c2b-a9da-bbf4dd9340f7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Role Management/Open Role Management</testCaseId>
+      <testCaseId>Test Cases/Login/Change OPUnEvent</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>8f7f00c5-99f5-49c8-9b15-c8d9edfa08e4</guid>
+      <guid>a8075d48-6253-4bdf-b535-65e1948888a1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Role Management/Select OPU and Event (Role)</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>7123ec8d-f9b8-435d-8dd2-1931bc4cbb5a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Role Management/Edit Role (Role)/Deleting Role</testCaseId>
+      <testCaseId>Test Cases/EWR Config (2)/EWR - Request</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

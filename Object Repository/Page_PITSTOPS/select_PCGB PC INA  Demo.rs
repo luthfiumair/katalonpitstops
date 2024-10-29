@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_PCGB PC INA  Demo</name>
+   <tag></tag>
+   <elementGuidId>a1d0d29e-beab-4362-859e-6317ba3c7866</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='opu-list']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#opu-list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8a7ebe62-46d4-4016-99ef-228a82b0edb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opu-list</value>
+      <webElementGuid>5068c5c0-02db-4467-b2eb-fe4181d49c4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> PCGB PC INA  Demo </value>
+      <webElementGuid>f5ef2a28-39ca-4a28-8081-492b56f0899d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opu-list&quot;)</value>
+      <webElementGuid>93f7cd80-34d3-4d14-adec-9339c82d06e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='opu-list']</value>
+      <webElementGuid>0008f038-0146-4f47-9d22-3eeffbb997ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::select[1]</value>
+      <webElementGuid>3396ef82-997b-47bc-b653-f86ee81e5382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/preceding::select[1]</value>
+      <webElementGuid>f0e4f8e4-a37f-4747-9518-165eee97051a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Execution Homepage'])[1]/preceding::select[2]</value>
+      <webElementGuid>be163e5a-80ba-4a9f-b7e2-dc4a9000c2e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>7a59a4f8-03f5-40d0-9b44-26a92bb3c3cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'opu-list' and (text() = ' PCGB PC INA  Demo ' or . = ' PCGB PC INA  Demo ')]</value>
+      <webElementGuid>db1c323a-e71a-4848-9b98-ea74e046e81c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit Role (Role)</name>
+   <tag></tag>
+   <elementGuidId>d7726612-ee5f-4322-a03e-8c6fa8e43ade</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/dialog-holder/dialog-wrapper/div/app-detail-form/div/div/div[3]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>759f77bc-7867-4d1d-b72c-5d08f1b0e22d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>0e838e12-c3ca-432f-ae8c-01bad7952a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>d4b5d22d-7e83-4ba2-a3c2-17b6990b97a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-1&quot;]/app-root[1]/app-admin-layout[1]/div[@class=&quot;bootstrap-wrapper cus-fixed&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-create-user[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;bootstrap-wrapper&quot;]/div[@class=&quot;create-user-body&quot;]/app-self-registration[1]/div[@class=&quot;bootstrap-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-lg-12 right-content&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;actions ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>4f3fd344-44ab-4450-81da-41d7219076ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::button[1]</value>
+      <webElementGuid>d8d34909-0765-43d9-8c15-2e49e9070e24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add new role'])[1]/following::button[2]</value>
+      <webElementGuid>833e5d51-5b12-4a1d-8cfa-9bc56c9e6bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Okay'])[1]/preceding::button[1]</value>
+      <webElementGuid>724bdaff-e206-40d6-9194-9e948eef9345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
+      <webElementGuid>67680b7c-3cb7-4ad9-81fc-40d678bb46a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>baec28f3-44cb-44c4-a634-8dbb2bca027c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>b3a506d1-d64c-4190-8eca-c1d7581119d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

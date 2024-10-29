@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/inp
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
 
-//WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'),3)
+//WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'),10)
 WebUI.delay(1)
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd'), '8ONjX3ggx5TeICilsxkl7A==')
 

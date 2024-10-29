@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_Subtask Updater RFI</name>
+   <name>td_Click Role</name>
    <tag></tag>
    <elementGuidId>d9c26a35-0d38-43f2-963d-843429c6cf3b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='k-tabstrip-tabpanel-0']/div/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr/td[2]</value>
+         <value>//*[@id=&quot;k-tabstrip-tabpanel-0&quot;]/div/kendo-grid/div/kendo-grid-list/div/div[1]/table/tbody/tr[3]/td[2]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>76089d7b-99a6-45e0-aeb2-344f903ce5cd</webElementGuid>
+      <webElementGuid>9f657b71-ecd1-443b-a7c8-70329bc0396e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>64cff07d-a32e-436e-8ac6-15ecd4861ecb</webElementGuid>
+      <webElementGuid>9ed381b5-e223-4c40-abc0-1498da94ffc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-touch-action-auto ng-star-inserted</value>
-      <webElementGuid>f68e3e6c-166d-4546-8db8-dc05977431c7</webElementGuid>
+      <webElementGuid>cfab7d80-2e5e-405e-b13e-aa257a99f92a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>data-kendo-grid-column-index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>f6dafb53-7317-43ba-bd1b-b7fdc1578b2a</webElementGuid>
+      <webElementGuid>16f2319c-22ac-4b43-9f25-fb6035fb6963</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f939d7b9-5d3d-4bdd-9fec-4a4fe786ad9e</webElementGuid>
+      <webElementGuid>f367d12a-be9f-4417-b63a-83a964c97c5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>colspan</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>cdccbc28-6a2f-42b0-9e61-30f581d2d9f0</webElementGuid>
+      <webElementGuid>48163f9b-90a3-43c6-9de1-b276071b3555</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>aria-colindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>4c42e080-2f58-42ec-b476-466ad62324e4</webElementGuid>
+      <webElementGuid>119a8c11-4286-46d7-b2f5-533ac13c1a33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Subtask Updater RFI </value>
-      <webElementGuid>6f10e2cc-66b3-44e8-b376-bd9817daba40</webElementGuid>
+      <webElementGuid>b7e8f057-62e0-4f4d-970a-ad1085b157f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;k-tabstrip-tabpanel-0&quot;)/div[@class=&quot;user-listing ng-star-inserted&quot;]/kendo-grid[@class=&quot;custom-grid k-widget k-grid ng-star-inserted&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;k-touch-action-auto ng-star-inserted&quot;]</value>
-      <webElementGuid>51bdebea-71ee-4187-a798-393fffc54f4d</webElementGuid>
+      <webElementGuid>4d89475a-07e8-4f18-ba5a-cb707377d07b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='k-tabstrip-tabpanel-0']/div/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr/td[2]</value>
-      <webElementGuid>3949c202-5e40-41d3-9cf3-ffe2730e8404</webElementGuid>
+      <webElementGuid>e9e35d0a-a132-43b9-a6c3-bc9c8bcd5349</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Discipline'])[1]/following::td[2]</value>
-      <webElementGuid>e7637620-9268-4fee-8984-cc5b799f66e2</webElementGuid>
+      <webElementGuid>1700a8b0-bcaa-4967-b989-a6fb64e49fad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Module'])[1]/following::td[2]</value>
-      <webElementGuid>7e2ae020-890b-4c17-a419-07d28ff72c63</webElementGuid>
+      <webElementGuid>810075e1-e065-4527-bec3-66fb4414ad36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtask Updater RFI'])[2]/preceding::td[1]</value>
-      <webElementGuid>2010e4f4-5d01-4c09-a003-f8070fdc5c68</webElementGuid>
+      <webElementGuid>32d174cd-1490-4f0f-aea7-3be20fc7d5d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]</value>
-      <webElementGuid>50d23118-f78f-4c36-8ce5-b4b606ff5903</webElementGuid>
+      <webElementGuid>beb4918c-e972-4448-bd47-271319012fff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = ' Subtask Updater RFI ' or . = ' Subtask Updater RFI ')]</value>
-      <webElementGuid>7ffc582f-4a7f-4e78-8b4b-8fabff48055b</webElementGuid>
+      <webElementGuid>36dffbe2-2d72-4df8-82c5-dcba8147bce3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

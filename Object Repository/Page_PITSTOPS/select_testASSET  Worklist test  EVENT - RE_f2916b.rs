@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_testASSET  Worklist test  EVENT - RE_f2916b</name>
+   <tag></tag>
+   <elementGuidId>8e30f265-11e1-4245-a560-f8030e93853c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='event-list']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#event-list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f9f5ed80-4ee3-4bcd-9cc7-fb0ce7fc3a7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>event-list</value>
+      <webElementGuid>83f2e8ce-6c18-4d51-a0a9-c89126e766c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> testASSET  Worklist test  EVENT - REGRESSION  EVENT - REGRESSION 2  Automation Keris </value>
+      <webElementGuid>3107809b-d0d3-415f-bdff-daaf2cccea06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;event-list&quot;)</value>
+      <webElementGuid>64a23957-a5ee-4800-adef-ae4a409ac709</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='event-list']</value>
+      <webElementGuid>927887fb-8b59-4ae5-aa0e-9000fe80c8bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::select[1]</value>
+      <webElementGuid>a2a54a85-e5f8-4a24-9979-26336d0059e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::select[2]</value>
+      <webElementGuid>3c0c2c22-548d-4ba0-ad4e-82a773131bdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Planning Homepage'])[1]/preceding::select[1]</value>
+      <webElementGuid>b87d31df-d4cc-4098-8634-4d39609935eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Notifications (0)'])[1]/preceding::select[1]</value>
+      <webElementGuid>0b2ad449-51db-4d5e-96cf-4d270042acd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/select</value>
+      <webElementGuid>ec44dc94-6a7e-4495-bf3f-9a1ee22251c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'event-list' and (text() = ' testASSET  Worklist test  EVENT - REGRESSION  EVENT - REGRESSION 2  Automation Keris ' or . = ' testASSET  Worklist test  EVENT - REGRESSION  EVENT - REGRESSION 2  Automation Keris ')]</value>
+      <webElementGuid>3f33386a-9ed3-484f-99ea-0bbcf4300d60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

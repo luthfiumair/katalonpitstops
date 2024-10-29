@@ -15,7 +15,7 @@
       <guid>22618b04-23f4-474a-a255-1202214aec5a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login Enterprise/Enterprise Admin Login</testCaseId>
+      <testCaseId>Test Cases/Login/Enterprise Admin Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -36,7 +36,7 @@
       <guid>cdca1a58-fa37-4b5a-b3d5-7d7573322378</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Role Management/Deleting User</testCaseId>
+      <testCaseId>Test Cases/Role Management/Edit Role (User)/Deleting User</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

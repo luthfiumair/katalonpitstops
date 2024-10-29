@@ -17,15 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span_EWR'))
 
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/input_EWR - Approve Execution_styled-checkb_11637f'))
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Add New User'))
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/input_EWR - Approve Isolation_styled-checkb_358c5b'))
 
-TestObject inputField = findTestObject('Object Repository/Page_PITSTOPS/input_emailentry')
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Save (Edit Role - Role)'))
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/input_emailentry'))
-
-WebUI.setText(findTestObject('Object Repository/Page_PITSTOPS/input_emailentry'), 'subverify5@pethlab.com')
-
-WebUI.sendKeys(inputField, Keys.chord(Keys.ENTER))
-WebUI.delay(10)
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Confirm - Edit Role'))

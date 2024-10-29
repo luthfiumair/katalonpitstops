@@ -17,15 +17,20 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/div_CivilConstructionElectricalInstrument  _e2951c'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Piping'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Rotating'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Static'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/div_Start UpShutdownExecutionPre ExecutionP_44a1e4'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Pre Execution'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Post Execution'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Start Up'))
 
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Add New User'))
-
-TestObject inputField = findTestObject('Object Repository/Page_PITSTOPS/input_emailentry')
-
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/input_emailentry'))
-
-WebUI.setText(findTestObject('Object Repository/Page_PITSTOPS/input_emailentry'), 'subverify5@pethlab.com')
-
-WebUI.sendKeys(inputField, Keys.chord(Keys.ENTER))
-WebUI.delay(10)

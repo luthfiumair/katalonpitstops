@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Resources</name>
+   <tag></tag>
+   <elementGuidId>14659734-ee53-40e2-931f-79dbfc33c859</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Excel'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.item-1.left-20.k-button.k-primary.ng-star-inserted.k-state-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>83bec4b7-1ce3-4d0a-a89e-e78e19914e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-1 left-20 k-button k-primary ng-star-inserted k-state-focused</value>
+      <webElementGuid>b04f33b1-5871-49db-890e-3d46ee673b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6181e0be-a1f8-403e-b23f-06f52c4faeae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>097efd8a-ee0d-4b4f-a0bc-8d7207b29f1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>33c999ca-f9f3-4692-9cb2-40dfa1d0827c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Add Resources </value>
+      <webElementGuid>535e76d5-79bc-4ce8-8e83-e65d6ba01a2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-admin-layout[1]/div[@class=&quot;bootstrap-wrapper cus-fixed&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-ewr[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ewr-content&quot;]/div[@class=&quot;col-md-12 custom cus-pager&quot;]/div[@class=&quot;action-header&quot;]/div[@class=&quot;right&quot;]/div[2]/button[@class=&quot;item-1 left-20 k-button k-primary ng-star-inserted k-state-focused&quot;]</value>
+      <webElementGuid>18da7dce-46f0-41f8-b99a-7777413ab902</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Excel'])[1]/following::button[1]</value>
+      <webElementGuid>9be0c114-9989-49af-9d71-a3af1e997523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::button[2]</value>
+      <webElementGuid>e5d057d1-9a98-47b2-8140-2815080d2787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Requests'])[1]/preceding::button[1]</value>
+      <webElementGuid>5c24906c-5d8b-4d6e-bd94-4b52317524c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Resources']/parent::*</value>
+      <webElementGuid>cdfd90d3-1e66-4dcb-b58d-e367b045ee2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>d7c60437-d2a2-4d72-b681-cef49895671e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '+ Add Resources ' or . = '+ Add Resources ')]</value>
+      <webElementGuid>e02d3e1c-d731-49f9-8cf3-6bb3e2ae5208</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

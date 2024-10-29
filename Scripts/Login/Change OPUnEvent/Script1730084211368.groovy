@@ -17,15 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_PITSTOPS/select_PCGB PC INA  Demo'), 'OPU_Demo', true)
 
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/div_Event testASSET  Worklist test  EVENT -_593bfc'))
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Add New User'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_PITSTOPS/select_testASSET  Worklist test  EVENT - RE_f2916b'), 
+    'fc6c7b80-fd85-4fd5-a882-08dcf031bd39', true)
 
-TestObject inputField = findTestObject('Object Repository/Page_PITSTOPS/input_emailentry')
-
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/input_emailentry'))
-
-WebUI.setText(findTestObject('Object Repository/Page_PITSTOPS/input_emailentry'), 'subverify5@pethlab.com')
-
-WebUI.sendKeys(inputField, Keys.chord(Keys.ENTER))
-WebUI.delay(10)

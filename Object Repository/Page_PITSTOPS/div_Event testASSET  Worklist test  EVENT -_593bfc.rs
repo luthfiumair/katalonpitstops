@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Event testASSET  Worklist test  EVENT -_593bfc</name>
+   <tag></tag>
+   <elementGuidId>4d5bc8a3-5b06-4474-b25f-031cff08d462</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1cfd6d28-f1a2-4574-b376-e0da59393aac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-opu</value>
+      <webElementGuid>9193a8c5-5061-47e8-9046-520b5cc918c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Event testASSET  Worklist test  EVENT - REGRESSION  EVENT - REGRESSION 2  Automation Keris </value>
+      <webElementGuid>580c6c34-8b3d-4268-9f6c-f616cb850fc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-admin-layout[1]/div[@class=&quot;app-header&quot;]/div[@class=&quot;bootstrap-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-header[1]/div[@class=&quot;pitstops-header&quot;]/div[@class=&quot;h-left&quot;]/div[@class=&quot;chosse_opu&quot;]/div[@class=&quot;dropdown-opu&quot;]</value>
+      <webElementGuid>9041889a-f920-47b7-8a7f-7c1e230e0ca8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::div[3]</value>
+      <webElementGuid>d0a4ddc6-e1da-441b-bad7-055720faad9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Planning Homepage'])[1]/preceding::div[1]</value>
+      <webElementGuid>88a42f3f-c064-4a08-aa4a-c64d6986f8f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div</value>
+      <webElementGuid>104ca213-a25f-40f6-9c79-2e7540ddf81c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Event testASSET  Worklist test  EVENT - REGRESSION  EVENT - REGRESSION 2  Automation Keris ' or . = 'Event testASSET  Worklist test  EVENT - REGRESSION  EVENT - REGRESSION 2  Automation Keris ')]</value>
+      <webElementGuid>1cf3e7e7-4763-4c2a-9e1a-849242ef3f71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

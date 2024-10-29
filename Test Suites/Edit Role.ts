@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Add User Planning</name>
+   <name>Edit Role</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,54 +10,54 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>65c2efed-bf7e-4c1c-a2cd-e16298f12802</testSuiteGuid>
+   <testSuiteGuid>21d74751-7037-4f17-bb14-53f2c7025719</testSuiteGuid>
    <testCaseLink>
-      <guid>496e002e-00a5-4b8c-9022-a83ec4a87b58</guid>
+      <guid>74b04cbe-238a-4d59-ba98-05942c6af5dd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Login/Enterprise Admin Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>534399f1-d305-4220-9be6-3a256e8b4c26</guid>
+      <guid>baf50cb2-787d-4014-a2b7-c462222b08be</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Role Management/Open User Management</testCaseId>
+      <testCaseId>Test Cases/Role Management/Open Role Management</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>be85ba0e-55c4-428f-a714-d48f8afcca33</guid>
+      <guid>6a47d410-0291-47b8-9afe-b840dcd41dfa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Role Management/Select OPU and Event (User)</testCaseId>
+      <testCaseId>Test Cases/Role Management/Select OPU and Event (Role)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>bcc826aa-7a8e-442e-b984-1be02d9eff38</guid>
+      <guid>4ffdeb1f-8e74-4d05-b203-2802c40d2882</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Role Management/New User/Insert User Email</testCaseId>
+      <testCaseId>Test Cases/Role Management/Edit Role (Role)/Click Role</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>59dc5959-6c57-46dd-8093-a14d1404ece6</guid>
+      <guid>de02758c-20b9-4f55-9047-b934d7381507</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Role Management/New User/Save User</testCaseId>
+      <testCaseId>Test Cases/Role Management/Edit Role (Role)/Editing Role</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>8a7a2b1f-7bf8-4ad4-b721-23428cae4fe3</guid>
+      <guid>a9950db0-4c66-4a18-9c8e-91ab75ff142f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Role Management/New User/Select Location</testCaseId>
+      <testCaseId>Test Cases/Role Management/Edit Role (Role)/Remove Discipline n Phase</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>91fd5b4f-4b3a-4bbc-a449-045f67c0be6f</guid>
+      <guid>699b5111-af11-43f6-9a3b-924bdab6110a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Role Management/New User/Add New User</testCaseId>
+      <testCaseId>Test Cases/Role Management/Edit Role (Role)/Edit Role</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

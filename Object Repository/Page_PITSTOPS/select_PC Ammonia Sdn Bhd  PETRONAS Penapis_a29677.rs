@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_PC Ammonia Sdn Bhd  PETRONAS Penapis_a29677</name>
+   <tag></tag>
+   <elementGuidId>87d9ddee-d528-4446-9975-38c7eb19d159</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#opu-list</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='opu-list']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f37653a2-4d74-4585-8d4a-7448825b11b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opu-list</value>
+      <webElementGuid>4ab205ba-f0df-4288-86bf-284a4281bea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> PC Ammonia Sdn Bhd  PETRONAS Penapisan Terengganu Sdn Bhd  Demo  PETRONAS Carigali Sarawak Asset  Malaysia LNG Sdn Bhd  PCGB PCMSB Plant 1 </value>
+      <webElementGuid>d1c5facb-0813-4d45-97f0-5b4e1305a0bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opu-list&quot;)</value>
+      <webElementGuid>6ac7d2dd-5536-4e1b-9534-d8b64bb8459e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='opu-list']</value>
+      <webElementGuid>7d1d64a8-4d2b-4614-aba9-a7bf934e81cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::select[1]</value>
+      <webElementGuid>9c5fc9c4-eb23-4038-b243-2d12dcf40593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/preceding::select[1]</value>
+      <webElementGuid>c1be4bcb-9a2e-4431-8c31-e0d6e1d8221d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Execution Homepage'])[1]/preceding::select[2]</value>
+      <webElementGuid>4723b95b-570f-4236-899a-b05fbc12df46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>91171ca0-7706-47c3-b6ff-d92b1ab948e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'opu-list' and (text() = ' PC Ammonia Sdn Bhd  PETRONAS Penapisan Terengganu Sdn Bhd  Demo  PETRONAS Carigali Sarawak Asset  Malaysia LNG Sdn Bhd  PCGB PCMSB Plant 1 ' or . = ' PC Ammonia Sdn Bhd  PETRONAS Penapisan Terengganu Sdn Bhd  Demo  PETRONAS Carigali Sarawak Asset  Malaysia LNG Sdn Bhd  PCGB PCMSB Plant 1 ')]</value>
+      <webElementGuid>f5494077-c63a-4ee5-bc88-fd0885909877</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
