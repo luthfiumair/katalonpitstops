@@ -3,15 +3,15 @@
    <description></description>
    <name>select_PC Ammonia Sdn Bhd  PETRONAS Penapis_a29677</name>
    <tag></tag>
-   <elementGuidId>87d9ddee-d528-4446-9975-38c7eb19d159</elementGuidId>
+   <elementGuidId>945c2266-76cb-4887-a573-bc3dfbd45910</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#opu-list</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='opu-list']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#opu-list</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>87c9aa42-a99e-4b11-9406-fa729b34985d</webElementGuid>
+      <webElementGuid>538fde43-ae34-45b2-a451-27ca1a558a23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>opu-list</value>
-      <webElementGuid>b8144f07-0d54-423a-af12-68cfc385defd</webElementGuid>
+      <webElementGuid>7524fbe1-bcb3-493f-b328-6eea9c82c438</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> PC Ammonia Sdn Bhd  PETRONAS Penapisan Terengganu Sdn Bhd  Demo  PETRONAS Carigali Sarawak Asset  Malaysia LNG Sdn Bhd  PCGB PCMSB Plant 1 </value>
-      <webElementGuid>db21fdaa-3d5d-4380-9e56-b4e0d386a496</webElementGuid>
+      <webElementGuid>f2eeaf8a-62fa-4931-89f5-663d4f9c9958</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;opu-list&quot;)</value>
-      <webElementGuid>69ab51c8-3ab5-4dea-a1e9-179951697326</webElementGuid>
+      <webElementGuid>f859aad4-25fe-41b1-814b-f05afac17e3d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='opu-list']</value>
-      <webElementGuid>6b8b7baf-01c6-4d13-bc7c-ecab53b02eb2</webElementGuid>
+      <webElementGuid>e5e1cdc1-b7f5-4ca0-86ad-84ff2d898247</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::select[1]</value>
-      <webElementGuid>bb225d4d-a0bc-47b2-8a6a-b2d7d735f680</webElementGuid>
+      <webElementGuid>4625eab5-24e8-4d38-8090-11b4180fd2a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/preceding::select[1]</value>
-      <webElementGuid>90d67969-7527-432b-8d58-450e22fcbdec</webElementGuid>
+      <webElementGuid>84547327-bfd1-4f83-a32d-2e665a7bcc37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Planning Homepage'])[1]/preceding::select[2]</value>
-      <webElementGuid>ed2357b5-bd54-497d-b065-8b881af9efab</webElementGuid>
+      <webElementGuid>7e3208bb-a5a5-4055-888e-28e74d32fca1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>c8ac0306-3238-46e2-885d-f09d317fa0d2</webElementGuid>
+      <webElementGuid>7fd58248-ab83-4617-af89-fdda15a57997</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'opu-list' and (text() = ' PC Ammonia Sdn Bhd  PETRONAS Penapisan Terengganu Sdn Bhd  Demo  PETRONAS Carigali Sarawak Asset  Malaysia LNG Sdn Bhd  PCGB PCMSB Plant 1 ' or . = ' PC Ammonia Sdn Bhd  PETRONAS Penapisan Terengganu Sdn Bhd  Demo  PETRONAS Carigali Sarawak Asset  Malaysia LNG Sdn Bhd  PCGB PCMSB Plant 1 ')]</value>
-      <webElementGuid>3325776c-b3b9-4e92-96da-2d645cfe15f6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Execution Homepage'])[1]/preceding::select[2]</value>
-      <webElementGuid>4723b95b-570f-4236-899a-b05fbc12df46</webElementGuid>
+      <webElementGuid>e9d74d3a-03bd-44d4-b722-22f27205908f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

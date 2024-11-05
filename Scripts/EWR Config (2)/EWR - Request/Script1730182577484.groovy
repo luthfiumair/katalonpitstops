@@ -39,11 +39,11 @@ WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Static (1)'))
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/input__checkbox k-checkbox k-checkbox-md k-_8e0ad3'))
 
-WebUI.setText(findTestObject('Object Repository/Page_PITSTOPS/textarea__form-control custom-input textbox_7cb806'), 'Resources 1')
+WebUI.setText(findTestObject('Object Repository/Config 8/textarea__form-control custom-input textbox_7cb806'), 'Resources 1')
 
-WebUI.setText(findTestObject('Object Repository/Page_PITSTOPS/textarea__form-control custom-input ng-unto_51356f'), 'Work 1')
+WebUI.setText(findTestObject('Object Repository/Config 8/textarea__Justification'), 'Work 1')
 
-WebUI.setText(findTestObject('Object Repository/Page_PITSTOPS/textarea__form-control custom-input textbox_7cb806'), 'Impact 1')
+WebUI.setText(findTestObject('Object Repository/Config 8/textarea__form-control custom-input textbox_7cb806'), 'Impact 1')
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Submit (1)'))
 

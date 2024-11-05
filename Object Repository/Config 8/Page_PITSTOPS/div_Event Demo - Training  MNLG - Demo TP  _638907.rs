@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Event Demo - Training  MNLG - Demo TP  _638907</name>
+   <tag></tag>
+   <elementGuidId>8c6fe115-5082-485e-844b-dac4d3e26716</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b2a4e322-b06b-4cb8-89a8-8e6881de6c65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-opu</value>
+      <webElementGuid>8bf18cbd-5a8b-4928-8d1c-29c1a6559b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Event Demo - Training  MNLG - Demo TP  Demo-Nayli  DEMO_SN  MRCSB-TP-2025  EVENT - REGRESSION  EVENT - REGRESSION 2  REGRESSION - LOC  TCBODS-01 </value>
+      <webElementGuid>f733ba21-e8b0-486c-b52d-3d4d0eeec180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-admin-layout[1]/div[@class=&quot;app-header&quot;]/div[@class=&quot;bootstrap-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-header[1]/div[@class=&quot;pitstops-header&quot;]/div[@class=&quot;h-left&quot;]/div[@class=&quot;chosse_opu&quot;]/div[@class=&quot;dropdown-opu&quot;]</value>
+      <webElementGuid>2c23ad2e-10f7-4c7c-b748-73dd5794a27c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::div[3]</value>
+      <webElementGuid>1f843279-421f-4940-99e6-d7fe23b9bfe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Execution Homepage'])[1]/preceding::div[1]</value>
+      <webElementGuid>195d1bf8-c3df-4d75-a452-4fa38b1ca5a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div</value>
+      <webElementGuid>77315bce-3ef9-4f11-be1b-a4486bf45606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Event Demo - Training  MNLG - Demo TP  Demo-Nayli  DEMO_SN  MRCSB-TP-2025  EVENT - REGRESSION  EVENT - REGRESSION 2  REGRESSION - LOC  TCBODS-01 ' or . = 'Event Demo - Training  MNLG - Demo TP  Demo-Nayli  DEMO_SN  MRCSB-TP-2025  EVENT - REGRESSION  EVENT - REGRESSION 2  REGRESSION - LOC  TCBODS-01 ')]</value>
+      <webElementGuid>1e759e02-d06b-48e6-9ed4-0dffcf0ab24c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

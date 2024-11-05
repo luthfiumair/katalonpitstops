@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_EWR</name>
+   <tag></tag>
+   <elementGuidId>2827f00e-cb37-4003-9258-edc0c6250356</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-left-menu//a[contains(@href, '/ewr')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bfab556f-9968-4ca0-95b1-22e74b1034c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-head</value>
+      <webElementGuid>99d5f2a9-86d6-4c96-aa2f-258ccda13291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ewr</value>
+      <webElementGuid>1ddd6bf6-9a0f-4c8d-8d29-473ddf396999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> EWR </value>
+      <webElementGuid>ef996924-761c-40ff-847f-539a193dd6e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-admin-layout[1]/div[@class=&quot;bootstrap-wrapper cus-fixed&quot;]/div[@class=&quot;left-menu&quot;]/app-left-menu[1]/div[@class=&quot;pitstops-left-menu cus-scrollbar&quot;]/div[@class=&quot;item-menu&quot;]/a[@class=&quot;item-head&quot;]</value>
+      <webElementGuid>eff2bd4d-72e2-4ff6-ab5c-9af32128656e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workshop'])[1]/following::a[1]</value>
+      <webElementGuid>9b0a7eb4-febe-4f34-8b79-92f06d35a13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Worklist'])[1]/following::a[2]</value>
+      <webElementGuid>c799c6f0-93be-4184-8dea-3dd1096ab567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MRF'])[1]/preceding::a[1]</value>
+      <webElementGuid>84d54d22-f994-407c-9fdb-8ca597cd02df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ewr')]</value>
+      <webElementGuid>c78ce3d8-359c-4c63-b22d-ac246344e037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a</value>
+      <webElementGuid>cba599e7-ab46-483b-a33f-1baa07a9a143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ewr' and (text() = ' EWR ' or . = ' EWR ')]</value>
+      <webElementGuid>da407590-044e-4010-900b-eeff0af10486</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

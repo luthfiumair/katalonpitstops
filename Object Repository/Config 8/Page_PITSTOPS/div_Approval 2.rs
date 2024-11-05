@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Approval 2</name>
+   <tag></tag>
+   <elementGuidId>ece667e1-f265-4349-8576-a3480a0fd6ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-request-screening//div[5]//kendo-expansionpanel</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>kendo-expansionpanel.cs-expansionpanel.k-expander.k-state-focus > div.k-expander-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>141ab9d8-4bbc-451f-b91d-5ccc21b6c01f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-expander-header</value>
+      <webElementGuid>42582f5d-d558-43e2-ba52-d5df26b1d64a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Review</value>
+      <webElementGuid>ad85b230-a459-4a5e-9055-0e46eaa81ca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-1&quot;]/app-root[1]/app-admin-layout[1]/div[@class=&quot;bootstrap-wrapper cus-fixed&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-request-screening[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;bootstrap-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row kd-custom&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;wrapper planing-wrapper ng-star-inserted&quot;]/kendo-expansionpanel[@class=&quot;cs-expansionpanel k-expander k-state-focus&quot;]/div[@class=&quot;k-expander-header&quot;]</value>
+      <webElementGuid>a3e6455c-e59d-4126-a21a-e41083389ecf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REQUESTED'])[2]/following::div[2]</value>
+      <webElementGuid>2915d743-4182-447a-884d-3ce1eb2a0621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='at 4:29 PM'])[1]/following::div[2]</value>
+      <webElementGuid>812e383b-3ee4-4cd8-b7c0-4b2fc4b3a9b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Confirmation'])[1]/preceding::div[2]</value>
+      <webElementGuid>b6c0c53e-8f9d-4e44-9b92-93e402aace2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/kendo-expansionpanel/div</value>
+      <webElementGuid>fcdde088-43b7-4e49-89a8-164754dd3d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Review' or . = 'Review')]</value>
+      <webElementGuid>02b1897b-85cb-4956-b9f7-5c14eb8baf15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

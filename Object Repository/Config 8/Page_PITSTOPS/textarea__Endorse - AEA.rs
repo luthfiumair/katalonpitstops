@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea__Endorse - AEA</name>
+   <tag></tag>
+   <elementGuidId>1195b033-276e-43dc-ae40-ac0617eb7c62</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-request-screening//app-approval-component//textarea</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Write a comment...']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.approval_area.ng-untouched.ng-valid.ng-dirty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>6675c818-0655-421e-9acd-4f9b1a33d2f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Write a comment...</value>
+      <webElementGuid>87a322ef-be6e-4ea3-92ab-f6081f5035c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>83955347-396a-4e6c-97ed-efa5c1105835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>500</value>
+      <webElementGuid>a337bced-60da-4126-b8c7-bcc4f9e07e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>approval_area ng-untouched ng-valid ng-dirty</value>
+      <webElementGuid>1a883389-f2aa-4892-963f-5f40e8742572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-1&quot;]/app-root[1]/app-admin-layout[1]/div[@class=&quot;bootstrap-wrapper cus-fixed&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-request-screening[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;bootstrap-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row kd-custom&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;wrapper planing-wrapper ng-star-inserted&quot;]/kendo-expansionpanel[@class=&quot;cs-expansionpanel k-expander k-expanded&quot;]/div[@class=&quot;k-expander-content-wrapper&quot;]/div[@class=&quot;k-expander-content&quot;]/app-approval-component[1]/div[@class=&quot;approval-container&quot;]/div[@class=&quot;_wrapper&quot;]/textarea[@class=&quot;approval_area ng-untouched ng-valid ng-dirty&quot;]</value>
+      <webElementGuid>ca07e619-21d7-490a-9b69-31dae5acbbd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/textarea</value>
+      <webElementGuid>3e0fc267-9971-448a-82d8-6ce27f4e3800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Write a comment...']</value>
+      <webElementGuid>86505d2a-66da-427c-af4b-c1ae1820186c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,22 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/a_EWR'))
 
-WebUI.navigateToUrl('https://pitstopsstg.petronas.com/?returnUrl=%2Fhome')
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/div_Click on EWR'))
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Login'))
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/div_Approval'))
 
-WebUI.switchToWindowTitle('Sign in to your account')
+WebUI.setText(findTestObject('Object Repository/Config 8/Page_PITSTOPS/textarea__Endorse - AEA'), 
+    'Remark is here (Endorse)')
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt'), 'pitstops1@pethlab.com')
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/button_Reject - AEA'))
 
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/button_Cancel'))
 
-//WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd'),10)
-WebUI.delay(1)
-//WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd'), '8ONjX3ggx5TeICilsxkl7A==')
-//WebUI.waitForElementClickable(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'), 30)
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd'), 'Welcome@123456')
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/button_Endorse - AEA'))
 
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/button_Cancel'))
+
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/button_Endorse - AEA'))
+
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/button_Confirm'))
+
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/button_Okay'))
+
+WebUI.closeBrowser()

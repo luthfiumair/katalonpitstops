@@ -3,15 +3,15 @@
    <description></description>
    <name>select_Demo - Training  MNLG - Demo TP  Dem_be5ca4</name>
    <tag></tag>
-   <elementGuidId>29f549f1-9662-430d-9f69-73f6dcf798ba</elementGuidId>
+   <elementGuidId>0f11ad07-992f-4e8a-82f4-e183b26326a5</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#event-list</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='event-list']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#event-list</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>416a7a7b-0dad-4280-a54e-f91bbccaedf8</webElementGuid>
+      <webElementGuid>52a2fbfc-3a21-45c2-a93b-7f7c88351a77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>event-list</value>
-      <webElementGuid>b26b301b-ad9d-4b60-bfd2-3c733c64f4c6</webElementGuid>
+      <webElementGuid>ad336436-0115-410f-a711-420f763fd1a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Demo - Training  MNLG - Demo TP  Demo-Nayli  DEMO_SN  MRCSB-TP-2025  EVENT - REGRESSION  EVENT - REGRESSION 2  REGRESSION - LOC  TCBODS-01 </value>
-      <webElementGuid>62da2e23-7632-4ca0-89ef-798b41614074</webElementGuid>
+      <webElementGuid>4804b6de-2240-42f1-b136-47cfeaad1be9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;event-list&quot;)</value>
-      <webElementGuid>12419e6f-575a-445a-8dcc-89af5b71ae26</webElementGuid>
+      <webElementGuid>aeae61da-8c87-4558-aec9-12038c4b168b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='event-list']</value>
-      <webElementGuid>1fa9afe6-3a53-4c42-a694-4da677ece74f</webElementGuid>
+      <webElementGuid>80a02414-dab5-4fa9-ab7b-ff85f9d55905</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::select[1]</value>
-      <webElementGuid>4dbcfe27-e943-4760-83ee-84c5a4face1e</webElementGuid>
+      <webElementGuid>c3d11840-84d0-4611-a49c-094749361d55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OPU'])[1]/following::select[2]</value>
-      <webElementGuid>943efc56-a74c-43ff-bf2a-54eef2104984</webElementGuid>
+      <webElementGuid>9038cb45-02e3-4735-9bc2-8d4e5289e9a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Execution Homepage'])[1]/preceding::select[1]</value>
-      <webElementGuid>f67fc71b-fa93-4bc9-ae4f-c539957e66e6</webElementGuid>
+      <webElementGuid>146bc8b2-a158-4f98-a2c5-9465e1c1930a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New Notifications (0)'])[1]/preceding::select[1]</value>
-      <webElementGuid>6d6fe9ea-fe6c-4652-86f1-75009fd9a60f</webElementGuid>
+      <webElementGuid>95f307d3-4adb-401f-ac33-5933e38256da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/select</value>
-      <webElementGuid>df49d1ab-3b07-4310-84fb-051a020db604</webElementGuid>
+      <webElementGuid>58f2af26-dd95-4352-beef-223214cf6ba0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'event-list' and (text() = ' Demo - Training  MNLG - Demo TP  Demo-Nayli  DEMO_SN  MRCSB-TP-2025  EVENT - REGRESSION  EVENT - REGRESSION 2  REGRESSION - LOC  TCBODS-01 ' or . = ' Demo - Training  MNLG - Demo TP  Demo-Nayli  DEMO_SN  MRCSB-TP-2025  EVENT - REGRESSION  EVENT - REGRESSION 2  REGRESSION - LOC  TCBODS-01 ')]</value>
-      <webElementGuid>d86c220c-d211-4bcf-a118-d81b1147b82f</webElementGuid>
+      <webElementGuid>fd4a493d-7bb3-4d48-ac5e-fc2883f0a073</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delete</name>
+   <tag></tag>
+   <elementGuidId>0d2a47b4-3033-416f-a503-f3cdcbf22663</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6d5c4d58-c655-43f3-8e4f-2f54c4d4bc54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>drop-item</value>
+      <webElementGuid>062e4fb8-a461-42b4-ad0b-5241884f4102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Delete</value>
+      <webElementGuid>819a3d4c-a916-436b-b622-bda45e8ae598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-admin-layout[1]/div[@class=&quot;bootstrap-wrapper cus-fixed&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-worklist-base[1]/app-worklist-listing[1]/div[@class=&quot;cus-list-view cus-pager&quot;]/kendo-listview[@class=&quot;k-widget k-listview k-d-flex&quot;]/div[@class=&quot;k-listview-content&quot;]/div[@class=&quot;k-listview-item&quot;]/app-worklist-item[1]/div[@class=&quot;box-worklist no-radius-top&quot;]/div[@class=&quot;header-1&quot;]/div[@class=&quot;h1-right&quot;]/div[7]/div[@class=&quot;sort-container drop-container&quot;]/div[1]/div[@class=&quot;drop-item&quot;]</value>
+      <webElementGuid>c426978a-a072-4ad5-a0a4-ec7fecceecf7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::div[1]</value>
+      <webElementGuid>b1ad2539-b6d4-40a8-b756-593b840d023e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Late Handover'])[1]/following::div[2]</value>
+      <webElementGuid>70f199bd-98fa-4719-8b69-0f715265116f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST - SC7 - 01'])[1]/preceding::div[1]</value>
+      <webElementGuid>f40bb750-c1b9-49cc-8805-3cb9e9491f86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[8]</value>
+      <webElementGuid>7101f73b-4c85-4bdd-8eff-54ba84753261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Delete' or . = ' Delete')]</value>
+      <webElementGuid>2dc5403f-277f-432d-a57b-c84e94200d5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

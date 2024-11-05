@@ -17,10 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_PITSTOPS/select_PCGB PC INA  Demo'), 'OPU_Demo', true)
-
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/div_Event testASSET  Worklist test  EVENT -_593bfc'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_PITSTOPS/select_testASSET  Worklist test  EVENT - RE_f2916b'), 
-    'fc6c7b80-fd85-4fd5-a882-08dcf031bd39', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_PITSTOPS/select_PC Ammonia Sdn Bhd  PETRONAS Penapis_a29677'), 
+    'OPU_Demo', true)
+WebUI.delay(2)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_PITSTOPS/select_Demo - Training  MNLG - Demo TP  Dem_be5ca4'), 
+    'd5402b86-996a-4365-6cc3-08dcb4f68116', true)
 

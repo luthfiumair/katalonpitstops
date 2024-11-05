@@ -6,12 +6,12 @@
    <elementGuidId>c0ba7e28-ad84-4883-95a0-6e71ee6fed5c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//textarea[@type='text']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>textarea.form-control.custom-input.textboxDetail.ng-untouched.ng-dirty.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@type='text']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

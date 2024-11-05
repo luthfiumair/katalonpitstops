@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>textarea__form-control custom-input ng-unto_51356f</name>
+   <name>textarea__Risk</name>
    <tag></tag>
-   <elementGuidId>72026bed-d4d8-4405-8976-699ccbc86b21</elementGuidId>
+   <elementGuidId>67ec4e90-3d1e-4c86-a9bb-3858ea7349be</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//textarea[@type='text'])[2]</value>
+         <value>//*[@id=&quot;work-detailing&quot;]//textarea[contains(@formcontrolname, 'riskAssesment')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>0edc987b-b313-440b-99cd-cb00a62cd298</webElementGuid>
+      <webElementGuid>dc9f4f41-6056-4652-be2c-48a1d328c147</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Add Description</value>
-      <webElementGuid>f0e3c3df-6278-4dc0-867a-2419e4676662</webElementGuid>
+      <webElementGuid>99734a5b-1db6-49b3-8470-b1698e0758ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8aee999e-f777-43d2-863f-cda18c6f469c</webElementGuid>
+      <webElementGuid>b2f0d85f-5c94-44cf-8b6f-e4ac8e22b40c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>description</value>
-      <webElementGuid>34cbe47d-8f1a-4978-80d4-bffc10582104</webElementGuid>
+      <webElementGuid>9e27a414-a6d3-4313-9c03-5520a69bddf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control custom-input ng-untouched ng-dirty ng-valid</value>
-      <webElementGuid>8da4cff2-a986-4776-bda0-ab6dee427f6f</webElementGuid>
+      <webElementGuid>6cf76e68-447f-4eb9-8b17-560813b90f90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;work-detailing&quot;)/app-work-detailing[1]/div[@class=&quot;bootstrap-wrapper ng-untouched ng-invalid ng-dirty&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-lg-12&quot;]/div[@class=&quot;row kd-custom&quot;]/div[@class=&quot;col-md-12 custom-magrin-bottom ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/textarea[@class=&quot;form-control custom-input ng-untouched ng-dirty ng-valid&quot;]</value>
-      <webElementGuid>01c47d68-8552-48a2-95e1-6fd51736ae7a</webElementGuid>
+      <webElementGuid>a8c4dff0-450c-46a0-995b-e9d05aadd382</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//textarea[@type='text'])[2]</value>
-      <webElementGuid>5c58a895-5cec-4258-b909-4a243aa13ae5</webElementGuid>
+      <webElementGuid>d5d1bbdb-e0d4-44e6-bc5e-73c7560acd1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='work-detailing']/app-work-detailing/div/div/div/div[2]/div/div/div/textarea</value>
-      <webElementGuid>aca9c7f6-9c7a-4202-8b6f-92d9ac1d25e2</webElementGuid>
+      <webElementGuid>26d5c182-5259-4f66-be8f-0641b7837124</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-work-detailing/div/div/div/div[2]/div/div/div/textarea</value>
-      <webElementGuid>6a7c98ab-8cb4-4a9c-ad97-460ea8514c86</webElementGuid>
+      <webElementGuid>e93c6c3f-8ccb-4ea8-a64f-9b0128d41268</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@placeholder = 'Add Description' and @type = 'text']</value>
-      <webElementGuid>3f23f960-65a8-47f4-bfdf-bb6811f1ce8d</webElementGuid>
+      <webElementGuid>59f98e66-589a-4778-9967-44045efe0934</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

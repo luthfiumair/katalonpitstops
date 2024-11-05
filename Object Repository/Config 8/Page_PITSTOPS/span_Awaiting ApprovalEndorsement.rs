@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Awaiting ApprovalEndorsement</name>
+   <tag></tag>
+   <elementGuidId>6170faad-7dc2-45c6-be11-24a3c3bfad1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='k-tabstrip-tabpanel-0']/div[3]/kendo-listview/div/div/app-request-card/div/tr/td[6]/div[2]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span._orange.label-status</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4689ed65-057a-40c0-a2b4-1750934052c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>94edabf2-8654-42aa-88a9-a28b9513761d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_orange label-status</value>
+      <webElementGuid>e7f25099-4ac5-4b6a-951e-daccbc04c15d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Awaiting Approval/Endorsement </value>
+      <webElementGuid>f5cada76-0fc4-492e-aa53-14e7f9885c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-tabstrip-tabpanel-0&quot;)/div[@class=&quot;cus-list-view cus-pager ng-star-inserted&quot;]/kendo-listview[@class=&quot;k-widget k-listview k-d-flex&quot;]/div[@class=&quot;k-listview-content&quot;]/div[@class=&quot;k-listview-item ng-star-inserted&quot;]/app-request-card[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pos-relative px-2&quot;]/tr[@class=&quot;request-card&quot;]/td[@class=&quot;table-text-td&quot;]/div[2]/span[@class=&quot;ng-star-inserted&quot;]/span[@class=&quot;_orange label-status&quot;]</value>
+      <webElementGuid>2fbb369c-039d-4fdc-9343-afddbc8624fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='k-tabstrip-tabpanel-0']/div[3]/kendo-listview/div/div/app-request-card/div/tr/td[6]/div[2]/span/span</value>
+      <webElementGuid>c0aa3969-279d-44dd-92bf-8db68546d0fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[3]/following::span[2]</value>
+      <webElementGuid>71d8279c-521a-4f65-a856-c10499669e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date &amp; Time Initiated'])[1]/following::span[2]</value>
+      <webElementGuid>b6a90fd0-57b8-44fc-9e30-11e5ddff19a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EWR-WD-000018'])[1]/preceding::span[1]</value>
+      <webElementGuid>9b8d953c-65fb-4769-b7b5-59dbe721cfe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[2]/preceding::span[1]</value>
+      <webElementGuid>7fe2920a-de13-4f6e-a2e7-cb4c305001c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Awaiting Approval/Endorsement']/parent::*</value>
+      <webElementGuid>1a24e4a9-44a1-4cba-b791-ed143af705d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span</value>
+      <webElementGuid>dd175fb1-e061-48e9-9a55-e8edae2cde54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Awaiting Approval/Endorsement ' or . = ' Awaiting Approval/Endorsement ')]</value>
+      <webElementGuid>2bd9cd78-0f53-4d87-b173-15cfe27304e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

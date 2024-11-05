@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Login'))
 
 WebUI.switchToWindowTitle('Sign in to your account')
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt'), 'updater1@pethlab.com')
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt'), 'updater6@pethlab.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
 
@@ -44,3 +44,29 @@ WebUI.delay(1)
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/div_Execution Homepage'))
 
+//----------------------------------------------------------------------------------------------------------
+
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_PITSTOPS/select_PC Ammonia Sdn Bhd  PETRONAS Penapis_a29677'),
+	'OPU_Demo', true)
+WebUI.delay(2)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_PITSTOPS/select_Demo - Training  MNLG - Demo TP  Dem_be5ca4'),
+	'd5402b86-996a-4365-6cc3-08dcb4f68116', true)
+
+//----------------------------------------------------------------------------------------------------------
+
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/a_EWR'))
+
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/div_Click on EWR'))
+
+
+//----------------------------------------------------------------------------------------------------------
+
+
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/div_Approval 2'))
+
+WebUI.setText(findTestObject('Object Repository/Config 8/Page_PITSTOPS/textarea__Approval - AWA'), 'Approval is here')
+
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/button_Approve - AWA'))
+
+WebUI.click(findTestObject('Object Repository/Config 8/Page_PITSTOPS/button_Yes - AWA'))

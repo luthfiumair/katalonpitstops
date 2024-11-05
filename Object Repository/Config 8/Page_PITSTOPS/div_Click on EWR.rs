@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Click on EWR</name>
+   <tag></tag>
+   <elementGuidId>678e02ac-9cbd-41ed-b1ea-a1587592211c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='k-tabstrip-tabpanel-0']/div[3]/kendo-listview/div/div/app-request-card/div/tr/td[6]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d7d897ed-1f3e-4aab-bdab-a4fa0520dcd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Awaiting Technical Review </value>
+      <webElementGuid>7a88d1be-1726-4f00-8c3e-1be6f30d1761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-tabstrip-tabpanel-0&quot;)/div[@class=&quot;cus-list-view cus-pager ng-star-inserted&quot;]/kendo-listview[@class=&quot;k-widget k-listview k-d-flex&quot;]/div[@class=&quot;k-listview-content&quot;]/div[@class=&quot;k-listview-item ng-star-inserted&quot;]/app-request-card[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pos-relative px-2&quot;]/tr[@class=&quot;request-card&quot;]/td[@class=&quot;table-text-td&quot;]/div[2]</value>
+      <webElementGuid>afac80fd-ba74-448d-9cd0-e68a635244b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='k-tabstrip-tabpanel-0']/div[3]/kendo-listview/div/div/app-request-card/div/tr/td[6]/div[2]</value>
+      <webElementGuid>4f76d1e7-b413-487d-a030-50da9dc68b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[3]/following::div[1]</value>
+      <webElementGuid>36274096-d18a-4fc8-92bc-46503bfb6344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date &amp; Time Initiated'])[1]/following::div[3]</value>
+      <webElementGuid>e8b8468b-bb57-4455-9305-5753fc3a6c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EWR-WD-000011'])[1]/preceding::div[1]</value>
+      <webElementGuid>2fcc80dc-bc54-4b94-b4a3-16a5c12a2e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div[2]</value>
+      <webElementGuid>242336fc-6889-46de-9ea4-097932f834a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Awaiting Technical Review ' or . = ' Awaiting Technical Review ')]</value>
+      <webElementGuid>e904428f-1cb2-493f-bc3c-039a2e56615e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
