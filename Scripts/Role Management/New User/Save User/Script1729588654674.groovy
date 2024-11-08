@@ -19,13 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.scrollToPosition(0, 1000)
 
-WebUI.delay(2)
+//WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Add new role'))
-WebUI.delay(1)
+//WebUI.delay(1)
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span_Select role'))
-WebUI.delay(2)
+//WebUI.delay(2)
 
 // WfindTestObject('Object Repository/Page_PITSTOPS/span_Assurance M')ait for the dropdown options to become visible
 WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PITSTOPS/li_All Planning access'), 10)

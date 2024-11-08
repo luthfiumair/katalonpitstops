@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>671010a4-5c22-436d-ac54-e0f45e8fcfe6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(7) > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-worklist-base//app-worklist-listing//app-worklist-item//div[contains(@style, 'margin-left: 15px; position: relative;')]//img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9be80b14-8108-4568-9853-2377c156f89d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/three-dots-vertical.svg</value>
+      <webElementGuid>20b026f2-3c6b-43a2-96a3-c0735ccb52f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-admin-layout[1]/div[@class=&quot;bootstrap-wrapper cus-fixed&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-worklist-base[1]/app-worklist-listing[1]/div[@class=&quot;cus-list-view cus-pager&quot;]/kendo-listview[@class=&quot;k-widget k-listview k-d-flex&quot;]/div[@class=&quot;k-listview-content&quot;]/div[@class=&quot;k-listview-item&quot;]/app-worklist-item[1]/div[@class=&quot;box-worklist no-radius-top&quot;]/div[@class=&quot;header-1&quot;]/div[@class=&quot;h1-right&quot;]/div[7]/img[1]</value>
+      <webElementGuid>e07894dd-0bcc-4fa6-b342-ed7e6254c2dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/img</value>
+      <webElementGuid>fb43cc45-1dd5-4a94-9d65-40f986e58329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/images/three-dots-vertical.svg']</value>
+      <webElementGuid>0934f536-88e1-45f5-b033-70873e10100f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,5 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_Worklist'))
 
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Skip'))
+
+//WebUI.click(findTestObject('Object Repository/Config 9/Config 9/worklist card'))
+//
+//WebUI.click(findTestObject('Object Repository/Config 9/Config 9/div_Descope'))
+
+WebUI.click(findTestObject('Object Repository/Config 9/img'))
 

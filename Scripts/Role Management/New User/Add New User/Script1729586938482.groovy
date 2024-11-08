@@ -21,7 +21,7 @@ WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Save(Add New 
 WebUI.scrollToPosition(0, 1000)
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Save_1'))
 WebUI.scrollToPosition(0, 1000)
-WebUI.delay(2)
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PITSTOPS/button_Submit'),10)
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Submit'))
 
 

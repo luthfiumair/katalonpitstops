@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Descope</name>
+   <tag></tag>
+   <elementGuidId>795515b4-a59a-44fc-acd0-96c52e82ef4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-worklist-base//app-worklist-listing//app-worklist-item//label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>07ed7dbc-b5be-44e7-a149-1831364a265f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>drop-item</value>
+      <webElementGuid>130b74b1-873e-4b7a-aaff-8e17d45e509c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Delete</value>
+      <webElementGuid>7e146a53-c767-482b-a5ab-c95f4f744ba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-admin-layout[1]/div[@class=&quot;bootstrap-wrapper cus-fixed&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-worklist-base[1]/app-worklist-listing[1]/div[@class=&quot;cus-list-view cus-pager&quot;]/kendo-listview[@class=&quot;k-widget k-listview k-d-flex&quot;]/div[@class=&quot;k-listview-content&quot;]/div[@class=&quot;k-listview-item&quot;]/app-worklist-item[1]/div[@class=&quot;box-worklist no-radius-top&quot;]/div[@class=&quot;header-1&quot;]/div[@class=&quot;h1-right&quot;]/div[7]/div[@class=&quot;sort-container drop-container&quot;]/div[1]/div[@class=&quot;drop-item&quot;]</value>
+      <webElementGuid>1b726aaa-620a-40f7-9d33-adfcb8ba29ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::div[1]</value>
+      <webElementGuid>2f1979c6-43ea-4c4a-907d-990b5e53f9bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Late Handover'])[1]/following::div[2]</value>
+      <webElementGuid>19a21d9a-c21b-47c7-afec-28404fe6e95b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST - SC7 - 01'])[1]/preceding::div[1]</value>
+      <webElementGuid>5b18c93c-7a14-4cc6-a5f0-d5d5b98e2bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[8]</value>
+      <webElementGuid>4e4641d2-e58f-4caf-a6c5-ce5ddcede8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Delete' or . = ' Delete')]</value>
+      <webElementGuid>49648849-6f96-4a82-9be5-20d1aa2307a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
