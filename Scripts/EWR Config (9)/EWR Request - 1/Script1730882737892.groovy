@@ -17,6 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.delay(1)
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_Worklist'))
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Skip'))
@@ -24,6 +25,10 @@ WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Skip'))
 //WebUI.click(findTestObject('Object Repository/Config 9/Config 9/worklist card'))
 //
 //WebUI.click(findTestObject('Object Repository/Config 9/Config 9/div_Descope'))
+WebUI.click(findTestObject('Object Repository/Config 9/Config 9/div_Text area'))
 
-WebUI.click(findTestObject('Object Repository/Config 9/img'))
+WebUI.setText(findTestObject('Object Repository/Config 9/Config 9/Page_PITSTOPS/Page_PITSTOPS/input_Post Execution_k-11b47442-f5c5-4f53-ba3b-74300062dfe1'), 
+    'TEST - SC6 - 02')
+
+WebUI.click(findTestObject('Object Repository/Config 9/Config 9/Page_PITSTOPS/button_Search'))
 

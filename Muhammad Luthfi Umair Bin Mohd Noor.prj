@@ -4,8 +4,12 @@
    <name>Muhammad Luthfi Umair Bin Mohd Noor</name>
    <tag></tag>
    <UUID>dc953290-bc4a-4a41-8646-31196d61cc19</UUID>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>9.7.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\luthf\Katalon Studio\Muhammad Luthfi Umair Bin Mohd Noor\Muhammad Luthfi Umair Bin Mohd Noor.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

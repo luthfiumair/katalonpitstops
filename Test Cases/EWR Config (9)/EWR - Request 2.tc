@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>EWR Request - 1</name>
+   <name>EWR - Request 2</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>535a276c-9a8e-4d6c-b37b-9949b361d95b</testCaseGuid>
+   <testCaseGuid>948317ae-be29-4ff6-b87a-8b90e9743a25</testCaseGuid>
 </TestCaseEntity>

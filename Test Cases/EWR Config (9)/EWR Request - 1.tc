@@ -4,5 +4,6 @@
    <name>EWR Request - 1</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>da3dd244-a5b2-48ec-b36f-1a772f9ff4d1</testCaseGuid>
 </TestCaseEntity>

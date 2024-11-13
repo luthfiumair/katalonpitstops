@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img</name>
+   <name>img - Copy</name>
    <tag></tag>
-   <elementGuidId>671010a4-5c22-436d-ac54-e0f45e8fcfe6</elementGuidId>
+   <elementGuidId>8bea3beb-33ea-46b0-991e-8020840bac4b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//app-worklist-base//app-worklist-listing//kendo-listview//app-worklist-item//div[2]//div[1]//div[2]//div[7]&#xd;
-</value>
+         <value>//app-worklist-base//app-worklist-listing//kendo-listview//app-worklist-item//div[2]//div[1]//div[2]//div[7]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -24,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>63f7c80e-a064-4c8c-ac80-2b0f27479902</webElementGuid>
+      <webElementGuid>e0ebc276-1a5c-4890-b285-6479145b9aff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -32,7 +31,7 @@
       <name>src</name>
       <type>Main</type>
       <value>assets/images/three-dots-vertical.svg</value>
-      <webElementGuid>1b83f7e1-2515-42bb-a0be-3ec89f8c7492</webElementGuid>
+      <webElementGuid>4100c4c6-a068-47ee-9c91-3ad1bb853468</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-admin-layout[1]/div[@class=&quot;bootstrap-wrapper cus-fixed&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-worklist-base[1]/app-worklist-listing[1]/div[@class=&quot;cus-list-view cus-pager&quot;]/kendo-listview[@class=&quot;k-widget k-listview k-d-flex&quot;]/div[@class=&quot;k-listview-content&quot;]/div[@class=&quot;k-listview-item&quot;]/app-worklist-item[1]/div[@class=&quot;box-worklist no-radius-top&quot;]/div[@class=&quot;header-1&quot;]/div[@class=&quot;h1-right&quot;]/div[7]/img[1]</value>
-      <webElementGuid>2b553401-990f-4772-bcac-7641eb3e3f61</webElementGuid>
+      <webElementGuid>7c2b970e-718d-4043-8110-d0df83e3c324</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -48,7 +47,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/img</value>
-      <webElementGuid>3b79fcd0-1c5e-45a5-adec-bb34d1cca93a</webElementGuid>
+      <webElementGuid>0294d66b-4020-494b-9372-9b84d5636647</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -56,6 +55,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'assets/images/three-dots-vertical.svg']</value>
-      <webElementGuid>537903c9-ff5a-4d21-ab9c-bc387666a8a4</webElementGuid>
+      <webElementGuid>a903a314-1259-4c3b-90d6-14384ab7b86f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
