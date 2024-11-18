@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[text()='GHH']</value>
+         <value>//li[text()='13']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>9bf8aac0-e481-4b03-bbf9-0c78d1b976cb</webElementGuid>
+      <webElementGuid>c32ed8a1-7295-4439-bac1-ce8c0c232e10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>2df8173f-e538-431a-a5d8-57328507e180</webElementGuid>
+      <webElementGuid>d06b247d-678a-4b43-a2a1-ea82c7ed950e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-item ng-star-inserted</value>
-      <webElementGuid>512dec4a-dd6c-42dc-9a3c-019565943e70</webElementGuid>
+      <webElementGuid>e6d3a188-596e-46bb-93f0-6b261349aca8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>7ec98d78-b663-479e-b63e-1a87f29083fd-bda97f16-b3d5-4eba-4b07-08dc8b5f789f</value>
-      <webElementGuid>6fb138ed-d989-4d7c-bd24-550a87f8ca74</webElementGuid>
+      <webElementGuid>bf728ced-b903-432b-aa73-2b8dd02a07be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>67e8f5e4-4ef9-4ffb-98c4-e573295ca3f4</webElementGuid>
+      <webElementGuid>f5d3310d-353a-42ad-9e4a-288f2d12eb22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>dc6850ce-92fc-4067-8026-599f72b44578</webElementGuid>
+      <webElementGuid>b7e33718-21ca-4ebe-881e-8193c891339e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +71,7 @@
       <name>text</name>
       <type>Main</type>
       <value>GHH</value>
-      <webElementGuid>63003150-f31d-4ce7-9648-0c3b89fa0861</webElementGuid>
+      <webElementGuid>c0b20023-f1cd-4629-bb44-bf99d5a967d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;7ec98d78-b663-479e-b63e-1a87f29083fd-bda97f16-b3d5-4eba-4b07-08dc8b5f789f&quot;)</value>
-      <webElementGuid>f18aada1-7313-4820-bce9-b077f70184a4</webElementGuid>
+      <webElementGuid>b41b0e2b-f84f-461c-820d-e8ca0f84c6b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='7ec98d78-b663-479e-b63e-1a87f29083fd-bda97f16-b3d5-4eba-4b07-08dc8b5f789f']</value>
-      <webElementGuid>3423d0f2-e66f-4978-8863-9eb49ad932b6</webElementGuid>
+      <webElementGuid>b750db28-692a-42b1-ae77-ce7cfbab2a20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='8fc66b09-9019-4058-83a9-e015cb553d61']/li[2]</value>
-      <webElementGuid>71daff5c-5434-42cf-aec8-7239bd99f59e</webElementGuid>
+      <webElementGuid>6e01295b-7e11-470d-ac6c-9bcf205da0c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='dve'])[1]/following::li[1]</value>
-      <webElementGuid>15589f6f-41f1-41a9-a32b-a23871ca1c85</webElementGuid>
+      <webElementGuid>a29b0e04-0443-411e-b189-795908a8d500</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::li[2]</value>
-      <webElementGuid>a696098c-5c23-4dd8-88d8-96b26ed4ef7d</webElementGuid>
+      <webElementGuid>7b5af306-d6c7-4aad-9e99-0453f496266c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OKOKOJO2'])[1]/preceding::li[1]</value>
-      <webElementGuid>71109708-7739-448c-80fe-77278b1377a4</webElementGuid>
+      <webElementGuid>321ad921-7ab1-4034-b924-6fe3530f70e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='rreer'])[1]/preceding::li[2]</value>
-      <webElementGuid>3bb2d186-ceae-4ec2-a500-0d92593a0c8d</webElementGuid>
+      <webElementGuid>8d758be3-2470-4616-9720-a6ee3a9d7fa7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='GHH']/parent::*</value>
-      <webElementGuid>478bdfbb-3b80-4189-a7a6-93519c21d5a0</webElementGuid>
+      <webElementGuid>af53567e-bf2b-490b-8e81-110b43d33bae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ul/li[2]</value>
-      <webElementGuid>b31e46f5-dd64-4f96-9b2e-c04ef517cb15</webElementGuid>
+      <webElementGuid>0ff42831-2cad-4828-8925-61b653110f2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = '7ec98d78-b663-479e-b63e-1a87f29083fd-bda97f16-b3d5-4eba-4b07-08dc8b5f789f' and (text() = 'GHH' or . = 'GHH')]</value>
-      <webElementGuid>cb13fdcd-ba37-4de3-ba3c-c56d1fd9be7c</webElementGuid>
+      <webElementGuid>b6091cd1-927b-4d9c-8966-ab4fafd77a97</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

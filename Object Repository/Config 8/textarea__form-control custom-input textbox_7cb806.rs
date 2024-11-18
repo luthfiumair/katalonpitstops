@@ -6,15 +6,16 @@
    <elementGuidId>c0ba7e28-ad84-4883-95a0-6e71ee6fed5c</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//textarea[@class='form-control custom-input textboxDetail ng-dirty ng-valid ng-touched']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>textarea.form-control.custom-input.textboxDetail.ng-untouched.ng-dirty.ng-valid</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//textarea[@type='text']</value>
-      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>4a40eea4-a6ad-4887-8dfb-b9627abc6d63</webElementGuid>
+      <webElementGuid>1b93f908-d206-45b7-9fc1-37700d30dee3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +31,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Write the comment...</value>
-      <webElementGuid>357b6b6f-5d5f-4182-99ea-d45bc664de3b</webElementGuid>
+      <webElementGuid>c386ef3b-9ce5-4bb2-8b9d-a636f798a068</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>017c246f-25b2-4279-a0cb-e1b9c7eb5bc2</webElementGuid>
+      <webElementGuid>8f7b7023-a3a6-41d8-a173-64339509ce58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>resourcesDetailing</value>
-      <webElementGuid>d157182c-d925-4040-bd4f-c6ddc6143c1d</webElementGuid>
+      <webElementGuid>62455d91-4b8b-4ba7-93af-d11a65a96c58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control custom-input textboxDetail ng-untouched ng-dirty ng-valid</value>
-      <webElementGuid>40b6a033-d361-4f73-88e2-8031e1065edd</webElementGuid>
+      <webElementGuid>8c749447-6dc0-47c9-8c03-bddf41ba451e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;work-information&quot;)/app-work-information[1]/div[@class=&quot;bootstrap-wrapper ng-star-inserted ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-lg-12&quot;]/div[@class=&quot;row kd-custom&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/div[@class=&quot;col-md-8&quot;]/textarea[@class=&quot;form-control custom-input textboxDetail ng-untouched ng-dirty ng-valid&quot;]</value>
-      <webElementGuid>8f06e967-e111-426f-b116-68aef70ad9a3</webElementGuid>
+      <webElementGuid>9788cb60-8586-429a-aaea-00fcd56e696a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@type='text']</value>
-      <webElementGuid>ad9410df-d4ec-4b7c-bc09-2cdcfdfed01f</webElementGuid>
+      <webElementGuid>f1702393-dcae-4cdf-b723-a961bc53967c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='work-information']/app-work-information/div/div/div/div[2]/div/div[3]/div[3]/textarea</value>
-      <webElementGuid>cf0f3d97-80a1-42ca-86a6-d60967a8e4b5</webElementGuid>
+      <webElementGuid>213a3f85-ecef-4711-81ff-895127d8d3e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::textarea[1]</value>
-      <webElementGuid>8396c4ed-01ad-41e9-896a-d782e8dadce2</webElementGuid>
+      <webElementGuid>79445f85-7eeb-4c1f-b550-e0a8bf0f0502</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Work Detailing'])[1]/preceding::textarea[1]</value>
-      <webElementGuid>3e1b94fe-9a03-4ce5-80b8-b01ff92d3bfe</webElementGuid>
+      <webElementGuid>baf98f56-3f20-4eda-9e44-209861f8ab58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>d927dfde-ec8d-4403-8f8c-b44ec9c7431f</webElementGuid>
+      <webElementGuid>35884676-eb34-45b2-b388-09b7e905fa26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@placeholder = 'Write the comment...' and @type = 'text']</value>
-      <webElementGuid>83df14cb-9896-495b-aa14-c01138bb8c22</webElementGuid>
+      <webElementGuid>6e6cd144-ef2b-4f6b-9f8d-2ba7a8f2d6b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

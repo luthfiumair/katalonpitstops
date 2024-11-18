@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[text()=' gttt']</value>
+         <value>//li[text()='1A']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>57194059-617d-4b1a-aa25-90c30070c456</webElementGuid>
+      <webElementGuid>a11467ba-3d18-4692-bc0e-c26193688226</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>5bea6e00-3dbe-4c9c-a4ca-f6dc8319c0a4</webElementGuid>
+      <webElementGuid>edbc08fe-ebde-45bb-b57e-2bb0373f33f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-item k-state-focused ng-star-inserted</value>
-      <webElementGuid>5dc15ea7-bf66-4588-a5f4-41d3a820e4fb</webElementGuid>
+      <webElementGuid>a2360812-ae95-4feb-8e28-c4055035ddaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>be8a9f00-8625-4e31-96e6-40b91676c51a-6ab84d22-ff5e-49b2-ff9b-08dc844af254</value>
-      <webElementGuid>5036f944-031d-4b69-9081-0207b625d689</webElementGuid>
+      <webElementGuid>80f858b9-bbe5-4543-95cf-1f903d3f36c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>c843db4e-c448-4044-bbb3-60abf995bbc6</webElementGuid>
+      <webElementGuid>2f75ef52-810d-47da-829c-63226a7b7350</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>e2012776-bcfa-433f-8d66-d0391416b4a3</webElementGuid>
+      <webElementGuid>5aab4737-3541-4618-8b90-25dd58baae08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +71,7 @@
       <name>text</name>
       <type>Main</type>
       <value> gttt</value>
-      <webElementGuid>23508b9c-a5e4-4154-8694-1889b9571a9c</webElementGuid>
+      <webElementGuid>79745fbb-72e0-40ac-8070-0bf7ea5a71ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;be8a9f00-8625-4e31-96e6-40b91676c51a-6ab84d22-ff5e-49b2-ff9b-08dc844af254&quot;)</value>
-      <webElementGuid>ebd53bd3-8ee6-48b9-9a7e-7c6a80f43577</webElementGuid>
+      <webElementGuid>00fdcf4a-2a64-4289-ad88-28bb95cd5af2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='be8a9f00-8625-4e31-96e6-40b91676c51a-6ab84d22-ff5e-49b2-ff9b-08dc844af254']</value>
-      <webElementGuid>b590599f-3595-4b90-890a-fda3fa8283e0</webElementGuid>
+      <webElementGuid>8b5c0ff9-aca4-4921-b1c7-62263fc03d01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='f80ce00b-ee0c-4f3e-86ed-25d92e797d8f']/li</value>
-      <webElementGuid>77c0272c-1963-4bc0-bf1f-0fac19f5ce74</webElementGuid>
+      <webElementGuid>51726530-6f76-4994-bafc-acc81a1b90e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::li[1]</value>
-      <webElementGuid>455ffc4b-d0e6-4c12-93d0-eafc350c1e69</webElementGuid>
+      <webElementGuid>335f18b1-2a28-4b80-94a4-40470b7828f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save As Draft'])[1]/following::li[1]</value>
-      <webElementGuid>95938188-8600-4e70-9dbf-53a31cde6f98</webElementGuid>
+      <webElementGuid>0c2a12c8-7b50-4398-94d5-706c06d2f519</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Okay'])[1]/preceding::li[1]</value>
-      <webElementGuid>57d4bd01-d63f-4ce9-aaae-d19dff2a6369</webElementGuid>
+      <webElementGuid>bf0d09d3-11ca-4b7f-82b2-20572d984f37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='gttt']/parent::*</value>
-      <webElementGuid>240283b2-1841-4d1b-87c0-fe1632e61b54</webElementGuid>
+      <webElementGuid>d9dab4c5-c3de-4dc9-99cd-28c1fabe173a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +135,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ul/li</value>
-      <webElementGuid>5634669d-4750-4432-a8b1-e25abcab0074</webElementGuid>
+      <webElementGuid>dceda250-4673-49e7-96ea-a1d4e7bb8263</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +143,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'be8a9f00-8625-4e31-96e6-40b91676c51a-6ab84d22-ff5e-49b2-ff9b-08dc844af254' and (text() = ' gttt' or . = ' gttt')]</value>
-      <webElementGuid>9d2f7abf-1720-4cb3-8178-4ef7f3f2959e</webElementGuid>
+      <webElementGuid>0163fbda-054f-4c88-85e9-95823944a13f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='84ef8b56-3751-4740-8193-4d9e2703f9cd']</value>
+         <value>//span[@id='k-4a3c8e5b-1ed6-4f07-a4c5-9c964cd19fd7']//span[@class='k-select']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8e9163b1-59c0-4d50-89d0-0cd6b0d84bb7</webElementGuid>
+      <webElementGuid>c959b13b-c29b-472d-a3b2-9070606c31fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>unselectable</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>4d1a16fc-2b3f-494b-94a0-5bc25571708a</webElementGuid>
+      <webElementGuid>df81f9a4-d50a-4722-aa95-b59d011bacef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-input</value>
-      <webElementGuid>ee63eee8-2991-400c-bd02-c9c7852a5eec</webElementGuid>
+      <webElementGuid>f03a7256-c0c4-4fcb-96c5-0408f58485c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>84ef8b56-3751-4740-8193-4d9e2703f9cd</value>
-      <webElementGuid>ce868811-362d-4934-bbae-e0a9989911b6</webElementGuid>
+      <webElementGuid>fe9f91d3-b479-449d-8eba-75e566c4fb4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;84ef8b56-3751-4740-8193-4d9e2703f9cd&quot;)</value>
-      <webElementGuid>2ded2b70-fc85-422c-b303-fa17c4b42ee9</webElementGuid>
+      <webElementGuid>cf276687-cfa5-47ee-8f9b-982d241b41e1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='84ef8b56-3751-4740-8193-4d9e2703f9cd']</value>
-      <webElementGuid>da5e1bf2-f960-4c8c-bae5-9cda516df387</webElementGuid>
+      <webElementGuid>871e2760-8ece-4f42-97d5-6a14b9414b38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='k-48009821-0bb1-4942-b991-18651420cea1']/span</value>
-      <webElementGuid>94210097-c3b0-4145-b764-c68a18ff1405</webElementGuid>
+      <webElementGuid>0d3f35ac-cd10-400e-883d-85bb616d078b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::span[2]</value>
-      <webElementGuid>8921d06c-d7a4-45dc-911f-7dfc03ae2230</webElementGuid>
+      <webElementGuid>43623525-ca1c-43ca-a9c4-dced71f8e64c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::span[3]</value>
-      <webElementGuid>a24ac406-3846-40b1-b8a5-33113d357899</webElementGuid>
+      <webElementGuid>cb874511-0575-4786-83cd-633b814081a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-work-information/div/div/div/div[2]/div/div[2]/kendo-dropdownlist/span/span</value>
-      <webElementGuid>5a1d1ccc-426f-412e-935b-8c5739d8f2f8</webElementGuid>
+      <webElementGuid>307a03ef-9cb8-4a0e-a49f-da64f858d765</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = '84ef8b56-3751-4740-8193-4d9e2703f9cd']</value>
-      <webElementGuid>c40a519b-2d42-47df-8ad7-39b2297d7b5a</webElementGuid>
+      <webElementGuid>eed4eddc-cc5d-4597-9ea9-d328cfc7aefa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

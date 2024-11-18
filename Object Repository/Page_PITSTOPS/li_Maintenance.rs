@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='9df3ae2d-b741-4dc9-a624-40639976ce83-e63ab19d-37d2-4968-aaf0-26d1b86494fb']</value>
+         <value>//li[text()='Maintenance']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>83a2e383-c829-454a-97d3-05b4e31151e9</webElementGuid>
+      <webElementGuid>cd367c1d-1865-4d68-92ec-888296cf3728</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>064316c4-61b6-4336-811a-769a04b3375e</webElementGuid>
+      <webElementGuid>5684741e-e6eb-494c-9fae-b70146b45ec0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-item ng-star-inserted</value>
-      <webElementGuid>20bdc424-0d58-477c-b503-f69722e9ce3d</webElementGuid>
+      <webElementGuid>a2f2c16f-dfc4-4fb3-a7b4-43dd7f9a027e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>9df3ae2d-b741-4dc9-a624-40639976ce83-e63ab19d-37d2-4968-aaf0-26d1b86494fb</value>
-      <webElementGuid>3baabf64-20fc-47f1-a492-d5fc612f6deb</webElementGuid>
+      <webElementGuid>7431061c-7d7a-402a-8c63-94561c6245a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>d17b1cb0-f4d8-4d0f-8072-0d89efeefdcf</webElementGuid>
+      <webElementGuid>38674124-5598-4985-b84f-37a6dd62f991</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>index</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>da3500ce-36a0-4eca-a55c-6442772e28e4</webElementGuid>
+      <webElementGuid>2c113df1-57b8-4f14-97f9-ce1b4c9f58bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +71,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Maintenance</value>
-      <webElementGuid>8fbbdcd1-2480-48ed-aee8-11e02242220b</webElementGuid>
+      <webElementGuid>b4bceedb-9d66-4090-8453-8806997c5b8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;9df3ae2d-b741-4dc9-a624-40639976ce83-e63ab19d-37d2-4968-aaf0-26d1b86494fb&quot;)</value>
-      <webElementGuid>e45294bc-0e3a-49b3-8fe1-34eb01d29772</webElementGuid>
+      <webElementGuid>c633379f-ce8f-47fc-9da9-9d497f1cc07f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='9df3ae2d-b741-4dc9-a624-40639976ce83-e63ab19d-37d2-4968-aaf0-26d1b86494fb']</value>
-      <webElementGuid>c3393d10-3478-4382-a790-5a320976cdd6</webElementGuid>
+      <webElementGuid>b300bc7e-a2a8-4bec-83da-7f2bf961b871</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='8fc05f62-1c73-47f7-b1d8-a3ca8d971bcd']/li[3]</value>
-      <webElementGuid>55cc4763-c933-43f9-aca7-591c70dfcd3d</webElementGuid>
+      <webElementGuid>144ca2c4-3386-4b4b-8069-c64852fe216b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logistic'])[1]/following::li[1]</value>
-      <webElementGuid>872631c6-1def-432a-a8ad-3a57a9e9c3a8</webElementGuid>
+      <webElementGuid>8bbfd694-767f-4caf-b918-214d8ace2642</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inspection'])[1]/following::li[2]</value>
-      <webElementGuid>06130dea-bcf3-4ccd-9d90-9b4eeec516ba</webElementGuid>
+      <webElementGuid>9e2901bd-b7e7-48f1-b251-1ac780fdd8d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Operation'])[1]/preceding::li[1]</value>
-      <webElementGuid>f315148d-c9af-4f51-a9d6-fadb336740b0</webElementGuid>
+      <webElementGuid>23e7576b-22d7-4c72-b640-ca295ea16800</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Project'])[1]/preceding::li[2]</value>
-      <webElementGuid>d37bd16f-e2ef-48fb-b9d4-4feab5e8308c</webElementGuid>
+      <webElementGuid>e120c336-6bda-4015-81a4-62ce453ed092</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Maintenance']/parent::*</value>
-      <webElementGuid>7e127055-c4c4-4c60-bae8-e4ca633e01fc</webElementGuid>
+      <webElementGuid>f678c010-0262-4cd5-b317-95e6bd1c7212</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ul/li[3]</value>
-      <webElementGuid>b0793c82-df28-4e61-823a-678287422a6d</webElementGuid>
+      <webElementGuid>d8b6b7c6-cbde-49f6-86dd-032698d1f947</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = '9df3ae2d-b741-4dc9-a624-40639976ce83-e63ab19d-37d2-4968-aaf0-26d1b86494fb' and (text() = 'Maintenance' or . = 'Maintenance')]</value>
-      <webElementGuid>3d676291-2764-4f3d-b903-dc872d1c47f1</webElementGuid>
+      <webElementGuid>b3e79697-682b-46ca-83d6-40c952605f6d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

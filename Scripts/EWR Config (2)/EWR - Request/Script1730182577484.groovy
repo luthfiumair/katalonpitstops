@@ -33,21 +33,26 @@ WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span__02ec40da-9caa-
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Maintenance'))
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span__84ef8b56-3751-4740-8193-4d9e2703f9cd'))
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Discipline'))
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Static (1)'))
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Static'))
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/input__checkbox k-checkbox k-checkbox-md k-_8e0ad3'))
 
-WebUI.setText(findTestObject('Object Repository/Config 8/textarea__form-control custom-input textbox_7cb806'), 'Resources 1')
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Resources'))
+WebUI.setText(findTestObject('Object Repository/Config 2/Request/Resources'),'Resources 1 ')
 
-WebUI.setText(findTestObject('Object Repository/Config 8/textarea__Justification'), 'Work 1')
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Work'))
+WebUI.setText(findTestObject('Object Repository/Config 2/Request/Work'),'Work 1')
 
-WebUI.setText(findTestObject('Object Repository/Config 8/textarea__form-control custom-input textbox_7cb806'), 'Impact 1')
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Justification'))
+WebUI.setText(findTestObject('Object Repository/Config 2/Request/Justification'),'Justification 1')
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Submit (1)'))
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Impact'))
+WebUI.setText(findTestObject('Object Repository/Config 2/Request/Impact'),'Impact 1')
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Yes'))
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Submit'))
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Okay (1)'))
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes'))
 
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes 2'))

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='d0440352-85c3-4b4a-9c50-248d46cb94da-f8ae7d7e-4743-4176-a8bc-bf55bbe619e8']</value>
+         <value>//li[text()='Static']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,6 +15,7 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>1a81ab55-3c3c-41b2-bd48-6dfcfd8f5c28</webElementGuid>
+      <webElementGuid>72c89e3c-644b-4bef-88c7-d8be26c08f06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>4c0cdbf4-8022-47eb-9793-f732c314ed73</webElementGuid>
+      <webElementGuid>c71c6a2a-185b-4e63-a8c3-05b550e91da8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-item ng-star-inserted</value>
-      <webElementGuid>100aba69-c1fd-4a22-b735-d213545cf6c1</webElementGuid>
+      <webElementGuid>2a5a9034-962f-49c5-816a-8ca94af16c94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>d0440352-85c3-4b4a-9c50-248d46cb94da-f8ae7d7e-4743-4176-a8bc-bf55bbe619e8</value>
-      <webElementGuid>07f62399-f303-4499-bce7-e1003699e224</webElementGuid>
+      <webElementGuid>e03a02d4-d752-4d49-86fb-d315028bd2c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>6e74ef9a-3ba0-4825-a6f8-d073a8e18f52</webElementGuid>
+      <webElementGuid>fc43a380-9d2c-47d1-b2ea-b4d97a9cc32e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>index</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>b7cd47c2-9f3d-46ab-86a7-d9dfe7ff8136</webElementGuid>
+      <webElementGuid>861cf555-e2e3-47fa-a0ed-86ee0dda071d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +71,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Static</value>
-      <webElementGuid>06813101-71ef-4f51-957f-3185b3e3223b</webElementGuid>
+      <webElementGuid>9c58f4c4-ccb0-42dd-b0b0-31bada752a67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;d0440352-85c3-4b4a-9c50-248d46cb94da-f8ae7d7e-4743-4176-a8bc-bf55bbe619e8&quot;)</value>
-      <webElementGuid>1f07c2c2-520f-415f-9103-1394c10fb316</webElementGuid>
+      <webElementGuid>2533ce05-3613-4f7f-9049-870e73f822b0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='d0440352-85c3-4b4a-9c50-248d46cb94da-f8ae7d7e-4743-4176-a8bc-bf55bbe619e8']</value>
-      <webElementGuid>4e7af69d-041d-409d-a82f-4132f65a1600</webElementGuid>
+      <webElementGuid>59d8ada1-63c6-4ea6-9f16-9f072384ee10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='b7f02961-5e86-457c-bc1d-2c1ee4f0eb8b']/li[11]</value>
-      <webElementGuid>8c91a569-3c0e-46b4-9e08-d21fd5477501</webElementGuid>
+      <webElementGuid>a2a03730-79c3-4e83-985b-b7c28b303fe7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rotating'])[1]/following::li[1]</value>
-      <webElementGuid>a9f0c2b1-bad6-4d41-b166-a0aba1a3324d</webElementGuid>
+      <webElementGuid>cbeb30e4-a1fd-42aa-94c0-87087e684a7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Project'])[1]/following::li[2]</value>
-      <webElementGuid>4b53782f-1e8f-499e-bfb7-15dbbf799756</webElementGuid>
+      <webElementGuid>757d9ef1-47b3-4001-8a1e-9206f8117d7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Okay'])[1]/preceding::li[1]</value>
-      <webElementGuid>5f593ba1-3d69-4727-ad8e-84ed8c17cb0e</webElementGuid>
+      <webElementGuid>75950d03-f4d5-4b9b-87b0-65f1a2e03890</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Static']/parent::*</value>
-      <webElementGuid>d3abfdea-6c8e-4e88-a894-d2197dbf6a75</webElementGuid>
+      <webElementGuid>cd46de06-9c8c-4b9f-a0d7-95ef2a34d4d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +135,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[11]</value>
-      <webElementGuid>ec79412c-f92f-4ade-9f6c-1b5d8248a42b</webElementGuid>
+      <webElementGuid>d5c4c877-049b-4609-839e-d70ae35963b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +143,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'd0440352-85c3-4b4a-9c50-248d46cb94da-f8ae7d7e-4743-4176-a8bc-bf55bbe619e8' and (text() = 'Static' or . = 'Static')]</value>
-      <webElementGuid>22a2ed51-a667-4a68-97b4-b9b865e17a5b</webElementGuid>
+      <webElementGuid>619ffedc-beab-48be-a51d-65bd832d2d96</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
