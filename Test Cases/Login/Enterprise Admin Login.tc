@@ -4,5 +4,6 @@
    <name>Enterprise Admin Login</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>4937e308-1efa-440f-890b-d4841717a1ce</testCaseGuid>
 </TestCaseEntity>

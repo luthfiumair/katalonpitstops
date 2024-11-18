@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>worklist card</name>
+   <name>worklist card (1)</name>
    <tag></tag>
    <elementGuidId>759e3a8a-209c-46c1-b0b7-2cb151ba9b9c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div:nth-of-type(7) > img</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//app-worklist-base//app-worklist-listing//app-worklist-item//div[7]//img</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(7) > img</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

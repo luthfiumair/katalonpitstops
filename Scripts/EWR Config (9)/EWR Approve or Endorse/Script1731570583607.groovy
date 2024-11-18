@@ -17,21 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://pitstopsstg.petronas.com/?returnUrl=%2Fhome')
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Login'))
+WebUI.click(findTestObject('Object Repository/Config 9/EWR Technical Review/EWR'))
 
-WebUI.switchToWindowTitle('Sign in to your account')
+WebUI.doubleClick(findTestObject('Object Repository/Config 9/EWR Technical Review/Open EWR'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt'), 'pitstops1@pethlab.com')
+WebUI.click(findTestObject('Object Repository/Config 9/EWR Approve or Endorse/Drop'))
 
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
+WebUI.setText(findTestObject('Object Repository/Config 9/EWR Approve or Endorse/textArea'),'EWR 9 Endorse')
 
-//WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd'),10)
-WebUI.delay(1)
-//WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd'), '8ONjX3ggx5TeICilsxkl7A==')
-//WebUI.waitForElementClickable(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'), 30)
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd'), 'Welcome@123456')
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
+WebUI.click(findTestObject('Object Repository/Config 9/EWR Approve or Endorse/Endorse'))
+
+WebUI.click(findTestObject('Object Repository/Config 9/EWR Approve or Endorse/Yes'))
+
+WebUI.closeBrowser()

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>EWR Approve</name>
+   <name>EWR Technical Review</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>f41536f9-e23f-43ef-8c49-7bfeb56edf9a</testCaseGuid>
+   <testCaseGuid>fb5b44fc-bd8c-41ff-8663-3a61ae6ec56e</testCaseGuid>
 </TestCaseEntity>

@@ -21,7 +21,7 @@ WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_Worklist'))
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Skip'))
 
-WebUI.click(findTestObject('Object Repository/Config 9/img - Copy'))
+WebUI.click(findTestObject('Object Repository/Config 9/Config 9/img - Copy'))
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/div_Delete'))
 
