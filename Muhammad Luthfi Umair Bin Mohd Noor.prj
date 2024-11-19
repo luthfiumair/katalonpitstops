@@ -4,12 +4,12 @@
    <name>Muhammad Luthfi Umair Bin Mohd Noor</name>
    <tag></tag>
    <UUID>dc953290-bc4a-4a41-8646-31196d61cc19</UUID>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.7.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\luthf\Katalon Studio\Muhammad Luthfi Umair Bin Mohd Noor\Muhammad Luthfi Umair Bin Mohd Noor.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\My Pc\Documents\School\katalonpitstops-main\katalonpitstops\Muhammad Luthfi Umair Bin Mohd Noor.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

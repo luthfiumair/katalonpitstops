@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='sub-5d02109c-56d6-4ef9-8230-08da655b00c5']</value>
+         <value>//*[contains(@id, 'sub-5d02109c-56d6-4ef9-8230-08da655b00c5')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>244a89e1-94c4-4806-aa41-fbeb08bc22cd</webElementGuid>
+      <webElementGuid>19f02afa-409c-438f-a2f7-23dc65c7d086</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sub-menu</value>
-      <webElementGuid>a0b7c943-5ba2-4fcc-aab5-fb1fad8385cf</webElementGuid>
+      <webElementGuid>38ab5899-2494-4989-8b3f-fd35ae563ca4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>sub-5d02109c-56d6-4ef9-8230-08da655b00c5</value>
-      <webElementGuid>0fe0f5ba-5c2a-4975-9d86-a038fdf34f26</webElementGuid>
+      <webElementGuid>93895c9e-5911-4f6e-b29c-70c84b9570ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/entprise/event/role</value>
-      <webElementGuid>d230b343-4579-4175-ad6c-30b76323fcea</webElementGuid>
+      <webElementGuid>43295f2e-abec-4252-9d6c-a889d9d51ff0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Role Management </value>
-      <webElementGuid>e93d0b6e-4bb9-4d02-8d1a-7c47c680273c</webElementGuid>
+      <webElementGuid>f09174e5-dcfb-43d0-ba7d-9c1298097a4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sub-5d02109c-56d6-4ef9-8230-08da655b00c5&quot;)</value>
-      <webElementGuid>7656ff7a-6c5c-461e-8e28-fa3e8e60a8c8</webElementGuid>
+      <webElementGuid>9781419a-c4d5-4700-8e6c-8ac287939005</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='sub-5d02109c-56d6-4ef9-8230-08da655b00c5']</value>
-      <webElementGuid>9cce7a1d-0517-4ad7-9d0c-88ccfa90e03b</webElementGuid>
+      <webElementGuid>80cc77a9-3ac3-43a8-a30d-c3a728ef353c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Event Registration'])[2]/following::a[1]</value>
-      <webElementGuid>af158703-9bbb-481c-a09f-1f438fa8af62</webElementGuid>
+      <webElementGuid>ab7f962c-90c8-4712-812a-5b959cf5d937</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Event management, role &amp; user management and master data management.'])[1]/following::a[2]</value>
-      <webElementGuid>63b3ccbc-7d2e-46f3-981f-828364174ba6</webElementGuid>
+      <webElementGuid>d57b9dd2-839d-448e-b7aa-ad332b15e66a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[2]/preceding::a[1]</value>
-      <webElementGuid>5a42da02-03e7-43d7-952a-73c9ca9d2847</webElementGuid>
+      <webElementGuid>4d627416-7f3f-4e0f-8bc4-1e74c4d61a20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/entprise/event/role')])[2]</value>
-      <webElementGuid>d9f0304b-361c-4068-bb0e-79a9691e8b77</webElementGuid>
+      <webElementGuid>10439ef4-04f1-46ee-8fee-d5e5569dc6fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div[2]/a[2]</value>
-      <webElementGuid>ad9feec2-d0d9-4e6a-940c-3a32d812785b</webElementGuid>
+      <webElementGuid>14e91394-6385-4501-9c11-f7a3674f9058</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'sub-5d02109c-56d6-4ef9-8230-08da655b00c5' and @href = '/entprise/event/role' and (text() = ' Role Management ' or . = ' Role Management ')]</value>
-      <webElementGuid>306d7803-af69-4a2b-94d0-901748fdb36a</webElementGuid>
+      <webElementGuid>048c9621-886d-409f-ac16-d1773f90315d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

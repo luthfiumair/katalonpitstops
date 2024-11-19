@@ -17,24 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
-
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_EWR'))
 
 WebUI.doubleClick(findTestObject('Object Repository/Config 9/EWR Technical Review/Open EWR'))
 
-WebUI.click(findTestObject('Object Repository/Config 2/Planning/Planning Dropdown'))
+WebUI.click(findTestObject('Object Repository/Config 2/Endorse/Dropdown'))
 
-WebUI.setText(findTestObject('Object Repository/Config 2/Planning/Planning Text 1'),'23 hours duration')
+WebUI.setText(findTestObject('Object Repository/Config 2/Endorse/Text'),'EWR Config 2 Remark Endorse')
 
-WebUI.setText(findTestObject('Object Repository/Config 2/Planning/Manpower Cost'),'420')
+WebUI.click(findTestObject('Object Repository/Config 2/Endorse/Endorse button'))
 
-WebUI.setText(findTestObject('Object Repository/Config 2/Planning/Equipment Cost'),'421')
+WebUI.click(findTestObject('Object Repository/Config 2/Endorse/Confirm'))
 
-WebUI.setText(findTestObject('Object Repository/Config 2/Planning/Insert Remarks'),'EWR Config 2 remarks planning')
+WebUI.click(findTestObject('Object Repository/Config 2/Endorse/Yes'))
 
-WebUI.click(findTestObject('Object Repository/Config 2/Planning/Submit'))
-
-WebUI.click(findTestObject('Object Repository/Config 2/Planning/Yes'))
-
-WebUI.click(findTestObject('Object Repository/Config 2/Planning/Yes 2'))
+WebUI.closeBrowser()
