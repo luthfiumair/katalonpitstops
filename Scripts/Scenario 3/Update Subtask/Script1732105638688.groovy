@@ -17,11 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Save(Add New User)'))
-WebUI.scrollToPosition(0, 1000)
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Save_1'))
-WebUI.scrollToPosition(0, 1000)
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PITSTOPS/button_Submit'),10)
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Submit'))
-WebUI.closeBrowser()
+//--------------------------------------------------------------------------------
 
+WebUI.click(findTestObject('Object Repository/Scenario 3/Subtask 1'))
+
+WebUI.click(findTestObject('Object Repository/Scenario 3/Subtask 2'))
+
+WebUI.click(findTestObject('Object Repository/Scenario 3/Subtask 3'))
+
+WebUI.click(findTestObject('Object Repository/Scenario 1/Update'))
+
+WebUI.click(findTestObject('Object Repository/Config 2/Planning/Submit'))
+
+WebUI.click(findTestObject('Object Repository/Scenario 1/Okay'))
+
+WebUI.closeBrowser()

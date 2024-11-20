@@ -18,6 +18,8 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 
+
+
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_Worklist'))
 
 WebUI.click(findTestObject('Object Repository/Scenario 1/Pre-Execution'))
@@ -52,4 +54,4 @@ WebUI.click(findTestObject('Object Repository/Scenario 1/Update'))
 
 WebUI.click(findTestObject('Object Repository/Config 2/Planning/Submit'))
 
-WebUI.click(findTestObject('Object Repository/Config 2/Planning/Yes 2'))
+WebUI.click(findTestObject('Object Repository/Scenario 1/Okay'))

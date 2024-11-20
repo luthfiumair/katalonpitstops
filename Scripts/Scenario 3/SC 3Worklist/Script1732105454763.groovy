@@ -17,11 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Save(Add New User)'))
-WebUI.scrollToPosition(0, 1000)
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Save_1'))
-WebUI.scrollToPosition(0, 1000)
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PITSTOPS/button_Submit'),10)
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Submit'))
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_Worklist'))
+
+WebUI.click(findTestObject('Object Repository/Scenario 1/Search Bar')) // Click to focus
+WebUI.setText(findTestObject('Object Repository/Scenario 1/Search Bar - Copy'), 'TEST - SC3 - 01')
+
+WebUI.click(findTestObject('Object Repository/Scenario 1/Search Button'))
+
+WebUI.click(findTestObject('Object Repository/Scenario 1/Show tasklist'))
+
+WebUI.setText(findTestObject('Object Repository/Scenario 1/INPUT SEARCH'),'Isolate Equipment Isolation')
+
+WebUI.sendKeys(findTestObject('Object Repository/Scenario 1/INPUT SEARCH'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Scenario 1/Open tasklist'))
+
 
