@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Submit</name>
+   <name>Review</name>
    <tag></tag>
-   <elementGuidId>11da082b-1a92-4e5d-9482-c4774d057979</elementGuidId>
+   <elementGuidId>57312ed8-5fe0-4300-bce2-4a091bcaf22a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[normalize-space()='Submit']</value>
+         <value>//div[contains(text(),'Review')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

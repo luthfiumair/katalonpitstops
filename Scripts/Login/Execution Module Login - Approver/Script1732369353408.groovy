@@ -16,20 +16,31 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-WebUI.callTestCase(findTestCase('Test Cases/Login/Execution Module Login - Approver'), [:], FailureHandling.STOP_ON_FAILURE)
-WebUI.callTestCase(findTestCase('Test Cases/Login/Change OPUnEvent'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/Config 9/EWR Technical Review/EWR'))
+WebUI.navigateToUrl('https://pitstopsstg.petronas.com/?returnUrl=%2Fhome')
 
-WebUI.doubleClick(findTestObject('Object Repository/Config 9/EWR Technical Review/Open EWR'))
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Config 9/EWR Approval/Drop'))
+WebUI.switchToWindowTitle('Sign in to your account')
 
-WebUI.setText(findTestObject('Object Repository/Config 9/EWR Approval/textArea'), 'EWR 9 Approval')
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt'), 'updater6@pethlab.com')
 
-WebUI.click(findTestObject('Object Repository/Config 9/EWR Approval/Approve'))
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
 
-WebUI.click(findTestObject('Object Repository/Config 9/EWR Approval/Yes'))
+//WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'),10)
+WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes 2'))
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd'), 'Welcome@123456')
+
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
+
+WebUI.switchToWindowTitle('PITSTOPS')
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span_Planning Homepage'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/div_Execution Homepage'))
+

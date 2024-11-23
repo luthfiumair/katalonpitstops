@@ -16,20 +16,15 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-WebUI.callTestCase(findTestCase('Test Cases/Login/Execution Module Login - Approver'), [:], FailureHandling.STOP_ON_FAILURE)
-WebUI.callTestCase(findTestCase('Test Cases/Login/Change OPUnEvent'), [:], FailureHandling.STOP_ON_FAILURE)
 
-
-WebUI.click(findTestObject('Object Repository/Config 9/EWR Technical Review/EWR'))
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_EWR'))
 
 WebUI.doubleClick(findTestObject('Object Repository/Config 9/EWR Technical Review/Open EWR'))
 
-WebUI.click(findTestObject('Object Repository/Config 9/EWR Approval/Drop'))
+WebUI.click(findTestObject('Object Repository/Config 3/Review/Review'))
 
-WebUI.setText(findTestObject('Object Repository/Config 9/EWR Approval/textArea'), 'EWR 9 Approval')
+WebUI.setText(findTestObject('Object Repository/Config 3/Review/text'),'EWR Config 3 Automation')
 
-WebUI.click(findTestObject('Object Repository/Config 9/EWR Approval/Approve'))
+WebUI.click(findTestObject('Object Repository/Config 3/Request/Submit'))
 
-WebUI.click(findTestObject('Object Repository/Config 9/EWR Approval/Yes'))
-
-WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes 2'))
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes'))

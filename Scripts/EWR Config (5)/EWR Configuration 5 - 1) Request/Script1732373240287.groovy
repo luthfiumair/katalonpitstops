@@ -17,35 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Config 9/Config 9/a_Worklist'))
+WebUI.callTestCase(findTestCase('Test Cases/Login/Execution Module Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Test Cases/Login/Change OPUnEvent'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_Worklist'))
+
+WebUI.click(findTestObject('Object Repository/Scenario 1/Search Bar')) // Click to focus
+WebUI.setText(findTestObject('Object Repository/Scenario 1/Search Bar - Copy'), 'TEST - SC6 - 01')
+
+WebUI.click(findTestObject('Object Repository/Scenario 1/Search Button'))
+
 
 WebUI.click(findTestObject('Object Repository/Config 9/Config 9/img'))
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PITSTOPS/div_Delete'),10)
 
-WebUI.click(findTestObject('Object Repository/Config 9/Config 9/div_Descope (1)'))
+WebUI.click(findTestObject('Object Repository/Config 5/Request/Late Handover'))
 
-WebUI.click(findTestObject('Object Repository/Config 9/Config 9/Checkbox'))
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Justification'))
+WebUI.setText(findTestObject('Object Repository/Config 2/Request/Justification'),'Justification 1')
 
-WebUI.click(findTestObject('Object Repository/Config 9/Config 9/Page_PITSTOPS/checkbox dalam'))
+WebUI.setText(findTestObject('Object Repository/Config 9/Config 9/Page_PITSTOPS/textJustification'),'EWR 5 Automation Justification')
 
-WebUI.click(findTestObject('Object Repository/Config 9/Config 9/Submit dalam'))
+WebUI.setText(findTestObject('Object Repository/Config 9/Config 9/Page_PITSTOPS/textRisk'),'EWR 5 Automation Risk')
 
-WebUI.setText(findTestObject('Object Repository/Config 9/Config 9/Page_PITSTOPS/textJustification'),'EWR 9 Automation Justification')
-
-WebUI.setText(findTestObject('Object Repository/Config 9/Config 9/Page_PITSTOPS/textImpact'),'EWR 9 Automation Impact')
-
-WebUI.setText(findTestObject('Object Repository/Config 9/Config 9/Page_PITSTOPS/textRisk'),'EWR 9 Automation Risk')
-
-WebUI.setText(findTestObject('Object Repository/Config 9/Config 9/Page_PITSTOPS/textAction'),'EWR 9 Automation Action')
+WebUI.setText(findTestObject('Object Repository/Config 9/Config 9/Page_PITSTOPS/textAction'),'EWR 5 Automation Action')
 
 WebUI.click(findTestObject('Object Repository/Config 9/Config 9/SPAN_onoff'))
-
-//WebUI.click(findTestObject('Object Repository/Config 9/Config 9/ClickReview'))
-
 WebUI.selectOptionByValue(findTestObject('Object Repository/Config 9/Config 9/Choose Technical Reviewer'),'a89e7c02-2472-4eb5-59e0-08db6e17a52a', true)
-
-WebUI.click(findTestObject('Object Repository/Config 9/Config 9/DeleteTasklist'))
 
 WebUI.click(findTestObject('Object Repository/Config 9/Config 9/Submit(Request2)'))
 

@@ -22,4 +22,4 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_PITSTOPS/select
 WebUI.delay(2)
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_PITSTOPS/select_Demo - Training  MNLG - Demo TP  Dem_be5ca4'), 
     'd5402b86-996a-4365-6cc3-08dcb4f68116', true)
-
+WebUI.delay(2)

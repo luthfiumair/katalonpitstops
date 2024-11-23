@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Submit</name>
+   <name>Select Technical Reviewer</name>
    <tag></tag>
-   <elementGuidId>11da082b-1a92-4e5d-9482-c4774d057979</elementGuidId>
+   <elementGuidId>dd889138-b5be-47c0-baf6-686fbbbcab0d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[normalize-space()='Submit']</value>
+         <value>//div[@class='custom-select ng-star-inserted']</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Submit</name>
+   <name>Button</name>
    <tag></tag>
-   <elementGuidId>11da082b-1a92-4e5d-9482-c4774d057979</elementGuidId>
+   <elementGuidId>45647fc2-cd4f-4e2f-9b00-4a8abd52515f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[normalize-space()='Submit']</value>
+         <value>//div[@class='margin-top-25']//span[@class='slider round']</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

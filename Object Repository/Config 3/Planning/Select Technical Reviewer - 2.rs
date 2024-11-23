@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Submit</name>
+   <name>Select Technical Reviewer - 2</name>
    <tag></tag>
-   <elementGuidId>11da082b-1a92-4e5d-9482-c4774d057979</elementGuidId>
+   <elementGuidId>7b0e6f6d-e5d9-4047-b434-5f74555497ff</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[normalize-space()='Submit']</value>
+         <value>//option[@id='a89e7c02-2472-4eb5-59e0-08db6e17a52a']</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

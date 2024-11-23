@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Change OPUnEvent</name>
+   <name>EWR Configuration 5 - 2) Review</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>34d20ece-ff3d-459c-aff8-a7dfe0fb31f5</testCaseGuid>
+   <testCaseGuid>c9ffd047-aa1d-4dc9-b497-f272d72b2e4f</testCaseGuid>
 </TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Change OPUnEvent</name>
+   <name>EWR Configuration 3 - 2) Screening</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>34d20ece-ff3d-459c-aff8-a7dfe0fb31f5</testCaseGuid>
+   <testCaseGuid>711d1db1-315a-4cc8-8c00-a154e49f3fe6</testCaseGuid>
 </TestCaseEntity>

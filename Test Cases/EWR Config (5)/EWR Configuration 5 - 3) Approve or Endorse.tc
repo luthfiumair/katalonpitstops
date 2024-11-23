@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Change OPUnEvent</name>
+   <name>EWR Configuration 5 - 3) Approve or Endorse</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>34d20ece-ff3d-459c-aff8-a7dfe0fb31f5</testCaseGuid>
+   <testCaseGuid>a18f572f-4587-4a7a-845a-0c9aa4935c3d</testCaseGuid>
 </TestCaseEntity>

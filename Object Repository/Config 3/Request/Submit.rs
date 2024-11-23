@@ -3,14 +3,15 @@
    <description></description>
    <name>Submit</name>
    <tag></tag>
-   <elementGuidId>11da082b-1a92-4e5d-9482-c4774d057979</elementGuidId>
+   <elementGuidId>8430a460-e86b-4e49-9456-bf11cc00277c</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[normalize-space()='Submit']</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
