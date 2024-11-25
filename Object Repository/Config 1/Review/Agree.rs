@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Tag No - 2</name>
+   <name>Agree</name>
    <tag></tag>
-   <elementGuidId>d1817565-e743-411d-8a2c-9d09531eceb8</elementGuidId>
+   <elementGuidId>2043e73b-43ca-4c51-b9d6-23820431ce31</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@class='k-input']</value>
+         <value>//button[normalize-space()='Agree']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

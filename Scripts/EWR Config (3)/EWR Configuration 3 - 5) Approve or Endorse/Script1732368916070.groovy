@@ -18,15 +18,10 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_EWR'))
-
 WebUI.doubleClick(findTestObject('Object Repository/Config 9/EWR Technical Review/Open EWR'))
-
 WebUI.click(findTestObject('Object Repository/Config 3/Endorse/Endorse'))
-
 WebUI.setText(findTestObject('Object Repository/Config 8/Page_PITSTOPS/textarea__Endorse - AEA'),'EWR Config Automation')
 
 WebUI.click(findTestObject('Object Repository/Config 9/EWR Approve or Endorse/Endorse'))
-
 WebUI.click(findTestObject('Object Repository/Config 9/EWR Approve or Endorse/Yes'))
-
 WebUI.closeBrowser()

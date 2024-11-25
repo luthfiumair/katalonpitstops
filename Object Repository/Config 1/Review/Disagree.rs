@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Tag No - 2</name>
+   <name>Disagree</name>
    <tag></tag>
-   <elementGuidId>d1817565-e743-411d-8a2c-9d09531eceb8</elementGuidId>
+   <elementGuidId>e5d46362-b407-4e72-ae81-9e4ad992d598</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@class='k-input']</value>
+         <value>//button[normalize-space()='Disagree']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

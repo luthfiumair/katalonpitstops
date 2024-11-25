@@ -17,6 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('Object Repository/Config 1/Request/Page_PITSTOPS/Page_PITSTOPS/input__k-2084d347-928a-4060-9475-070ad55b262f'), 
-    '1234')
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_EWR'))
+WebUI.doubleClick(findTestObject('Object Repository/Config 9/EWR Technical Review/Open EWR'))
 
+WebUI.click(findTestObject('Object Repository/Config 1/2nd Screening/Screening 2'))
+
+WebUI.setText(findTestObject('Object Repository/Config 1/2nd Screening/text 1'),'Automation')
+WebUI.setText(findTestObject('Object Repository/Config 1/2nd Screening/text 2'),'Automation')
+
+WebUI.click(findTestObject('Object Repository/Config 3/Request/Submit'))
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes'))
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes 2'))

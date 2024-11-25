@@ -21,15 +21,11 @@ WebUI.callTestCase(findTestCase('Test Cases/Login/Execution Module Login - Appro
 WebUI.callTestCase(findTestCase('Test Cases/Login/Change OPUnEvent'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Config 9/EWR Technical Review/EWR'))
-
 WebUI.doubleClick(findTestObject('Object Repository/Config 9/EWR Technical Review/Open EWR'))
 
 WebUI.click(findTestObject('Object Repository/Config 9/EWR Approval/Drop'))
-
 WebUI.setText(findTestObject('Object Repository/Config 9/EWR Approval/textArea'), 'EWR Config 3 Automation')
 
 WebUI.click(findTestObject('Object Repository/Config 9/EWR Approval/Approve'))
-
 WebUI.click(findTestObject('Object Repository/Config 9/EWR Approval/Yes'))
-
 WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes 2'))

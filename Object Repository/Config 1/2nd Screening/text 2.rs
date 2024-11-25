@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Tag No - 2</name>
+   <name>text 2</name>
    <tag></tag>
-   <elementGuidId>d1817565-e743-411d-8a2c-9d09531eceb8</elementGuidId>
+   <elementGuidId>0bb5d5a6-8de9-41b0-8b41-591a1262ca82</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@class='k-input']</value>
+         <value>//input[@id='textAreaScr2impactNOP']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

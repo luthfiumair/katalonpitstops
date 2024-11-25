@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Tag No - 2</name>
+   <name>Checkbox (Before RTO)</name>
    <tag></tag>
-   <elementGuidId>d1817565-e743-411d-8a2c-9d09531eceb8</elementGuidId>
+   <elementGuidId>5e72f059-8928-4827-8793-fcdac23cfbc6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@class='k-input']</value>
+         <value>//input[@id='1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

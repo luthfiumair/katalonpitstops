@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Tag No - 2</name>
+   <name>Screening 2</name>
    <tag></tag>
-   <elementGuidId>d1817565-e743-411d-8a2c-9d09531eceb8</elementGuidId>
+   <elementGuidId>0c9f296f-bb40-49b9-9fac-438e7993c79f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@class='k-input']</value>
+         <value>//div[contains(text(),'Screening 2')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

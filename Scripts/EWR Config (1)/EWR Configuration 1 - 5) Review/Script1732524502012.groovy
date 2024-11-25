@@ -17,31 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_EWR'))
-
 WebUI.doubleClick(findTestObject('Object Repository/Config 9/EWR Technical Review/Open EWR'))
+WebUI.click(findTestObject('Object Repository/Config 3/Review/Review'))
 
-WebUI.click(findTestObject('Object Repository/Config 2/Planning/Planning Dropdown'))
+WebUI.click(findTestObject('Object Repository/Config 1/Review/Disagree'))
+WebUI.click(findTestObject('Object Repository/Config 1/Review/Agree'))
 
-WebUI.click(findTestObject('Object Repository/Config 3/Planning/Estimate Work Duration'))
-WebUI.setText(findTestObject('Object Repository/Config 3/Planning/Estimate Work Duration'),'EWR Config 3 Automation')
-
-WebUI.click(findTestObject('Object Repository/Config 3/Planning/Estimated Lead Time'))
-WebUI.setText(findTestObject('Object Repository/Config 3/Planning/Estimated Lead Time'),'EWR Config 3 Automation')
-
-WebUI.setText(findTestObject('Object Repository/Config 3/Planning/Service Cost'),'320')
-WebUI.setText(findTestObject('Object Repository/Config 3/Planning/Material Cost'),'420')
-
-WebUI.click(findTestObject('Object Repository/Config 3/Planning/Checkbox'))
-
-WebUI.click(findTestObject('Object Repository/Config 3/Planning/Button'))
-WebUI.click(findTestObject('Object Repository/Config 3/Planning/Button'))
-
-WebUI.click(findTestObject('Object Repository/Config 3/Planning/Select Technical Reviewer'))
-WebUI.click(findTestObject('Object Repository/Config 3/Planning/Select Technical Reviewer - 2'))
-
+WebUI.setText(findTestObject('Object Repository/Config 3/Review/text'),'EWR Config 1 Automation')
 
 WebUI.click(findTestObject('Object Repository/Config 3/Request/Submit'))
 WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes'))
-WebUI.click(findTestObject('Object Repository/Config 3/Planning/Okay'))

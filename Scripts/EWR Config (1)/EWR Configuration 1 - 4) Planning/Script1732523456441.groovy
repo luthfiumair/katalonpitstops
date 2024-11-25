@@ -16,8 +16,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
-
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_EWR'))
 
 WebUI.doubleClick(findTestObject('Object Repository/Config 9/EWR Technical Review/Open EWR'))
@@ -25,22 +23,20 @@ WebUI.doubleClick(findTestObject('Object Repository/Config 9/EWR Technical Revie
 WebUI.click(findTestObject('Object Repository/Config 2/Planning/Planning Dropdown'))
 
 WebUI.click(findTestObject('Object Repository/Config 3/Planning/Estimate Work Duration'))
-WebUI.setText(findTestObject('Object Repository/Config 3/Planning/Estimate Work Duration'),'EWR Config 3 Automation')
+WebUI.setText(findTestObject('Object Repository/Config 3/Planning/Estimate Work Duration'),'EWR Config 1 Automation')
 
 WebUI.click(findTestObject('Object Repository/Config 3/Planning/Estimated Lead Time'))
-WebUI.setText(findTestObject('Object Repository/Config 3/Planning/Estimated Lead Time'),'EWR Config 3 Automation')
+WebUI.setText(findTestObject('Object Repository/Config 3/Planning/Estimated Lead Time'),'EWR Config 1 Automation')
 
 WebUI.setText(findTestObject('Object Repository/Config 3/Planning/Service Cost'),'320')
 WebUI.setText(findTestObject('Object Repository/Config 3/Planning/Material Cost'),'420')
 
-WebUI.click(findTestObject('Object Repository/Config 3/Planning/Checkbox'))
+WebUI.click(findTestObject('Object Repository/Config 1/Planning/Checkbox (Before RTO)'))
 
-WebUI.click(findTestObject('Object Repository/Config 3/Planning/Button'))
-WebUI.click(findTestObject('Object Repository/Config 3/Planning/Button'))
+WebUI.setText(findTestObject('Object Repository/Config 1/Planning/text (Remarks)'),'AUTOMATION')
 
 WebUI.click(findTestObject('Object Repository/Config 3/Planning/Select Technical Reviewer'))
 WebUI.click(findTestObject('Object Repository/Config 3/Planning/Select Technical Reviewer - 2'))
-
 
 WebUI.click(findTestObject('Object Repository/Config 3/Request/Submit'))
 WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes'))

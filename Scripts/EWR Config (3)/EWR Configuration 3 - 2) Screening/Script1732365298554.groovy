@@ -19,14 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_EWR'))
-
 WebUI.doubleClick(findTestObject('Object Repository/Config 9/EWR Technical Review/Open EWR'))
 
 WebUI.click(findTestObject('Object Repository/Config 3/Screening/Screening 1'))
 
 WebUI.click(findTestObject('Object Repository/Config 3/Request/Submit'))
-
 WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes'))
-
 WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes 2'))
-

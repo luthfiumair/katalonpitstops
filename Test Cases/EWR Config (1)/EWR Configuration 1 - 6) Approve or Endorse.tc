@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Execution Module Login</name>
+   <name>EWR Configuration 1 - 6) Approve or Endorse</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>d7eb4385-2fc9-43a6-83df-e3bf6aff7697</testCaseGuid>
+   <testCaseGuid>3a309c5f-5ed8-4dae-a477-1207c18f2a77</testCaseGuid>
 </TestCaseEntity>

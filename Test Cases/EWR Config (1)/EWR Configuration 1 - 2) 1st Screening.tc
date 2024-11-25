@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Execution Module Login</name>
+   <name>EWR Configuration 1 - 2) 1st Screening</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>d7eb4385-2fc9-43a6-83df-e3bf6aff7697</testCaseGuid>
+   <testCaseGuid>719577d5-ce38-427c-9b77-db7799da08d9</testCaseGuid>
 </TestCaseEntity>

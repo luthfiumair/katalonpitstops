@@ -40,14 +40,16 @@ WebUI.click(findTestObject('Object Repository/Config 1/Request/Equipment Type - 
 WebUI.click(findTestObject('Object Repository/Config 1/Request/Equipment Type - 2'))
 
 WebUI.click(findTestObject('Object Repository/Config 1/Request/Tag No - 1'))
-//WebUI.scrollToElement(findTestObject('Object Repository/Config 1/Request/Tag No - 2'), 5)
-//WebUI.waitForElementClickable(findTestObject('Object Repository/Config 1/Request/Tag No - 2'),10)
-//WebUI.setText(findTestObject('Object Repository/Config 1/Request/Tag No - 2'), '1234')
+WebUI.scrollToElement(findTestObject('Object Repository/Config 1/Request/Tag No - 2'), 5)
 WebUI.waitForElementVisible(findTestObject('Object Repository/Config 1/Request/Tag No - 2'), 10)
-WebUI.waitForElementClickable(findTestObject('Object Repository/Config 1/Request/Tag No - 2'), 10)
 WebUI.setText(findTestObject('Object Repository/Config 1/Request/Tag No - 2'), '1234')
 
 
 WebUI.setText(findTestObject('Object Repository/Config 2/Request/Work'),'Work 1')
 WebUI.setText(findTestObject('Object Repository/Config 2/Request/Justification'),'Justification 1')
 WebUI.setText(findTestObject('Object Repository/Config 2/Request/Impact'),'Impact 1')
+
+//WebUI.click(findTestObject('Object Repository/Config 3/Request/Submit'))
+WebUI.click(findTestObject('Object Repository/Config 3/Request/Submit'))
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes'))
+WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes 2'))

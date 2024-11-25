@@ -51,7 +51,5 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Config 3/Request/Submit'))
 WebUI.click(findTestObject('Object Repository/Config 3/Request/Submit'))
-
 WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes'))
-
 WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes 2'))
