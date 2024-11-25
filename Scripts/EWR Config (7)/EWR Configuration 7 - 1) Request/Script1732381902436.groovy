@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/Config 9/Config 9/img'))
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PITSTOPS/div_Delete'),10)
 
-WebUI.click(findTestObject('Object Repository/Config 5/Request/Late Handover'))
+WebUI.click(findTestObject('Object Repository/Config 7/Request/Late Handover'))
 
 WebUI.click(findTestObject('Object Repository/Config 2/Request/Justification'))
 WebUI.setText(findTestObject('Object Repository/Config 2/Request/Justification'),'Justification 1')

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>EWR - 5</name>
+   <name>EWR - 4</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,33 +10,40 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>9194b02e-4f67-4ffe-887d-5961aa5d6981</testSuiteGuid>
+   <testSuiteGuid>e126339f-f9ec-4302-ae8a-9f6802aa7ae2</testSuiteGuid>
    <testCaseLink>
-      <guid>4bed40d6-dee6-411b-abc3-674b4b565e19</guid>
+      <guid>e4b1070a-483d-4380-85cb-32a7d1f625bb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EWR Config (5)/EWR Configuration 5 - 1) Request</testCaseId>
+      <testCaseId>Test Cases/EWR Config (4)/EWR Configuration 4 - 1) Request</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>2f6592a8-f9c3-4c8e-b06e-f44be058a853</guid>
+      <guid>3b0937b0-4b41-4eda-b342-eb605c7dd6cb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EWR Config (5)/EWR Configuration 5 - 2) Review</testCaseId>
+      <testCaseId>Test Cases/EWR Config (4)/EWR Configuration 4 - 2) Planning</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>83b1757a-bc24-4625-9834-426b01a1639f</guid>
+      <guid>42a355f1-b001-4151-b046-b8c12f7a0c82</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EWR Config (5)/EWR Configuration 5 - 3) Approve or Endorse</testCaseId>
+      <testCaseId>Test Cases/EWR Config (4)/EWR Configuration 4 - 3) Review</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>01cc5196-37eb-450e-a6a6-eb75bc7d9892</guid>
+      <guid>c37edf09-96f2-43b7-a7f6-abc217c67ea8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/EWR Config (5)/EWR Configuration 5 - 4) Approve (if required)</testCaseId>
+      <testCaseId>Test Cases/EWR Config (4)/EWR Configuration 4 - 4) Approve or Endorse</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>53a7727a-5049-435b-86f8-89f148701d24</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/EWR Config (4)/EWR Configuration 4 - 5) Approve (if required)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

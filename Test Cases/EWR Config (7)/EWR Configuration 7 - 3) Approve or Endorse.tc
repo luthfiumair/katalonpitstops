@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>EWR Configuration 5 - 4) Approve (if required)</name>
+   <name>EWR Configuration 7 - 3) Approve or Endorse</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>00f5ab68-4d1f-46d9-9c5d-dd46ff44387b</testCaseGuid>
+   <testCaseGuid>a18f572f-4587-4a7a-845a-0c9aa4935c3d</testCaseGuid>
 </TestCaseEntity>

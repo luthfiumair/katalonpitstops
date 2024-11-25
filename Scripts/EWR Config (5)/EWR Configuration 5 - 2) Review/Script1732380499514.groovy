@@ -17,14 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_EWR'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Config 9/EWR Technical Review/Open EWR'))
 
-WebUI.click(findTestObject('Object Repository/Config 3/Review/Review'))
-
-WebUI.setText(findTestObject('Object Repository/Config 5/Review/text'),'EWR Config 5 - Review')
-
-WebUI.click(findTestObject('Object Repository/Config 3/Request/Submit'))
-
-WebUI.click(findTestObject('Object Repository/Config 2/Request/Yes'))
+WebUI.callTestCase(findTestCase('Test Cases/EWR Config (7)/EWR Configuration 7 - 2) Review'), [:], FailureHandling.STOP_ON_FAILURE)
