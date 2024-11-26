@@ -17,15 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Test Cases/Login/Execution Module Login'), [:], FailureHandling.STOP_ON_FAILURE)
-WebUI.callTestCase(findTestCase('Test Cases/Login/Change OPUnEvent'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_Worklist'))
-WebUI.click(findTestObject('Object Repository/Scenario 1/Search Bar')) // Click to focus
-WebUI.setText(findTestObject('Object Repository/Scenario 1/Search Bar - Copy'), 'TEST - SC3 - 01')
-WebUI.click(findTestObject('Object Repository/Scenario 1/Search Button'))
+WebUI.navigateToUrl('https://pitstopsstg.petronas.com/?returnUrl=%2Fhome')
 
-WebUI.click(findTestObject('Object Repository/Scenario 1/Show tasklist'))
-WebUI.setText(findTestObject('Object Repository/Scenario 1/INPUT SEARCH'),'Isolate Equipment Isolation')
-WebUI.sendKeys(findTestObject('Object Repository/Scenario 1/INPUT SEARCH'), Keys.chord(Keys.ENTER))
-WebUI.click(findTestObject('Object Repository/Scenario 1/Open tasklist'))
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Login'))
+
+WebUI.switchToWindowTitle('Sign in to your account')
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/ADD NEW'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt'), 'tverify4@pethlab.com')
+
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
+
+//WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'),10)
+WebUI.delay(1)
+
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd'), 'Welcome@123456')
+
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
+
+WebUI.switchToWindowTitle('PITSTOPS')
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span_Planning Homepage'))
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/div_Execution Homepage'))

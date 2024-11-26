@@ -17,15 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Test Cases/Login/Execution Module Login'), [:], FailureHandling.STOP_ON_FAILURE)
-WebUI.callTestCase(findTestCase('Test Cases/Login/Change OPUnEvent'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Scenario 5/Checkbox 1'))
+WebUI.click(findTestObject('Object Repository/Scenario 5/Checkbox 2'))
+WebUI.click(findTestObject('Object Repository/Scenario 5/Checkbox 3'))
+WebUI.click(findTestObject('Object Repository/Scenario 5/Checkbox 4'))
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_Worklist'))
-WebUI.click(findTestObject('Object Repository/Scenario 1/Search Bar')) // Click to focus
-WebUI.setText(findTestObject('Object Repository/Scenario 1/Search Bar - Copy'), 'TEST - SC3 - 01')
-WebUI.click(findTestObject('Object Repository/Scenario 1/Search Button'))
+WebUI.scrollToElement(findTestObject('Object Repository/Scenario 1/Update'),20)
+WebUI.click(findTestObject('Object Repository/Scenario 1/Update'))
+WebUI.setText(findTestObject('Object Repository/Scenario 2/text'),'Automation')
+WebUI.click(findTestObject('Object Repository/Scenario 5/Submit'))
+WebUI.click(findTestObject('Object Repository/Scenario 2/Yes 2'))
 
-WebUI.click(findTestObject('Object Repository/Scenario 1/Show tasklist'))
-WebUI.setText(findTestObject('Object Repository/Scenario 1/INPUT SEARCH'),'Isolate Equipment Isolation')
-WebUI.sendKeys(findTestObject('Object Repository/Scenario 1/INPUT SEARCH'), Keys.chord(Keys.ENTER))
-WebUI.click(findTestObject('Object Repository/Scenario 1/Open tasklist'))
+WebUI.closeBrowser()

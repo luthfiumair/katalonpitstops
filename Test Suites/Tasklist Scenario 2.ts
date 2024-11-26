@@ -12,17 +12,17 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>151b7b86-ef0a-475f-b10e-8d0c4b457a13</testSuiteGuid>
    <testCaseLink>
-      <guid>c422e4c8-569b-4b84-aa12-7d1b7becf32c</guid>
+      <guid>d7a32f07-ecb8-45fb-bf4a-57e720ec3bf7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Execution Module Login</testCaseId>
+      <testCaseId>Test Cases/Scenario 2/Update Worklist</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>3c4d47e0-13e7-442f-b0e3-879269f73e94</guid>
+      <guid>3428f5a6-f543-4c8e-86f9-de0293630081</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Change OPUnEvent</testCaseId>
+      <testCaseId>Test Cases/Scenario 2/WCS Approve</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
