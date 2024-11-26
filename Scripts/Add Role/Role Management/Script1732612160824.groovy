@@ -18,11 +18,9 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 
-WebUI.click(findTestObject('Object Repository/Delete Role/Search'))
+WebUI.callTestCase(findTestCase('Test Cases/Login/Enterprise Admin Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Test Cases/Role Management/Open Role Management'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Test Cases/Role Management/Select OPU and Event (Role)'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('Object Repository/Add Role/Role Management/Add New Role'))
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Delete'))
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Delete_1'))
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Okay'))
-
-WebUI.closeBrowser()

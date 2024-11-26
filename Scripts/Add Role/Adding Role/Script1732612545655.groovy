@@ -18,11 +18,21 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 
-WebUI.click(findTestObject('Object Repository/Delete Role/Search'))
+WebUI.click(findTestObject('Object Repository/Add Role/Adding Role/Module'))
+WebUI.waitForElementClickable(findTestObject('Object Repository/Add Role/Adding Role/Module 2'),10)
+WebUI.click(findTestObject('Object Repository/Add Role/Adding Role/Module 2'))
 
+WebUI.setText(findTestObject('Object Repository/Add Role/Adding Role/Role Name'),'Automation Role')
+WebUI.setText(findTestObject('Object Repository/Add Role/Adding Role/Description'),'Automation Role')
+WebUI.click(findTestObject('Object Repository/Add Role/Adding Role/Discipline'))
+WebUI.waitForElementClickable(findTestObject('Object Repository/Add Role/Adding Role/Static'),10)
+WebUI.click(findTestObject('Object Repository/Add Role/Adding Role/Static'))
+WebUI.click(findTestObject('Object Repository/Add Role/Adding Role/Close Discipline'))
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Delete'))
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Delete_1'))
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Okay'))
+WebUI.click(findTestObject('Object Repository/Add Role/Adding Role/Worklist'))
+WebUI.click(findTestObject('Object Repository/Add Role/Adding Role/Worklist Checkbox'))
+WebUI.click(findTestObject('Object Repository/Add Role/Adding Role/Save'))
+WebUI.click(findTestObject('Object Repository/Add Role/Adding Role/Confirm'))
+WebUI.click(findTestObject('Object Repository/Add Role/Adding Role/Okay'))
 
 WebUI.closeBrowser()

@@ -24,6 +24,7 @@ WebUI.navigateToUrl('https://pitstopsstg.petronas.com/?returnUrl=%2Fhome')
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Login'))
 
 WebUI.switchToWindowTitle('Sign in to your account')
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/ADD NEW'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt'), 'pitstops1@pethlab.com')
 

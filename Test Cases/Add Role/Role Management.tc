@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Deleting Role</name>
+   <name>Role Management</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>2e2830a1-8de5-4420-8e84-fafbab90d670</testCaseGuid>
+   <testCaseGuid>b8dd8ff3-6e93-4c60-b3f4-9bb3d1e91db0</testCaseGuid>
 </TestCaseEntity>
