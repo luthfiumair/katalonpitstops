@@ -16,7 +16,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
 WebUI.callTestCase(findTestCase('Test Cases/Login/Execution Module Login'), [:], FailureHandling.STOP_ON_FAILURE)
 WebUI.callTestCase(findTestCase('Test Cases/Login/Change OPUnEvent'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -24,7 +23,6 @@ WebUI.callTestCase(findTestCase('Test Cases/Login/Change OPUnEvent'), [:], Failu
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/a_Worklist'))
 WebUI.click(findTestObject('Object Repository/Scenario 1/Pre-Execution'))
 WebUI.delay(1)
-
 
 WebUI.click(findTestObject('Object Repository/Scenario 1/Search Bar')) // Click to focus
 WebUI.setText(findTestObject('Object Repository/Scenario 1/Search Bar - Copy'), 'Test w WCS - 03')
@@ -38,8 +36,7 @@ WebUI.setText(findTestObject('Object Repository/Scenario 1/INPUT SEARCH'),'Disma
 WebUI.sendKeys(findTestObject('Object Repository/Scenario 1/INPUT SEARCH'), Keys.chord(Keys.ENTER))
 WebUI.waitForElementVisible(findTestObject('Object Repository/Scenario 1/Open tasklist'),5)
 WebUI.click(findTestObject('Object Repository/Scenario 1/Open tasklist'))
-WebUI.dragAndDropByOffset(findTestObject('Object Repository/Scenario 1/Drag 1'), 100, 0)
+WebUI.dragAndDropByOffset(findTestObject('Object Repository/Scenario 2/drag'),400,0)
 WebUI.click(findTestObject('Object Repository/Scenario 1/Update'))
 WebUI.click(findTestObject('Object Repository/Config 2/Planning/Submit'))
-WebUI.click(findTestObject('Object Repository/Config 2/Planning/Yes 2'))
 WebUI.closeBrowser()

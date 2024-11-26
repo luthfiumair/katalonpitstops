@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>151b7b86-ef0a-475f-b10e-8d0c4b457a13</testSuiteGuid>
    <testCaseLink>
-      <guid>d7a32f07-ecb8-45fb-bf4a-57e720ec3bf7</guid>
+      <guid>78bc6de4-5fd4-486d-bc38-48eb37216ad5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Scenario 2/Update Worklist</testCaseId>

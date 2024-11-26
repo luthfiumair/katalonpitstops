@@ -27,10 +27,6 @@ WebUI.click(findTestObject('Object Repository/Scenario 1/Pre-Execution'))
 
 WebUI.delay(1)
 
-//WebUI.click(findTestObject('Object Repository/Scenario 1/Search Bar'))
-//
-//WebUI.setText(findTestObject('Object Repository/Scenario 1/Search Bar'),'TEST - SC7 - 02')
-
 WebUI.click(findTestObject('Object Repository/Scenario 1/Search Bar')) // Click to focus
 WebUI.setText(findTestObject('Object Repository/Scenario 1/Search Bar - Copy'), 'TEST - SC7 - 02')
 
@@ -49,10 +45,11 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Scenario 1/Open ta
 
 WebUI.click(findTestObject('Object Repository/Scenario 1/Open tasklist'))
 
-WebUI.dragAndDropByOffset(findTestObject('Object Repository/Scenario 1/Drag 1'), 50, 0)
+WebUI.dragAndDropByOffset(findTestObject('Object Repository/Scenario 1/Drag 1'),400, 0)
 
 WebUI.click(findTestObject('Object Repository/Scenario 1/Update'))
 
 WebUI.click(findTestObject('Object Repository/Config 2/Planning/Submit'))
 
 WebUI.click(findTestObject('Object Repository/Scenario 1/Okay'))
+WebUI.closeBrowser()
