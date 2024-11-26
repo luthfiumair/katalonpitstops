@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Click role on User</name>
+   <name>checkbox</name>
    <tag></tag>
-   <elementGuidId>530b57b1-6aef-4458-8bcb-0beb118083ad</elementGuidId>
+   <elementGuidId>f5117e64-ff90-4f55-bfb8-b6832ea46e27</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//kendo-dropdownlist[@class='k-widget k-dropdown ng-untouched ng-pristine ng-invalid']</value>
+         <value>//div[@class='ng-star-inserted'][normalize-space()='CDU']//input[@type='checkbox']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

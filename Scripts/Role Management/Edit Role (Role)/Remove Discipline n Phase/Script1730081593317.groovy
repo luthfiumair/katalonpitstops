@@ -25,12 +25,4 @@ WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Rotating'))
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Static'))
 
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/div_Start UpShutdownExecutionPre ExecutionP_44a1e4'))
-
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Pre Execution'))
-
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Post Execution'))
-
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/li_Start Up'))
-
-
+WebUI.click(findTestObject('Object Repository/Add Role/Adding Role/Close Discipline'))

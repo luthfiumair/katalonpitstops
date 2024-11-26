@@ -4,5 +4,6 @@
    <name>Remove Discipline n Phase</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>b6bf0246-ffc8-42f8-a496-c834bc2dbedc</testCaseGuid>
 </TestCaseEntity>

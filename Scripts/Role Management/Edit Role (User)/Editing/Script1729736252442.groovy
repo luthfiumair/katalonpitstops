@@ -16,11 +16,12 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
-WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Edit_On_User'))
-
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span_Click role on User'))
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Edit location(Edit User)'))
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Edit Location(Edit User) - 2'))
+
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/checkbox'))
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/save'))
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/save - Copy'))

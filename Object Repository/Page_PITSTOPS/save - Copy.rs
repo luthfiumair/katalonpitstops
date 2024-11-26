@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Click role on User</name>
+   <name>save - Copy</name>
    <tag></tag>
-   <elementGuidId>530b57b1-6aef-4458-8bcb-0beb118083ad</elementGuidId>
+   <elementGuidId>14379e35-3ae7-42fd-8e8f-a770e6bf69c7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//kendo-dropdownlist[@class='k-widget k-dropdown ng-untouched ng-pristine ng-invalid']</value>
+         <value>//button[@class='k-button k-primary btn-save ng-star-inserted']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -4,5 +4,6 @@
    <name>Edit Role</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>50806cee-cc78-4d04-8041-ddf5dc837618</testCaseGuid>
 </TestCaseEntity>

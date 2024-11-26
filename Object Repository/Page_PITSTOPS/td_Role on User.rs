@@ -6,14 +6,15 @@
    <elementGuidId>6c6a1904-589f-4f74-a7be-92e72d3b2e5d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='k-tabstrip-tabpanel-1']/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr/td[2]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//button[normalize-space()='Edit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>4a3d661b-62b3-4aaf-aec2-98b2dca844fe</webElementGuid>
+      <webElementGuid>e156371d-591f-4c93-942c-636292d61b88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>12cacffa-ff48-4a82-a358-394824b93e10</webElementGuid>
+      <webElementGuid>33c6c3ce-e2ea-431f-8c79-c12af86f3f2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-touch-action-auto ng-star-inserted</value>
-      <webElementGuid>75a0d3b5-639f-45c9-9d45-42b53bd3e406</webElementGuid>
+      <webElementGuid>8d37bdcf-5d74-43f0-8109-febfdb9daa4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +46,7 @@
       <name>data-kendo-grid-column-index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>a3a77930-c95c-4c88-a30e-ea2ce439dc83</webElementGuid>
+      <webElementGuid>bbb71aa4-d6b6-4d3c-b53e-497c6fa2b7e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +54,7 @@
       <name>colspan</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>daf0afbe-2e00-4045-82bd-2ade1a8d3719</webElementGuid>
+      <webElementGuid>9c71d4d8-3350-44af-9886-86d79040388d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>aria-colindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>182dd0bd-548f-4665-9fc8-88e0c15d46ca</webElementGuid>
+      <webElementGuid>a56bb287-f21e-4235-baf4-a8769d8ba248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Subtask Verifier 3</value>
-      <webElementGuid>eaeb3019-670d-4190-bf0d-58ea3e173b64</webElementGuid>
+      <webElementGuid>081516e3-4c52-405b-8b7a-aaedfbd7246e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;k-tabstrip-tabpanel-1&quot;)/kendo-grid[@class=&quot;custom-grid k-widget k-grid ng-star-inserted&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;k-touch-action-auto ng-star-inserted&quot;]</value>
-      <webElementGuid>fd5233ea-8bb9-4e25-83f3-66ab3c3f90dd</webElementGuid>
+      <webElementGuid>29e24c79-a121-4117-9948-0f0f689e54f5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='k-tabstrip-tabpanel-1']/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr/td[2]</value>
-      <webElementGuid>9808e423-cb22-4531-81a4-8018904b71c9</webElementGuid>
+      <webElementGuid>e799301b-b923-4b80-b63c-ca8599635a22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LOCATION'])[1]/following::td[2]</value>
-      <webElementGuid>b934d717-ffd2-434c-a9ed-b434e5f069c6</webElementGuid>
+      <webElementGuid>a96d8209-e6f5-4f6e-a34c-52fe9aa0e1ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ROLE NAME'])[1]/following::td[2]</value>
-      <webElementGuid>d15a78db-c24b-4602-acad-8c9ef82d3da9</webElementGuid>
+      <webElementGuid>def6212f-0a54-4e40-84a1-54b9826a163c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CDU'])[1]/preceding::td[1]</value>
-      <webElementGuid>0a2aaeff-a843-4940-ad83-09eaa4bab469</webElementGuid>
+      <webElementGuid>ebe0467b-e65d-4929-be84-81516f603c34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CDU'])[2]/preceding::td[1]</value>
-      <webElementGuid>c6a4c5e8-d676-407d-883a-d6ffb0a105ec</webElementGuid>
+      <webElementGuid>20ce25ec-4953-4345-8694-9c82e9e6213c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Subtask Verifier 3']/parent::*</value>
-      <webElementGuid>74f869df-5679-4a16-97d6-b3f6dad2c136</webElementGuid>
+      <webElementGuid>ceacd9b1-5791-40dc-a603-6330b161c3a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]</value>
-      <webElementGuid>fd356d2f-b28f-455d-8ab0-0291419220c3</webElementGuid>
+      <webElementGuid>542a2126-e771-42a8-b37c-8accc30d36ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Subtask Verifier 3' or . = 'Subtask Verifier 3')]</value>
-      <webElementGuid>3c23dc55-3628-42f3-a523-22210afb21fc</webElementGuid>
+      <webElementGuid>3fbcf9fd-4ae7-4009-b75a-c6bc81d6fa1c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

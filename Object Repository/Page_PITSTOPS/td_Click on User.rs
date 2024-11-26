@@ -6,14 +6,15 @@
    <elementGuidId>07740a54-c6b4-4ac5-ae94-006e7fc76262</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;user-listing&quot;]/div/div[2]/kendo-grid/div/kendo-grid-list/div/div[1]/table/tbody/tr[1]/td[2]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//td[normalize-space()='Updater1, Training']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>37098463-4e68-4b76-bfb7-cb8c105c58e6</webElementGuid>
+      <webElementGuid>7b18cd78-3e21-44fa-af82-7eb3834eb80e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>948ae469-8981-40bc-ac33-d257ac3070ce</webElementGuid>
+      <webElementGuid>af6bb1ba-027c-4d30-9e53-37dad8a7a60a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-touch-action-auto ng-star-inserted</value>
-      <webElementGuid>3c8bcb56-89a6-43a7-9516-e4dde0e4020e</webElementGuid>
+      <webElementGuid>cb40a19a-330f-4f1b-bfcf-7c06b26bc6a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +46,7 @@
       <name>data-kendo-grid-column-index</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>fab05acb-df0e-4c64-8504-fe2a4299652b</webElementGuid>
+      <webElementGuid>ee79d8cb-ce13-425a-ba9c-041f28f0f812</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +54,7 @@
       <name>colspan</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>dfd0ba9a-9d3a-4395-9e92-450896a78edb</webElementGuid>
+      <webElementGuid>c6413248-b4db-46b7-871e-45d285af2f05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>aria-colindex</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>167b2f56-5712-4098-9a83-c65cdeff1087</webElementGuid>
+      <webElementGuid>6cef4405-3968-4176-a0f6-a0535dfe5d6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>subverify5@pethlab.com</value>
-      <webElementGuid>6e6f654c-ad9e-46dd-b123-a75bf0bf5e26</webElementGuid>
+      <webElementGuid>a3ca942d-c55f-4798-83c8-64031923713b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;user-listing&quot;)/div[1]/div[@class=&quot;container-body ng-star-inserted&quot;]/kendo-grid[@class=&quot;custom-grid k-widget k-grid&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;k-alt ng-star-inserted&quot;]/td[@class=&quot;k-touch-action-auto ng-star-inserted&quot;]</value>
-      <webElementGuid>def333ee-8880-4054-8773-e32ba7895d2f</webElementGuid>
+      <webElementGuid>7f4765d3-bc82-43f5-9474-0427d4eeca3e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='user-listing']/div/div[2]/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr[4]/td[3]</value>
-      <webElementGuid>4f3c7036-7698-401f-8fa8-c052a05e5807</webElementGuid>
+      <webElementGuid>0ce37d8a-6478-430b-ae59-16f9d5dedfae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Faizal, Osman'])[1]/following::td[1]</value>
-      <webElementGuid>eb8589bc-376e-4017-8d1a-e75c66d39a63</webElementGuid>
+      <webElementGuid>9b46d0e2-89b9-4b18-acff-af19a91ebacc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtask Verifier'])[1]/following::td[5]</value>
-      <webElementGuid>925ba573-5d75-45c2-9510-b9bb1f847c4f</webElementGuid>
+      <webElementGuid>3c766345-275d-4773-974f-ce14cc6ffb7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtask Verifier 3'])[1]/preceding::td[1]</value>
-      <webElementGuid>a2121ea7-0bb7-4ef4-bc42-52d7b049a51d</webElementGuid>
+      <webElementGuid>9ccabb68-61be-4d79-9682-1f7b1d45c026</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='items per page'])[1]/preceding::td[4]</value>
-      <webElementGuid>1b201cc6-8fe7-453e-b436-a1484b60b487</webElementGuid>
+      <webElementGuid>7197f063-34d0-468a-8586-5efe4e01d60c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='subverify5@pethlab.com']/parent::*</value>
-      <webElementGuid>85dbb6de-4be0-455c-a353-7782f3fd6711</webElementGuid>
+      <webElementGuid>fb982a76-91e5-40f7-b178-fce4aeb7487d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[4]/td[3]</value>
-      <webElementGuid>0dbeafa7-c484-40ee-94ac-37f6ca9d9876</webElementGuid>
+      <webElementGuid>e94fc50c-ab6b-4a9c-847c-12a5a20f089d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'subverify5@pethlab.com' or . = 'subverify5@pethlab.com')]</value>
-      <webElementGuid>7577492e-e9b0-4cf0-b4d4-a7e28cdb8805</webElementGuid>
+      <webElementGuid>f08e7a9e-300e-42c5-bcb1-ca157ef9ab97</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -4,5 +4,6 @@
    <name>Editing</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>eaadd81e-754c-4ac4-b8ca-f5f02ce9ae32</testCaseGuid>
 </TestCaseEntity>

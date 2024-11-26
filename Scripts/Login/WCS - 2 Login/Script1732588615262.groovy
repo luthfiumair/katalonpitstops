@@ -30,20 +30,12 @@ if (WebUI.verifyElementPresent(findTestObject('Object Repository/Scenario 1/Opti
 	WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/ADD NEW'))
 }
 WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt'), 'updater5@pethlab.com')
-
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
-
 //WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'),10)
 WebUI.delay(1)
-
 WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd'), 'Welcome@123456')
-
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
-
 WebUI.switchToWindowTitle('PITSTOPS')
-
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span_Planning Homepage'))
-
 WebUI.delay(1)
-
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/div_Execution Homepage'))

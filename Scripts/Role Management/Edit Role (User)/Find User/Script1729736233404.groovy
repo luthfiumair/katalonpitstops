@@ -22,3 +22,4 @@ WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/td_Click on User'))
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/span_Execution Module'))
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/td_Role on User'))
+WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/Add new rolke'))

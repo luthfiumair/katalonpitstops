@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Click role on User</name>
+   <name>Automation Role</name>
    <tag></tag>
-   <elementGuidId>530b57b1-6aef-4458-8bcb-0beb118083ad</elementGuidId>
+   <elementGuidId>bf068b18-fc96-4f89-9ec1-3e15ae42c99a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//kendo-dropdownlist[@class='k-widget k-dropdown ng-untouched ng-pristine ng-invalid']</value>
+         <value>(//div[contains(text(),'Automation Role')])[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

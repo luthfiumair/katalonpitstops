@@ -47,13 +47,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e310580c-332c-4bcc-a5f7-b64eb24b4db9</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Role Management/Edit Role (User)/Deselect Location</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>c2b01d90-a341-40e2-a2b9-97c229b5210f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

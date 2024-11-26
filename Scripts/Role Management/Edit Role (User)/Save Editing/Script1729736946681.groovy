@@ -18,5 +18,5 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Object Repository/Page_PITSTOPS/button_Save 2 (Edit User)'))
-
+WebUI.delay(2)
 WebUI.click(findTestObject('Page_PITSTOPS/button_Confirm (Edit User)'))

@@ -4,5 +4,6 @@
    <name>Find User</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>82314357-1582-4d11-8d0f-304698a01bc7</testCaseGuid>
 </TestCaseEntity>

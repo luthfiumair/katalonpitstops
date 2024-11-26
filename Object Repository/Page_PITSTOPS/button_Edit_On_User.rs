@@ -6,15 +6,16 @@
    <elementGuidId>891ebf38-373f-4bf5-811d-d9da6123f26b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/app-root/app-admin-layout/div[2]/div[2]/div/div/div/app-create-user/div/div/app-self-registration/div/div/div/div/form/div[3]/div/button[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.k-button.k-primary.btn-edit.ng-star-inserted</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[normalize-space()='Edit']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fe6ec210-8031-4a24-bec8-e9bc5c13900c</webElementGuid>
+      <webElementGuid>2ae8a70b-b2b5-4a15-8b9f-9787fe1f0301</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-button k-primary btn-edit ng-star-inserted</value>
-      <webElementGuid>7addd802-afa0-4ffe-8e34-6d523929b028</webElementGuid>
+      <webElementGuid>7a87458e-7657-486a-81a7-22d399e51f79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Edit </value>
-      <webElementGuid>e63736be-b735-4761-9cb5-e6360b7fd82a</webElementGuid>
+      <webElementGuid>473da854-7575-4ab7-9d08-b14a417c1b1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;project-detail&quot;)/div[@class=&quot;kd-custom absolute title-container&quot;]/app-role-loc-modal[1]/div[@class=&quot;bootstrap-wrapper&quot;]/div[@class=&quot;overlay-modal ng-star-inserted&quot;]/div[@class=&quot;modal-popup&quot;]/div[@class=&quot;actions&quot;]/button[@class=&quot;k-button k-primary btn-edit ng-star-inserted&quot;]</value>
-      <webElementGuid>e4a81d16-b5f7-4388-8d1b-2ddc0ab944cd</webElementGuid>
+      <webElementGuid>83781a28-2381-4872-9627-4d31e1734673</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='project-detail']/div[2]/app-role-loc-modal/div/div/div/div[3]/button[2]</value>
-      <webElementGuid>d1839087-b6d6-440b-a289-81e938df26c6</webElementGuid>
+      <webElementGuid>01c7b52c-2249-449d-8711-3a2279ebec9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::button[1]</value>
-      <webElementGuid>d8427c8b-fbc2-43fc-88f6-a610ea2996af</webElementGuid>
+      <webElementGuid>a0bce401-6136-44a2-ab9c-a9f686f20e17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='UTY INSTRUMENT AIR SYSTEM'])[1]/following::button[2]</value>
-      <webElementGuid>4a27300c-12d6-4409-81ca-e8648fee1bbc</webElementGuid>
+      <webElementGuid>16b96364-c913-49d1-9e8f-00df29ed3300</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Planning Module'])[1]/preceding::button[1]</value>
-      <webElementGuid>37115efd-0548-454a-bfb6-0a2b52997d14</webElementGuid>
+      <webElementGuid>dd21aa72-45ae-419e-82bb-34db8fe94380</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Execution Module'])[2]/preceding::button[1]</value>
-      <webElementGuid>89bfc68c-0bdd-4fc7-8b77-457b29bf0fbe</webElementGuid>
+      <webElementGuid>224f7923-63b8-4da9-8b0b-2463989e2cc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
-      <webElementGuid>dbf6671e-3b5d-4153-abd9-93b5aee01de9</webElementGuid>
+      <webElementGuid>5679c6d4-b481-4633-ba4d-60cde67891b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>10f96398-b2aa-4a6e-b205-4121f0cd9db5</webElementGuid>
+      <webElementGuid>f1ac209d-752c-4013-bd3c-915775f325d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Edit ' or . = ' Edit ')]</value>
-      <webElementGuid>58b20c95-facf-4e19-905d-6d0d166ff03f</webElementGuid>
+      <webElementGuid>77a77a3e-cf3e-422d-ab44-fef0aed4ec48</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
